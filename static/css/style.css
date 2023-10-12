@@ -1,0 +1,104 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #252F3E;
+    margin: 10;
+    padding: 10;
+    color: white;
+}
+
+.flex {
+    display: flex;
+}
+
+.h-97vh {
+    height: 97vh;
+}
+
+.w-full {
+    width: 80%;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.rounded-xl {
+    border-radius: 1rem;
+}
+
+#chat-input {
+    resize: none;
+}
+
+/* New Styles to position chatbox at the bottom */
+form.w-full {
+    position: absolute;
+    bottom: 0;
+    left: 15%;
+    right: 0;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Container style for chat */
+.chat-container {
+    position: relative;
+    display: flex;  /* added for horizontal alignment */
+    justify-content: center;  /* added for horizontal alignment */
+}
+
+/* Styling for the chat-input */
+.chat-input {
+    resize: none;
+    border: none;
+    background-color: #e6e6e6;
+    padding: 10px 50px;
+    width: 100%;
+    height: 50px;
+    border-radius: 1rem;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1); /* Added shadow here */
+}
+
+/* Styling for the voice button */
+.voice-button {
+    position: absolute;
+    top: 50%;
+    left: 5px;
+    transform: translateY(-50%);
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.voice-button svg {  /* Adjusting the size of the SVG */
+    height: 3rem;
+    width: 3rem;
+}
+
+/* Styling for the send button */
+.submit-button {
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    background-color: #007BFF;
+    border: none;
+    color: white;
+    border-radius: .5rem;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+/* Style for messages */
+.message {
+    margin: 10px 0;
+    padding: 8px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    text-align: left;  /* Left-aligns the text within the message box */
+    width: 93.5%;
+    margin-left: 15%;
+}
