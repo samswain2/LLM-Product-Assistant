@@ -12,8 +12,7 @@ from langchain.chat_models import ChatOpenAI
 
 ### TESTING
 
-import tkinter as tk
-from tkinter import ttk, scrolledtext
+from flask import Flask, render_template, request, jsonify
 
 ### TESTING
 
@@ -68,39 +67,17 @@ def get_assistant_response(user_query):
     """
     return assistant.run(user_query)
 
-def append_to_chat_history(message):
-    chat_history.config(state=tk.NORMAL)
-    chat_history.insert(tk.END, message + "\n")
-    chat_history.config(state=tk.DISABLED)
-    chat_history.yview(tk.END)
+app = Flask(__name__)
 
-def submit_query():
-    user_query = user_input.get()
-    append_to_chat_history("You: " + user_query)
-    response = get_assistant_response(user_query)
-    append_to_chat_history("Assistant: " + response)
-    user_input.delete(0, tk.END)
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    if request.method == 'POST':
+        user_query = request.get_json().get('query')
+        response = get_assistant_response(user_query)
+        return jsonify(response=response)
+    return render_template('index.html')
 
-
-# Tkinter setup
-root = tk.Tk()
-root.title("ChatGPT Assistant")
-root.geometry("400x500")  # Set a default window size
-
-frame = ttk.Frame(root, padding="10")
-frame.pack(fill=tk.BOTH, expand=True)
-
-# Create a scrolled text widget for chat history
-chat_history = scrolledtext.ScrolledText(frame, wrap=tk.WORD, height=15, font=("Arial", 12))
-chat_history.grid(row=0, column=0, columnspan=2, sticky=(tk.W, tk.E, tk.N, tk.S))
-chat_history.config(state=tk.DISABLED)  # By default, the chat history is not editable
-
-user_input = ttk.Entry(frame, width=40, font=("Arial", 12))
-user_input.grid(row=1, column=0, sticky=(tk.W, tk.E), pady=10)
-
-submit_button = tk.Button(frame, text="Submit", command=submit_query, font=("Arial", 12))
-submit_button.grid(row=1, column=1, sticky=tk.W, padx=5)
-
-root.mainloop()
+if __name__ == "__main__":
+    app.run(debug=True)
 
 ### TESTING
