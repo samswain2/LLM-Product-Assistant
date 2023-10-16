@@ -1,0 +1,437 @@
+Languages
+ 
+English
+iPad mini (5th generation) - Technical Specifications
+Finish
+Space Gray
+Silver
+Gold
+Capacity
+64GB
+256GB
+Size and Weight
+Wi-Fi models
+Height: 8.0 inches (203.2 mm)
+Width: 5.3 inches (134.8 mm)
+Depth: 0.24 inch (6.1 mm)
+Weight: 0.66 pound (300.5 grams)
+Wi-Fi + Cellular models
+Height: 8.0 inches (203.2 mm)
+Width: 5.3 inches (134.8 mm)
+Depth: 0.24 inch (6.1 mm)
+Weight: 0.68 pound (308.2 grams)
+Buttons and Connectors
+3.5 mm headphone jack
+Stereo speakers
+On/Off - Sleep/Wake
+Home/Touch ID sensor
+Dual microphones
+Volume up/down
+Nano-SIM tray (cellular models)
+Lightning connector
+In the Box
+iPad mini
+Lightning to USB Cable
+USB Power Adapter
+Display
+Retina display
+7.9-inch (diagonal) LED-backlit Multi-Touch display
+2048-by-1536 resolution at 326 pixels per inch (ppi)
+Wide color display (P3)
+True Tone display
+Fingerprint-resistant oleophobic coating
+Fully laminated display
+Antireflective coating
+1.8% reflectivity
+500 nits brightness
+Supports Apple Pencil (1st generation)
+1
+2
+Chip
+A12 Bionic chip with 64
+‑
+bit architecture
+Neural Engine
+Camera
+8-megapixel camera
+ƒ/2.4 aperture
+Five-element lens
+Hybrid IR filter
+Backside illumination
+Live Photos
+Wide color capture for photos and Live Photos
+Autofocus
+Panorama (up to 43 megapixels)
+HDR for photos
+Exposure control
+Burst mode
+Tap to focus
+Timer mode
+Auto image stabilization
+Photo geotagging
+Video Recording
+1080p HD video recording
+Slo
+‑
+mo (240 fps)
+Time
+‑
+lapse video with stabilization
+Video image stabilization
+3x video zoom
+Video geotagging
+FaceTime HD Camera
+7-megapixel photos
+ƒ/2.2 aperture
+1080p HD video recording at 30 fps
+Retina Flash
+Wide color capture for photos and Live Photos
+Auto HDR for photos and videos
+Backside illumination
+Burst mode
+Exposure control
+Timer mode
+Video Calling
+FaceTime video
+iPad to any FaceTime-enabled device over Wi
+‑
+Fi or cellular
+Audio Calling
+FaceTime audio
+iPad to any FaceTime-enabled device over Wi
+‑
+Fi or cellular
+Speakers
+Stereo speakers
+Microphones
+Dual microphones for calls, video recording, and audio recording
+Cellular and Wireless
+All models
+Wi-Fi (802.11a/b/g/n/ac); simultaneous dual band (2.4GHz and 5GHz); HT80 with MIMO
+Bluetooth 5.0 technology
+Wi-Fi + Cellular models
+UMTS/HSPA/HSPA+/DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz); GSM/EDGE (850, 900, 1800, 1900 MHz)
+Gigabit-class LTE (Bands 1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 29, 30, 34, 38, 39, 40, 41, 46, 66,
+71)
+Data only
+Wi-Fi calling
+3
+3
+4
+5
+4
+6eSIM
+Learn more about cellular data
+For details on LTE support, contact your carrier and see 
+apple.com/ipad/cellular/networks
+.
+SIM Card
+Nano
+‑
+SIM (supports Apple SIM
+)
+eSIM
+Location
+All models
+Digital compass
+Wi-Fi
+iBeacon microlocation
+Wi-Fi 
++ Cellular models
+Built
+‑
+in GPS/GNSS
+Cellular
+Sensors
+Touch ID
+Three-axis gyro
+Accelerometer
+Barometer
+Ambient light sensor
+Touch ID
+Unlock iPad
+Secure personal data within apps
+Make purchases from the iTunes Store, the App Store, and Apple Books
+Apple Pay
+Pay with your iPad using Touch ID within apps and on the web
+Send and receive money in Messages
+Learn more about Apple Pay
+Siri
+Use your voice to send messages, set reminders, and more
+Use your iPad hands-free
+Listen and identify songs
+Learn more about Siri
+Power and Battery
+All models
+Built-in 19.1-watt-hour rechargeable lithium-polymer battery
+Up to 10 hours of surng the web on Wi
+‑
+Fi, watching video, or listening to music
+Charging via power adapter or USB to computer system
+Wi-Fi + Cellular models
+Up to 9 hours of surng the web using cellular data network
+Operating System
+iPadOS 14
+iPadOS comes with powerful features and built-in apps designed to take advantage of the unique capabilities of iPad.
+See what’s new in iPadOS 14
+Accessibility
+Accessibility features help people with disabilities get the most out of their new iPad mini. With built-in support for vision,
+hearing, physical and motor skills, and learning and literacy, you can create and do amazing things. 
+Learn more
+about Accessibility
+Features include:
+Voice Control
+VoiceOver
+Zoom
+Magnifier
+6
+6
+6
+7
+8Siri and Dictation
+Switch Control
+Closed Captions
+AssistiveTouch
+Speak Screen
+Built-in Apps
+App Store
+Books
+Calendar
+Camera
+Clock
+Contacts
+FaceTime
+Files
+Find My
+Home
+iTunes Store
+Mail
+Maps
+Measure
+Messages
+Music
+News
+Notes
+Photo Booth
+Photos
+Podcasts
+Reminders
+Safari
+Settings
+Shortcuts
+Siri
+Stocks
+Tips
+TV
+Voice Memos
+Free Apps from Apple
+Pages, Numbers, Keynote, iMovie, GarageBand, Clips, and Apple Store app are preinstalled on iPad.
+Pages
+Numbers
+Keynote
+iMovie
+GarageBand
+Apple Store
+Trailers
+Music Memos
+Clips
+Swift Playgrounds
+Support
+System Requirements
+Apple ID (required for some features)
+Internet access
+Syncing to a Mac or PC requires:
+macOS Catalina 10.15 or later using the Finder
+macOS El Capitan 10.11.6 through macOS Mojave 10.14.6 using iTunes 12.8 or later
+Windows 7 or later using iTunes 12.10 or later (free download from 
+itunes.com/download
+)
+Languages
+Language support
+English (Australia, UK, U.S.), Chinese (Simplified, Traditional, Traditional Hong Kong), French (Canada, France),
+German, Italian, Japanese, Korean, Spanish (Latin America, Mexico, Spain), Arabic, Catalan, Croatian, Czech, Danish,
+Dutch, Finnish, Greek, Hebrew, Hindi, Hungarian, Indonesian, Malay, Norwegian, Polish, Portuguese (Brazil, Portugal),
+9Romanian, Russian, Slovak, Swedish, Thai, Turkish, Ukrainian, Vietnamese
+QuickType keyboard support
+English (Australia, Canada, India, Singapore, UK, U.S.), Chinese - Simplified (Handwriting, Pinyin QWERTY, Pinyin 10
+Key, Shuangpin, Stroke), Chinese - Traditional (Cangjie, Handwriting, Pinyin QWERTY, Pinyin 10 Key, Shuangpin,
+Stroke, Sucheng, Zhuyin), French (Belgium, Canada, France, Switzerland), German (Austria, Germany, Switzerland),
+Italian, Japanese (Kana, Romaji), Korean (2-Set, 10 Key), Spanish (Latin America, Mexico, Spain), Albanian, Arabic
+(Modern Standard, Najdi), Armenian, Assamese, Azerbaijani, Bangla, Belarusian, Bodo, Bulgarian, Burmese, Cantonese
+- Traditional (Cangjie, Handwriting, Stroke, Sucheng), Catalan, Cherokee, Croatian, Czech, Danish, Dhivehi, Dogri,
+Dutch, Emoji, Estonian, Faroese, Filipino, Finnish, Flemish, Georgian, Greek, Gujarati, Hawaiian, Hebrew, Hindi
+(Devanagari, Latin, Transliteration), Hungarian, Icelandic, Indonesian, Irish Gaelic, Kannada, Kashmiri (Arabic,
+Devanagari), Kazakh, Khmer, Konkani (Devanagari), Kurdish (Arabic, Latin), Kyrgyz, Lao, Latvian, Lithuanian,
+Macedonian, Maithili, Malay (Arabic, Latin), Malayalam, Maltese, Manipuri (Bangla, Meetei Mayek), Maori, Marathi,
+Mongolian, Nepali, Norwegian (Bokmål, Nynorsk), Odia, Pashto, Persian, Persian (Afghanistan), Polish, Portuguese
+(Brazil, Portugal), Punjabi, Romanian, Russian, Sanskrit, Santali (Devanagari, Ol Chiki), Serbian (Cyrillic, Latin), Sindhi
+(Arabic, Devanagari), Sinhala, Slovak, Slovenian, Swahili, Swedish, Tajik, Tamil (Anjal, Tamil 99), Telugu, Thai, Tibetan,
+Tongan, Turkish, Turkmen, Ukrainian, Urdu, Uyghur, Uzbek (Arabic, Cyrillic, Latin), Vietnamese, Welsh
+QuickType keyboard support with autocorrection
+Arabic (Modern Standard), Arabic (Najdi), Bangla, Bulgarian, Catalan, Cherokee, Chinese - Simplified (Pinyin QWERTY),
+Chinese - Traditional (Pinyin QWERTY), Chinese - Traditional (Zhuyin), Croatian, Czech, Danish, Dutch, English
+(Australia), English (Canada), English (India), English (Japan), English (Singapore), English (UK), English (U.S.),
+Estonian, Filipino, Finnish, Dutch (Belgium), French (Belgium), French (Canada), French (France), French (Switzerland),
+German (Austria), German (Germany), German (Switzerland), Greek, Gujarati, Hawaiian, Hebrew, Hindi (Devanagari),
+Hindi (Transliteration), Hungarian, Icelandic, Indonesian, Irish Gaelic, Italian, Japanese (Kana), Japanese (Romaji),
+Korean (2-set), Latvian, Lithuanian, Macedonian, Malay, Marathi, Norwegian (Bokmål), Norwegian (Nynorsk), Persian,
+Persian (Afghanistan), Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi, Romanian, Russian, Serbian (Cyrillic),
+Serbian (Latin), Slovak, Slovenian, Spanish (Latin America), Spanish (Mexico), Spanish (Spain), Swedish, Tamil (Anjal),
+Tamil (Tamil 99), Telugu, Thai, Turkish, Ukrainian, Urdu, Vietnamese
+QuickType keyboard support with predictive input
+English (Australia, Canada, India, Singapore, UK, U.S.), Chinese (Simplified, Traditional), French (Belgium, Canada,
+France, Switzerland), German (Austria, Germany, Switzerland), Italian, Japanese, Korean, Spanish (Latin America,
+Mexico, Spain), Arabic (Modern Standard, Najdi), Cantonese (Traditional), Dutch, Hindi (Devanagari, Latin), Portuguese
+(Brazil, Portugal), Russian, Swedish, Thai, Turkish, Vietnamese
+QuickType keyboard support with multilingual input
+English (U.S.), English (Australia), English (Canada), English (India), English (Singapore), English (UK), Chinese -
+Simplified (Pinyin), Chinese - Traditional (Pinyin), French (France), French (Belgium), French (Canada), French
+(Switzerland), German (Germany), German (Austria), German (Switzerland), Italian, Japanese (Romaji), Portuguese
+(Brazil), Portuguese (Portugal), Spanish (Spain), Spanish (Latin America), Spanish (Mexico), Dutch (Belgium), Dutch
+(Netherlands), Hindi (Latin)
+QuickType keyboard support with contextual suggestions
+English (U.S.), English (Australia), English (Canada), English (India), English (Singapore), English (UK), Chinese
+(Simplified), French (Belgium), French (Canada), French (France), French (Switzerland), German (Austria), German
+(Germany), German (Switzerland), Italian, Spanish (Latin America), Spanish (Mexico), Spanish (Spain), Arabic (Modern
+Standard), Arabic (Najdi), Dutch (Belgium), Dutch (Netherlands), Hindi (Devanagari), Hindi (Latin), Russian, Swedish,
+Portuguese (Brazil), Turkish, Vietnamese
+Siri languages
+English (Australia, Canada, India, Ireland, New Zealand, Singapore, South Africa, UK, U.S.), Spanish (Chile, Mexico,
+Spain, U.S.), French (Belgium, Canada, France, Switzerland), German (Austria, Germany, Switzerland), Italian (Italy,
+Switzerland), Japanese (Japan), Korean (Republic of Korea), Mandarin Chinese (China mainland, Taiwan), Cantonese
+(China mainland, Hong Kong), Arabic (Saudi Arabia, United Arab Emirates), Danish (Denmark), Dutch (Belgium,
+Netherlands), Finnish (Finland), Hebrew (Israel), Malay (Malaysia), Norwegian (Norway), Portuguese (Brazil), Russian
+(Russia), Swedish (Sweden), Thai (Thailand), Turkish (
+Türkiye
+)
+Dictation languages
+English (Australia, Canada, India, Indonesia, Ireland, Malaysia, New Zealand, Philippines, Saudi Arabia, Singapore,
+South Africa, United Arab Emirates, UK, U.S.), Spanish (Argentina, Chile, Colombia, Costa Rica, Dominican Republic,
+Ecuador, El Salvador, Guatemala, Honduras, Mexico, Panama, Paraguay, Peru, Spain, Uruguay, U.S.), French (Belgium,
+Canada, France, Luxembourg, Switzerland), German (Austria, Germany, Luxembourg, Switzerland), Italian (Italy,
+Switzerland), Japanese, Korean, Mandarin (China mainland, Taiwan), Cantonese (China mainland, Hong Kong, Macao),
+Arabic (Kuwait, Qatar, Saudi Arabia, United Arab Emirates), Catalan, Croatian, Czech, Danish, Dutch (Belgium,
+Netherlands), Finnish, Greek, Hebrew, Hindi (India), Hungarian, Indonesian, Malaysian, Norwegian, Polish, Portuguese
+(Brazil, Portugal), Romanian, Russian, Shanghainese (China mainland), Slovak, Swedish, Thai, Turkish, Ukrainian,
+Vietnamese
+Definition dictionary support
+English (UK, U.S.), Chinese (Simplified, Traditional), Danish, Dutch, French, German, Hebrew, Hindi, Italian, Japanese,
+Korean, Norwegian, Portuguese, Russian, Spanish, Swedish, Thai, TurkishBilingual dictionary support
+Arabic – English, Chinese (Simplified) – English, Chinese (Traditional) – English, Dutch – English, French – English,
+French – German, German – English, Hindi – English, Indonesian – English, Italian – English, Japanese – English,
+Japanese – Chinese (Simplified), Korean – English, Polish – English, Portuguese – English, Russian – English, Spanish
+– English, Thai – English, Vietnamese – English
+Thesaurus
+English (UK, U.S.)
+Spell check
+English, French, German, Italian, Spanish, Arabic, Arabic Najdi, Danish, Dutch, Finnish, Korean, Norwegian, Polish,
+Portuguese, Russian, Swedish, Turkish
+Apple Pay supported regions
+Australia, Austria, Belarus, Belgium, Brazil, Bulgaria, Canada, China mainland,
+ Croatia, Cyprus, Czech Republic,
+Denmark, Estonia, Faroe Islands, Finland, France, Georgia, Germany, Greece, Greenland, Guernsey, Hong Kong,
+Hungary, Iceland, Ireland, Isle of Man, Italy, Japan, Jersey, Kazakhstan, Latvia, Liechtenstein, Lithuania, Luxembourg,
+Macao, Malta, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, San Marino, Saudi Arabia,
+Serbia, Singapore, Slovakia, Slovenia, Spain, Sweden, Switzerland, Taiwan, UK, Ukraine, United Arab Emirates, U.S.,
+Vatican City
+Audio Playback
+Audio formats supported: AAC (8 to 320 Kbps), Protected AAC (from iTunes Store), HE-AAC, MP3 (8 to 320 Kbps), MP3
+VBR, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and
+AAX+), Apple Lossless, AIFF, and WAV
+User-congurable maximum volume limit
+TV and Video
+AirPlay Mirroring, photos, audio, and video out to Apple TV (2nd generation or later)
+Video mirroring and video out support: Up to 1080p through Lightning Digital AV Adapter and Lightning to VGA Adapter
+(adapters sold separately)
+Video formats supported: H.264 video up to 4K, 30 frames per second, High Profile level 4.2 with AAC
+‑
+LC audio up to
+160 Kbps, 48kHz, stereo audio or Dolby Audio up to 1008 Kbps, 48kHz, stereo or multichannel audio, in .m4v, .mp4, and
+.mov file formats; MPEG
+‑
+4 video up to 2.5 Mbps, 640 by 480 pixels, 30 frames per second, Simple Profile with AAC
+‑
+LC
+audio up to 160 Kbps per channel, 48kHz, stereo audio or Dolby Audio up to 1008 Kbps, 48kHz, stereo or multichannel
+audio, in .m4v, .mp4, and .mov file formats; Motion JPEG (M
+‑
+JPEG) up to 35 Mbps, 1280 by 720 pixels, 30 frames per
+second, audio in ulaw, PCM stereo audio in .avi file format
+Mail Attachment Support
+Viewable document types
+.jpg, .tiff, .gif (images); .doc and .docx (Microsoft Word); .htm and .html (web pages); .key (Keynote); .numbers
+(Numbers); .pages (Pages); .pdf (Preview and Adobe Acrobat); .ppt and .pptx (Microsoft PowerPoint); .txt (text); .rtf (rich
+text format); .vcf (contact information); .xls and .xlsx (Microsoft Excel); .zip; .ics
+Environmental Requirements
+Operating ambient temperature: 32° to 95° F (0° to 35° C)
+Nonoperating temperature: –4° to 113° F (–20° to 45° C)
+Relative humidity: 5% to 95% noncondensing
+Operating altitude: tested up to 10,000 feet (3000 m)
+1
+. 
+Available space is less and varies due to many factors. A standard configuration uses approximately 10GB to 13GB of
+space (including iPadOS and preinstalled apps) depending on the model and settings. Preinstalled apps use about 4GB,
+and you can delete these apps and restore them. Storage capacity subject to change based on software version and may
+vary by device.
+2
+. 
+Size and weight vary by conguration and manufacturing process.
+3
+. 
+FaceTime calling requires a FaceTime-enabled device for the caller and recipient and a Wi
+‑
+Fi connection. Availability
+over a cellular network depends on carrier policies; data charges may apply.
+4
+. 
+Data plan required. Gigabit-class LTE and Wi-Fi calling are available in select markets and through select carriers.
+Speeds are based on theoretical throughput and vary based on site conditions and carrier. For details on LTE support,
+contact your carrier and see 
+apple.com/ipad/cellular/networks
+.
+5
+. 
+Cellular data plan is sold separately. The model you purchase is congured to work with a particular cellular network
+technology. Check with your carrier for compatibility and cellular data plan availability.
+6
+. 
+Not all carriers support Apple SIM and eSIM. See your carrier for details. Not available in China mainland.
+7
+. 
+Siri may not be available in all languages or in all areas, and features may vary by area. Internet access required. Cellular
+data charges may apply.
+8
+. 
+Testing conducted by Apple in February 2019 using preproduction iPad mini (5th generation) units and software. Testing
+consisted of full battery discharge while performing each of the following tasks: video playback, audio playback, and
+Internet browsing using Wi
+‑
+Fi or cellular data network. Video content was a repeated 2-hour 23-minute movie purchased
+10from the iTunes Store. Audio content was a playlist of 358 unique audio tracks purchased from the iTunes Store. Internet
+over Wi
+‑
+Fi and cellular data network tests were conducted using dedicated web and mail servers, browsing snapshot
+versions of 20 popular web pages, and receiving mail once an hour. All settings were default except: Wi
+‑
+Fi was
+associated with a network (except for Internet browsing over cellular data network); the Wi
+‑
+Fi feature Ask to Join
+Networks and Auto-Brightness were turned off; Brightness was set to 50%; and WPA2 encryption was enabled. Battery
+life depends on device settings, usage, and many other factors. Battery tests are conducted using specific iPad units;
+actual results may vary.
+9
+. 
+Wireless broadband recommended; fees may apply.
+Published Date: May 10, 2023
+Support
+
+Copyright © 
+2023 Apple Inc. All rights reserved.
+Privacy Policy
+ 
+Terms of Use
+ 
+Sales and Refunds
+ 
+Site Map
