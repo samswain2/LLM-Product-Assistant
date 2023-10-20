@@ -1,42 +1,65 @@
-# LLM-Product-Assistant
+# LLM-Product-Assistant: Your Intelligent Product Guide
 
-## Description
+## Overview
 
-LLM-Product-Assistant is a Q&A system designed to assist end users with questions about the functionalities of a product. The system is capable of holding a role-based conversation, catering the dialogue to the user's expertise level (e.g., teenager vs mechanical engineer).
+The LLM-Product-Assistant is an interactive Q&A system designed to help users understand and navigate the functionalities of a particular product. It features role-based conversations, adapting the dialogue to fit the user's level of expertise, be it a teenager or a mechanical engineer.
 
 ## Table of Contents
 
-1. [Technologies Used](#technologies-used)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Team Members](#team-members)
+1. [Key Features](#key-features)
+2. [Technologies Deployed](#technologies-deployed)
+3. [Installation & Setup](#installation--setup)
+4. [Usage](#usage)
+5. [Contributors](#contributors)
 
-## Technologies Used
+## Key Features
 
-- Amazon Titan for text summarization
-- Claude for Q&A
-- AI21labs for the multilingual aspect
-- Speech-to-text AWS model to convert speech from videos to text
+- Role-Based Conversations: Tailored dialogues based on the user's expertise.
+- Multilingual Support: Accessibility across language barriers.
 
-## Installation
+## Technologies Deployed
 
-py version: 310
+- **Amazon Titan**: For text summarization.
+- **Claude**: Handling the Q&A functionality.
+- **AI21Labs**: For multilingual capabilities.
+- **AWS Speech-to-Text**: Converts spoken content from videos to text.
 
-```
-git clone <repository-link>
-cd LLM-Product-Assistant
-pip install -r requirements.txt
-```
+## Installation & Setup
 
-## Usage
+### Prerequisites
 
-```
-python main.py --product <product-name> --role <user-role>
-```
+- Python version: 3.10.7
+- Obtain the required API keys from a team member.
 
-## Team Members
+### Steps
 
-- Sam Swain
-- Donald Li
-- Brian Hong
-- Wencheng Zhang
+1. **Clone the Repository:**
+    ```bash
+    git clone <repository-link>
+    cd LLM-Product-Assistant
+    ```
+
+2. **Navigate to the Main Folder:**
+    ```bash
+    cd path/to/main/folder
+    ```
+
+3. **Build the Docker Image:**
+    ```bash
+    docker build -t chatbot -f 07_Docker/Dockerfile .
+    ```
+
+4. **Run the Docker Container:**
+    ```bash
+    docker run -p 5000:5000 chatbot
+    ```
+
+5. **Access the Application:**
+    Click on the link that appears in the console to start interacting with the chatbot.
+
+## Contributors
+
+- **Sam Swain**: Project Lead
+- **Donald Li**: Backend Developer
+- **Brian Hong**: AI Specialist
+- **Wencheng Zhang**: Frontend Developer
