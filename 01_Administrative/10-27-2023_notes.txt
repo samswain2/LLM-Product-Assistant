@@ -1,0 +1,9 @@
+Demo date Dec 8th is ok.
+Try all searches. He thinks diversity could be useful
+Try to come up with how complex the query is based on the prompt. You can do NLP techniques.
+If we have too many documents. We might have to summarize them.
+Break the question down into a simpler set of prompts.
+Keep early chunks. 12345, 12367, 12389?
+Fine tune with Laura or REG. Not interchangeable. They are complementary. If one has external data we should use REG else we should do find tuning. If we have additional text info, fine tune. If we have info that's not naturally text, we should use REG.
+Have text in either case. Whenever you have data that's not naturally text. One case, we only have text data (natural text data) we use fine tuning. Suppose we have half and half, we use REG. This was the design. How do we integrate csv data into LLMs. This is where REG came from.
+Argument; our text has a lot of numbers. Then one can argue this is similar to csv. Justification for using both (REG and finetuning). Shouldn't be used on the same data. Data that doesn't have a lot of technical info, fine tuning. REG would be for the API function documentation.
