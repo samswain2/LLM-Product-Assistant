@@ -1,0 +1,1 @@
+GoDaddy Add a TXT record Dreamhost Adding custom DNS records Cloudflare Manage DNS records HostGator Manage DNS Records with HostGator/eNom Namecheap How do I add TXT/SPF/DKIM/DMARC records for my domain? Names.co.uk

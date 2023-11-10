@@ -1,0 +1,1 @@
+ImportantIt can take up to one week for the BYOIP CIDR to be provisioned.If you chose Amazon owned, under Netmask length choose a netmask length from /40 to /52. Default is /52.

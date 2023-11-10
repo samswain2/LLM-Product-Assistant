@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCIP Address ManagerDelete a poolFollow the steps in this section to delete an IPAM pool.ImportantYou cannot delete an IP address pool if there are allocations in it. You must first release the allocations and Deprovision CIDRs from a pool before you can delete the pool.

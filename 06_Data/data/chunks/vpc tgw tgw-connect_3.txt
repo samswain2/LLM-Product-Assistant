@@ -1,0 +1,1 @@
+configured multiple Connect peers to support high availability on the appliance side, we recommend that you configure both the BGP peering sessions on each of your Connect peers.

@@ -1,0 +1,1 @@
+conditions — An array composed of one of the four following types: type where the value is any — This matches any request. For example, you could use any if you're only using one segment that everything should map to. Or, you could use this as a fallback segment if you want all attachments that don't match a rule to map to a known segment. type where

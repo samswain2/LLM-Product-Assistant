@@ -1,0 +1,1 @@
+Locale: The locale that will be required for resources that use CIDRs from this pool. Automatically imported resources that do not have this locale will be marked noncompliant. Resources that are not automatically imported into the pool will not be allowed to allocate space from the pool unless they are in this locale.

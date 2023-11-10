@@ -1,0 +1,1 @@
+Use private subnets for your instances if they should not be accessed directly from the internet. Use a bastion host or NAT gateway for internet access from instances in private subnets.Configure subnet route tables with the minimum network routes to support your connectivity requirements.

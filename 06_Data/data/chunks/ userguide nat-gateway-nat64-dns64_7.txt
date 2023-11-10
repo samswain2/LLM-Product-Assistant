@@ -1,0 +1,1 @@
+aws ec2 create-route --route-table-id rtb-34056078 –-destination-ipv6-cidr-block::/0 --egress-only-internet-gateway-id eigw-c0a643a9

@@ -1,0 +1,1 @@
+BytesDropCountBlackhole The number of bytes dropped because they matched a blackhole route on the transit gateway attachment. BytesDropCountNoRoute The number of bytes dropped because they did not match a route on the transit gateway attachment. BytesIn The number of bytes received by the transit gateway from the attachment. BytesOut

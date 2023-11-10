@@ -1,0 +1,1 @@
+This documentation provides information about the CoreNetworkChangeEvent in AWS Global Networks for Transit Gateways. It describes the attributes of a core network change event, including the action taken, event time, identifier path, status, type, and values. The documentation also includes links to language-specific AWS SDKs for further information.

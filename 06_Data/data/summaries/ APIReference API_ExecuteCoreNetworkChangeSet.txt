@@ -1,0 +1,1 @@
+This documentation is about the AWS Global Networks for Transit Gateways API, specifically the "ExecuteCoreNetworkChangeSet" action. It provides information on the request syntax, URI request parameters, request body, response syntax, response elements, and possible errors. It also includes links to additional resources for using the API in different programming languages.

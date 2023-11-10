@@ -1,0 +1,1 @@
+Az , Service Id Load Balancer Arn , Service Id Az , Load Balancer Arn , Service Id Service Id , VPC Endpoint Id BytesProcessed The number of bytes exchanged between endpoint services and endpoints, in both directions. Reporting criteria : An endpoint connected to the endpoint service sent traffic during the one-minute period. Statistics : The most useful

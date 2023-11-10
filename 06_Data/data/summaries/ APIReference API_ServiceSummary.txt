@@ -1,0 +1,1 @@
+This is a summary of the documentation for the Amazon VPC Lattice service in AWS. It provides information about the service, including its ARN, creation date, custom domain name, DNS information, ID, last update date, name, and status. The documentation also includes links to the AWS SDKs for different programming languages.

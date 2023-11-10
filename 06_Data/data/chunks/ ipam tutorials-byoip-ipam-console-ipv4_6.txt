@@ -1,0 +1,1 @@
+pool. You’ll add the locale to the Regional pool when you create the Regional pool in a later step. NoteIf you are creating a single pool only and not a top-level pool with Regional pools within it, you would want to choose a Locale for this pool so that the pool is available for allocations.

@@ -1,0 +1,1 @@
+Yes No No AWS Glue No No No Yes AWS IoT Yes Yes No No AWS Lake Formation No No No Yes AWS Lambda Yes No Yes No Amazon Lightsail Yes No

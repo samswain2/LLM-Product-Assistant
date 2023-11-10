@@ -1,0 +1,1 @@
+172.31.0.0/24 Attachment ID for VPN connection propagated 10.0.0.0/16 Attachment ID for peering connection static 10.2.0.0/16 Attachment ID for peering connection staticCustomer gateway BGP tableThe customer gateway BGP table contains the following VPC CIDRs.10.0.0.0/1610.2.0.0/16

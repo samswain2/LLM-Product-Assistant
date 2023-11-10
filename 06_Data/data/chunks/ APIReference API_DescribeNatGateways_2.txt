@@ -1,0 +1,1 @@
+tag-key - The key of a tag assigned to the resource. Use this filter to find all resources assigned a tag with a specific key, regardless of the tag value. vpc-id - The ID of the VPC in which the NAT gateway resides. Type: Array of Filter objects Required: No

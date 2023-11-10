@@ -1,0 +1,1 @@
+The AWS Cloud WAN User Guide provides an overview of AWS Network Manager, a service that allows users to visualize and monitor their global network. The guide covers topics such as sharing, topology graph, topology tree, logical representation, routes, events, and monitoring. It also provides instructions on how to access and use the various features of AWS Network Manager.

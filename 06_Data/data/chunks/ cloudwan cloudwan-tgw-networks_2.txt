@@ -1,0 +1,1 @@
+Sites The total number of sites that are associated with your transit gateways. Choose the link to open the Sites page to view more information about your transit gateway sites. Devices

@@ -1,0 +1,1 @@
+This document provides information about using AWS Transit Gateway Flow Logs to publish flow log data to Amazon CloudWatch Logs. It explains the necessary IAM roles and permissions, the process of creating flow logs, and how to process flow log records in CloudWatch Logs. It also includes an example of creating a CloudWatch metric filter and alarm for a flow log.

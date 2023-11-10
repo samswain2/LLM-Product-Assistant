@@ -1,0 +1,1 @@
+You can view the allocation in IPAM by choosing Pools in the navigation pane, choosing a pool, and viewing the Allocations tab for the pool.

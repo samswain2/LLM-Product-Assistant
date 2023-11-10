@@ -1,0 +1,1 @@
+The AWS API reference for the "AuthorizeSecurityGroupEgress" action provides information on how to add outbound rules to a security group for use with a VPC. It explains the request parameters, response elements, errors, and provides examples. The documentation also includes links to related resources and SDKs for different programming languages.

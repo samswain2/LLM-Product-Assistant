@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCAWS Transit GatewayIAM roles for publishing flow logs to CloudWatch LogsPermissions for IAM users to pass a roleCreate a flow log that publishes to CloudWatch LogsProcess flow log records in CloudWatch LogsCreate a flow log that publishes to CloudWatch LogsFlow logs can publish flow log data directly to Amazon CloudWatch.

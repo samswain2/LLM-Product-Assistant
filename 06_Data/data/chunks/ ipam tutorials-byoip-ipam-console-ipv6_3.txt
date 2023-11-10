@@ -1,0 +1,1 @@
+Under Source pool, choose No source pool.Under Address family, choose IPv6. When you choose IPv6, a toggle option appears that enables you to control if AWS can to publicly advertise the CIDRs in this pool. Leave this option enabled.Ensure Allow CIDRs in this pool to be publicly advertisable is selected.

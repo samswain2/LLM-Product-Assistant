@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCUser GuideShared VPCs prerequisitesShare a subnetUnshare a shared subnetIdentify the owner of a shared subnetManage VPC resourcesResponsibilities and permissions for owners and participantsAWS resources and shared VPC subnetsVPC sharing quotasShare your VPC with other accounts

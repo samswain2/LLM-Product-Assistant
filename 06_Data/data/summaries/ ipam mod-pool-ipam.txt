@@ -1,0 +1,1 @@
+This document provides instructions on how to edit an IPAM pool in Amazon VPC. It explains the steps to follow in the IPAM console and also provides AWS CLI commands for editing a pool. It also mentions that Javascript must be enabled to use the AWS Documentation. Additionally, it mentions options to deprovision CIDRs from a pool and delete a pool.

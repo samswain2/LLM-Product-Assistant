@@ -1,0 +1,1 @@
+You can access an Elastic IP address from the internet when the security group and network ACL allow traffic from the source IP address. The reply traffic from within the VPC back to the internet requires an internet gateway. For more information, see Security groups and Network ACLs.

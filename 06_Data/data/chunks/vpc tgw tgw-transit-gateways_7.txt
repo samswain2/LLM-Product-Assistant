@@ -1,0 +1,1 @@
+For Default route table propagation, select this option to automatically propagate transit gateway attachments to the default route table for the transit gateway.(Optional) To use the transit gateway as a router for multicast traffic, select Multicast support.For Auto accept shared attachments, select this option to automatically accept cross-account attachments.

@@ -1,0 +1,1 @@
+IPAM operating in AWS Region 1 and AWS Region 2 Private scope Top-level IPAM pool Regional IPAM pool in AWS Region 2 Development pool Allocation for a VPC in AWS Region 2

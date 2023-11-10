@@ -1,0 +1,1 @@
+IPAM administrators per organization 1 No IPAMs per Region 1 No Scopes per IPAM 5 Yes . When you create an IPAM, a private and public default scope are created for you. If you want to create additional scopes, they will be private scopes. You cannot create additional public scopes. Pools per scope 50 Yes CIDRs per pool 50 Yes Pool depth (the number of pools within pools) 10 Yes

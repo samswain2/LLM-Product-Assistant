@@ -1,0 +1,1 @@
+1 — Through another resource in the same VPC, including resources that create a network interface in the VPC 2 — Through an internet gateway or a gateway VPC endpoint 3 — Through a virtual private gateway 4 — Through an intra-region VPC peering connection

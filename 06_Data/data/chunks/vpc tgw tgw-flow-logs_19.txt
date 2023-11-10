@@ -1,0 +1,1 @@
+the aggregation interval. This might be because of an internal capacity constraint, or an internal error. Parquet data type: STRING 2 type The type of traffic. Possible values are IPv4 | IPv6 | EFA. For more information, see Elastic Fabric Adapter in the Amazon EC2 User Guide for Linux Instances . Parquet data type: STRING 3

@@ -1,0 +1,1 @@
+The number of packets received by the transit gateway. PacketsOut The number of packets sent by the transit gateway. PacketDropCountBlackhole The number of packets dropped because they matched a blackhole route. PacketDropCountNoRoute The number of packets dropped because they did not match a route.

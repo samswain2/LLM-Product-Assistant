@@ -1,0 +1,1 @@
+Number of VPN attachments per core network 50 No Number of Connect peers per Connect attachment 4 No Number of Connect peers per tunnel-less Connect attachment 4 No Number of devices per global network 200 Yes Number of sites per global network 200 Yes Number of links per global network 200 Yes

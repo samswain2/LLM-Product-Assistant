@@ -1,0 +1,1 @@
+Transit gateway route table—A route table that's associated with a transit gateway. For more information, see Transit gateway route tables in Amazon VPC Transit Gateways.Local gateway route table—A route table that's associated with an Outposts local gateway. For more information, see Local gateways in the AWS Outposts User Guide.Subnet route tables

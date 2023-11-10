@@ -1,0 +1,1 @@
+The ID of the source VPC for the transit gateway Parquet data type: STRING 6 tgw-dst-vpc-id The ID of the destination VPC for the transit gateway. Parquet data type: STRING 6 tgw-src-subnet-id The ID of the subnet for the transit gateway source traffic. Parquet data type: STRING

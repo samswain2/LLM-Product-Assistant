@@ -1,0 +1,1 @@
+The following values populate the Switch Role screen. Keep the following values: Account — The account ID for the member account that the resource is associated with. Role — IAMRoleForAWSNetworkManagerCrossAccountResourceAccess is the required IAM role for accessing resources across multiple accounts.

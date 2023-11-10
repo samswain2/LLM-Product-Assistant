@@ -1,0 +1,1 @@
+com.amazonaws. region .fsx com.amazonaws. region .fsx-fips AWS Glue com.amazonaws. region .glue AWS Glue DataBrew com.amazonaws. region .databrew Amazon Managed Grafana com.amazonaws. region .grafana com.amazonaws. region .grafana-workspace AWS Ground Station com.amazonaws. region .groundstation Amazon GuardDuty com.amazonaws. region .guardduty-data

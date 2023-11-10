@@ -1,0 +1,1 @@
+On the Overview page you contains the following information: Your transit gateway network Inventory: Icon Description Transit gateways The total number of registered transit gateways in your global network. Choose the link to open the

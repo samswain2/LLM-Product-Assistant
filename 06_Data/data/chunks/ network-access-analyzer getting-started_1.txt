@@ -1,0 +1,1 @@
+The analysis can take a few minutes to complete.To analyze a Network Access ScopeOpen the Network Manager console athttps://console.aws.amazon.combetworkmanager/home.In the navigation pane, choose Network Access Analyzer.If you are using Network Access Analyzer for the first time, choose Get Started.

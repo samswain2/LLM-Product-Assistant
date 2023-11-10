@@ -1,0 +1,1 @@
+When you create an IPAM pool in the public scope, you can now provision an Amazon-provided IPv6 contiguous CIDR block to the pool. For more information, see Create IPv6 pools . January 25, 2023 Initial release This release introduces Amazon VPC IP Address Manager. December 2, 2021

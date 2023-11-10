@@ -1,0 +1,1 @@
+You only need to add --cidr-authorization-context when you provision the BYOIP CIDR to the top-level pool. For the Regional pool within the top-level pool, you can omit the --cidr-authorization-context option.This step must be done by the IPAM account.To provision a CIDR block to the pool using the AWS CLI

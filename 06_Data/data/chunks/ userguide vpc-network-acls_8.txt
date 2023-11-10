@@ -1,0 +1,1 @@
+The following is an example default network ACL for a VPC that supports IPv4 only.100 All IPv4 traffic All All 0.0.0.0/0 ALLOW * All IPv4 traffic All All 0.0.0.0/0 DENY

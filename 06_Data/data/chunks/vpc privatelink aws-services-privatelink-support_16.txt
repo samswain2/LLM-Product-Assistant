@@ -1,0 +1,1 @@
+com.amazonaws. region .guardduty-data-fips AWS HealthImaging com.amazonaws. region .medical-imaging com.amazonaws. region .runtime-medical-imaging AWS HealthLake com.amazonaws. region .healthlake IAM Identity Center com.amazonaws. region .identitystore IAM Roles Anywhere com.amazonaws. region .rolesanywhere Amazon Inspector com.amazonaws. region .inspector2 AWS IoT Core

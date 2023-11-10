@@ -1,0 +1,1 @@
+You might use this configuration when you have multiple VPCs that must be able to access each others' resources without restriction. For example, as a file sharing network. In this diagram, the lines represent VPC peering connections.Update the route table for each VPC as follows to implement this configuration.

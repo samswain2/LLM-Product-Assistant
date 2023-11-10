@@ -1,0 +1,1 @@
+Run the following command to provision the CIDR. aws ec2 provision-ipam-pool-cidr --region us-east-1 --ipam-pool-id ipam-pool-0053b7d2b4fc3f730 --cidr 2605:9cc0:409::/48 --profile ipam-account In the output, you'll see the CIDR pending provision. { "IpamPoolCidr": { "Cidr": "2605:9cc0:409::/48", "State": "pending-provision" }}

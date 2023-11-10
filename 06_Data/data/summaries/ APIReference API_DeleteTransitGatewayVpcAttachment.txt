@@ -1,0 +1,1 @@
+This documentation is for the AWS API action "DeleteTransitGatewayVpcAttachment". It provides information about the request parameters, response elements, errors, and related resources. The action is used to delete a specified VPC attachment. The documentation also includes links to language-specific AWS SDKs and information on enabling JavaScript for the AWS Documentation.

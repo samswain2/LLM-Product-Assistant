@@ -1,0 +1,1 @@
+On the Overview page, you can view the following sections: The Transit Gateway details section displays the transit gateway ID, Name, Region, and State. Choose a different transit gateway to view those details. The Attachments section shows the number of each resource attached to the transit gateway. The following legend describes the attachments: Icon Description

@@ -1,0 +1,1 @@
+The number of packets sent out, that meet the traffic mirror filter rules, that did not get mirrored because of production traffic taking priority. This metric is available for basic monitoring only. Units: Count

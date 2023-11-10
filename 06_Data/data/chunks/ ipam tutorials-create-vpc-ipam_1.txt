@@ -1,0 +1,1 @@
+IPAM operating in AWS Region 1, AWS Region 2 Private scope Top-level pool Regional pool in AWS Region 2 Development pool Allocation for a VPCNote

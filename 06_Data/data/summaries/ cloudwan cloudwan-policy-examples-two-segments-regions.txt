@@ -1,0 +1,1 @@
+This is a snippet of code from the AWS Network Manager User Guide that demonstrates the configuration of two segments and multiple AWS Regions. It includes information on ASN ranges, edge locations, segments, and attachment policies. The code is written in JSON format. The documentation also mentions that JavaScript must be enabled to access the full AWS documentation.

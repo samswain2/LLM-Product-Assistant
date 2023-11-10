@@ -1,0 +1,1 @@
+enable a primary IPv6 address, the first IPv6 GUA address associated with the ENI becomes the primary IPv6 address. Type: Boolean Required: No

@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCIP Address ManagerMonitor CIDR usage by resourceIn IPAM, a resource is an AWS service entity that is assigned an IP address or CIDR block. IPAM manages some resources, but only monitors other resources.

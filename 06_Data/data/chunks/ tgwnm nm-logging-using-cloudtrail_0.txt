@@ -1,0 +1,1 @@
+AWSDocumentationAWS Network ManagerAWS Global Networks for Transit Gateways User GuideGlobal Networks information in CloudTrailLog AWS Global Networks for Transit Gateways API calls using AWS CloudTrail

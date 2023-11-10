@@ -1,0 +1,1 @@
+Run the following command until you see the state of provisioned in the output. aws ec2 get-ipam-pool-cidrs --region us-east-1 --ipam-pool-id ipam-pool-0da89c821626f1e4b The following example output shows the correct state. { "IpamPoolCidrs": [ { "Cidr": "10.0.0.0/16", "State": "provisioned" } ] }

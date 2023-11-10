@@ -1,0 +1,1 @@
+This document provides instructions on how to delete an IPAM pool in Amazon VPC using the AWS CLI. It emphasizes that you cannot delete a pool if there are allocations in it and provides steps to release allocations and deprovision CIDRs before deleting the pool. It also mentions that JavaScript must be enabled to use the AWS Documentation.

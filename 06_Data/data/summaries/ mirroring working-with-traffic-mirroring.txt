@@ -1,0 +1,1 @@
+This summary provides an overview of working with traffic mirroring in Amazon VPC. It mentions that traffic mirror targets, sessions, and filters can be managed using the Amazon VPC console or AWS CLI. It also mentions the availability of documentation and the option to mirror traffic to a Gateway Load Balancer endpoint.

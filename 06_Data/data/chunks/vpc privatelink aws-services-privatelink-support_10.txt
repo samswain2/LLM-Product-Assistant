@@ -1,0 +1,1 @@
+Amazon DataZone com.amazonaws. region .datazone Amazon DevOps Guru com.amazonaws. region .devops-guru AWS Directory Service com.amazonaws. region .ds Amazon EBS direct APIs com.amazonaws. region .ebs Amazon EC2 com.amazonaws. region .ec2 Amazon EC2 Auto Scaling com.amazonaws. region .autoscaling

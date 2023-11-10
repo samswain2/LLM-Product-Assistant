@@ -1,0 +1,1 @@
+From your local computer, connect to your NAT instance. Linux and macOS ssh -A ec2-user@nat-instance-public-ip-address Windows Connect to your NAT instance using PuTTY. For Auth, you must select Allow agent forwarding and leave Private key file for authentication blank.

@@ -1,0 +1,1 @@
+Choose any of the following tabs to see more details: Overview Links On-premises associations Connect peer associations Connections VPNs MonitoringOverviewThe Overview page provides general details about the device. On this page you can associate or disassociate sites from the device, delete a device, or add, edit, or remove tags.To associate a device with a site

@@ -1,0 +1,1 @@
+tgw-src-vpc-account-id The AWS account ID for the source VPC traffic. Parquet data type: STRING 6 tgw-dst-vpc-account-id The AWS account ID for the destination VPC traffic. Parquet data type: STRING 6 tgw-src-vpc-id

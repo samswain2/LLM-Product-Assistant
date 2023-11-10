@@ -1,0 +1,1 @@
+This document provides instructions on how to configure the network settings for AWS Network Manager's Cloud WAN. It explains how to set up the Border Gateway Protocol (BGP) Autonomous System Number (ASN), Inside CIDR blocks, and edge locations for the core network. The document also includes steps for creating a core network policy version and adding segments.

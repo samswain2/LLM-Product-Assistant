@@ -1,0 +1,1 @@
+This documentation provides information about the DescribeTrafficMirrorTargets API in Amazon EC2. It includes details about the request parameters, response elements, errors, and related resources. The API allows users to retrieve information about one or more Traffic Mirror targets. The documentation also provides links to language-specific AWS SDKs and other related resources.

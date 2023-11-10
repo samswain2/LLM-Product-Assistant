@@ -1,0 +1,1 @@
+The Connect peers section displays details about your Connect peer attachments: the name of the Connect peer and the Device using that Connect peer.The Network events summary section shows the network events for that transit gateway. You must first onboard CloudWatch Events to see network events. Choose Onboard CloudWatch Insights to enable viewing network events.

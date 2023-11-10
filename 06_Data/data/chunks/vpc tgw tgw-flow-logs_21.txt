@@ -1,0 +1,1 @@
+The packets lost due to the size exceeding the MTU. Parquet data type: INT_64 6 packets-lost-ttl-expired The packets lost due to the expiration of time-to-live. Parquet data type: INT_64 6 tcp-flags The bitmask value for the following TCP flags:

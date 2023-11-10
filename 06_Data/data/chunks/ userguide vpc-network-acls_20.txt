@@ -1,0 +1,1 @@
+100 HTTP TCP 80 0.0.0.0/0 ALLOW Allows outbound IPv4 HTTP traffic from the subnet to the internet. 110 HTTPS TCP 443 0.0.0.0/0 ALLOW Allows outbound IPv4 HTTPS traffic from the subnet to the internet. 120 SSH TCP 1024-65535 192.0.2.0/24 ALLOW

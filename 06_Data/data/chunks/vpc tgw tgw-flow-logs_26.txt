@@ -1,0 +1,1 @@
+ROUTE53_RESOLVER | S3 | WORKSPACES_GATEWAYS. Parquet data type: STRING 5 pkt-dst-aws-service The name of the subset of IP address ranges for the dstaddr field, if the destination IP address is for an AWS service. For a list of possible values, see the pkt-src-aws-service field. Parquet data type: STRING 5

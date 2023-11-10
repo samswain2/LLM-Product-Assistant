@@ -1,0 +1,1 @@
+AWSDocumentationAWS Global Networks for Transit GatewaysAPI ReferenceContentsSee AlsoRouteAnalysisCompletionDescribes the status of an analysis at completion.ContentsReasonCode

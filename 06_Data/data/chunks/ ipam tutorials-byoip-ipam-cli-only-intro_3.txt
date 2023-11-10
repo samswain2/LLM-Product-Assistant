@@ -1,0 +1,1 @@
+Step 2. Update the RDAP record in your RIR.Follow these steps to create a certificate to enable Amazon can verify that you own the IP address range you are bringing to Amazon.Step 1. Create a key pair and certificate. This is not the same key pair used in creation of the ROA object but rather a new key pair only for Amazon verification purposes.

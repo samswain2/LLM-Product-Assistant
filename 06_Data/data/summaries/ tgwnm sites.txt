@@ -1,0 +1,1 @@
+This documentation provides instructions on how to create, update, and delete sites in AWS Network Manager. A site represents the physical location of a network and is associated with devices and links. The documentation includes steps for creating a site, updating its details, and deleting it. It also provides information on using the AWS CLI for site management.

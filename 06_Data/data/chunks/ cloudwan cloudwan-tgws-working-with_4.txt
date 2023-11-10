@@ -1,0 +1,1 @@
+ConnectThe total number of Connect attachments on your transit gateway. Transit GatewayThe total number of transit gateways.

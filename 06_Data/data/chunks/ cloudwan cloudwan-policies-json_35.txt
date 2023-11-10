@@ -1,0 +1,1 @@
+Any condition where the value of project begins with sta is matched against the condition. This would return staging, stage, etc.

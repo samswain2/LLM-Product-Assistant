@@ -1,0 +1,1 @@
+For more specific directions, consult the documentation from your DNS provider. The following table provides links to the documentation for several common DNS providers. This list is not intended to be comprehensive, nor is it intended as a recommendation of the products or services provided by these companies.

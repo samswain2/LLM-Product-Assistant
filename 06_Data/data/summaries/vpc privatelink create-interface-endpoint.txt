@@ -1,0 +1,1 @@
+This documentation provides instructions on how to create an interface VPC endpoint in Amazon VPC to connect to services powered by AWS PrivateLink. It includes prerequisites, steps to create the endpoint, and information on shared subnets. The documentation also mentions billing information and provides links to additional resources for further information.

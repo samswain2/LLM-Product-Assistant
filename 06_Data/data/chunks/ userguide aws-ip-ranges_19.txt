@@ -1,0 +1,1 @@
+Select the check box for the subscription.Choose Actions, Delete subscriptions.When prompted for confirmation, choose Delete.For more information about Amazon SNS, see the Amazon Simple Notification Service Developer Guide.Release notesThe following table describes updates to the syntax of ip-ranges.json. We also add new Region codes with each Region launch.

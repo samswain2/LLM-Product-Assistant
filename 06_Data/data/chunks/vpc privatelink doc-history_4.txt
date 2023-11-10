@@ -1,0 +1,1 @@
+VPC without using an internet gateway or NAT device. August 16, 2017 VPC endpoints for Amazon S3 You can create a gateway VPC endpoint to access Amazon S3 from your VPC without using an internet gateway or NAT device. May 11, 2015

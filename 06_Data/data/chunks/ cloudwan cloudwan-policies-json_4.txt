@@ -1,0 +1,1 @@
+vpn-ecmp-support — (Optional) Indicate whether the core network forwards traffic over multiple equal-cost routes using VPN. The value can either be true or false. The default is true.

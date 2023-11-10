@@ -1,0 +1,1 @@
+custom: A custom allocation.vpc: A VPC allocation.ipam-pool: An IPAM pool allocation.ec2-public-ipv4-pool: A public IPv4 pool allocation.

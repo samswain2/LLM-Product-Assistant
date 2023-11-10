@@ -1,0 +1,1 @@
+Install OpenSSH for Windows as described in this article: Getting started with OpenSSH for Windows. Then add your key to the authentication agent. For more information, see Key-based authentication in OpenSSH for Windows.

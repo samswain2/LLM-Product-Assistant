@@ -1,0 +1,1 @@
+To view public IP address insights Open the IPAM console at https://console.aws.amazon.com/ipam/. In the navigation pane, choose Public IP insights. To view details for a public IP address, select an IP address by clicking on it. View the following information about the IP address:

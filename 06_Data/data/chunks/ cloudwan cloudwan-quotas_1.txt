@@ -1,0 +1,1 @@
+Global networks per AWS account 5 Yes Core networks per global network 1 No Edges per Region per core network 1 No Segments per core network 20 No Retention duration (in seconds) for core network policies with out-of-date change sets 7776000 Yes

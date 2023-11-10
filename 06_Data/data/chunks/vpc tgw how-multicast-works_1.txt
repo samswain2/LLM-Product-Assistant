@@ -1,0 +1,1 @@
+Custom Protocol IGMP(2) 0.0.0.0/32 IGMP query Custom UDP Protocol UDP Remote host IP address Inbound multicast trafficThe following are the minimum outbound rules for IGMP.Custom Protocol IGMP(2) 224.0.0.2/32 IGMP leave Custom Protocol IGMP(2) Multicast group IP address IGMP join Custom UDP Protocol UDP Multicast group IP address Outbound multicast trafficSecurity groups

@@ -1,0 +1,1 @@
+100 HTTP TCP 80 0.0.0.0/0 ALLOW Allows outbound IPv4 HTTP traffic from the subnet to the internet. 105 HTTP TCP 80 ::/0 ALLOW Allows outbound IPv6 HTTP traffic from the subnet to the internet. 110 HTTPS TCP 443 0.0.0.0/0 ALLOW

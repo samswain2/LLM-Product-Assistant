@@ -1,0 +1,1 @@
+Amazon VPC Lattice com.amazonaws. region .vpc-lattice 10 com.amazonaws. region .ipv6.vpc-lattice 10

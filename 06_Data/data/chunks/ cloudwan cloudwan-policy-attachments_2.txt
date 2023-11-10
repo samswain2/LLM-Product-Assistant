@@ -1,0 +1,1 @@
+Choose one of the following: Inherit segments acceptance value if the attachment inherits the acceptance setting from a segment when a segment was created. This can't be changed. Requires attachment acceptance if you require approval for attachments to be mapped to this segment. If no acceptance option is chosen, attachments are automatically mapped to the segment.

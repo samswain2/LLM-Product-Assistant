@@ -1,0 +1,1 @@
+VPN connection Customer gateway Transit gateway attachment AWS Direct Connect resources Resource Related resources Direct Connect connection Virtual interface Direct Connect gateway

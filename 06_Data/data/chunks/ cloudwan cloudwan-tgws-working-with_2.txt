@@ -1,0 +1,1 @@
+VPC The total number of VPCs attached to your transit gateway. VPN

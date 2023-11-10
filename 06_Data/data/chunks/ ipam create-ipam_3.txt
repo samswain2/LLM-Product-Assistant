@@ -1,0 +1,1 @@
+You can only create one IPAM. For more information about increasing quotas related to IPAM, see Quotas for your IPAM.

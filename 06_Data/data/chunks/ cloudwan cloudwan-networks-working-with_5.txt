@@ -1,0 +1,1 @@
+On the Details page, you can edit the following: (Optional) To edit the description of your core network, in the Details section, choose Edit. In the Description field, enter a new description for your core network, and then choose Edit core network. (Optional) To edit, add, or delete tags, in the Tags section, choose Edit tags. To edit any current tag, change the Key

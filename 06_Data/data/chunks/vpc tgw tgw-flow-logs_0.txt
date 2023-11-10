@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCAWS Transit GatewayTransit Gateway Flow Log recordsTransit Gateway Flow Logs pricingLogging network traffic using Transit Gateway Flow Logs

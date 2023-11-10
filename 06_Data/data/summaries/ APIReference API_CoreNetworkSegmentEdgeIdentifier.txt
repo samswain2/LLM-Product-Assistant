@@ -1,0 +1,1 @@
+This documentation provides information about the CoreNetworkSegmentEdgeIdentifier API in AWS Global Networks for Transit Gateways. It includes details about the parameters and their constraints, such as CoreNetworkId, EdgeLocation, and SegmentName. The documentation also provides links to language-specific AWS SDKs for further information.

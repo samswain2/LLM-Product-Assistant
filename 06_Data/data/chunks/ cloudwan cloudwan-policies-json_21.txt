@@ -1,0 +1,1 @@
+except — Explicitly exclude segments, typically used when sharing with “*”.

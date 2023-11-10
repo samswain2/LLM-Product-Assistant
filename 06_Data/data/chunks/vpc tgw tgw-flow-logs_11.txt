@@ -1,0 +1,1 @@
+6 tgw-dst-subnet-id The ID of the subnet for the transit gateway destination traffic. Parquet data type: STRING 6 tgw-src-eni The ID of the source transit gateway attachment ENI for the flow. Parquet data type: STRING 6 tgw-dst-eni The ID of the destination transit gateway attachment ENI for the

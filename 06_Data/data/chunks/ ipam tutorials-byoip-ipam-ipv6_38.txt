@@ -1,0 +1,1 @@
+"Cidr": "2605:9cc0:409::/56", "IpamPoolAllocationId": "ipam-pool-alloc-5f8db726fb9e4ff0a33836e649283a52", "ResourceId": "vpc-00b5573ffc3b31a29", "ResourceType": "vpc", "ResourceOwner": "123456789012" } ] } Rerun the command and look for the allocation to be removed. You cannot continue to clean up and deprovision the IPAM pool CIDR

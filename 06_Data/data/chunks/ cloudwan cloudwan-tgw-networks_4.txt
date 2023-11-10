@@ -1,0 +1,1 @@
+gateway. Region — The Region where the transit gateway is located. Down VPN — The percentage of your total transit gateway VPNs that are down. Impaired VPN —The percentage of your total transit gateways VPNs that are impaired. Up VPN — The percentage of your total transit gateway VPNs that are up. Transit gateways connect peer status:

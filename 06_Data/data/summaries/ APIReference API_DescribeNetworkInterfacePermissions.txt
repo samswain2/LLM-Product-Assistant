@@ -1,0 +1,1 @@
+This documentation is for the AWS API action "DescribeNetworkInterfacePermissions". It provides information on the request parameters, response elements, errors, and examples for this action. The action is used to describe the permissions for network interfaces. The documentation also includes links to related resources and SDKs for different programming languages.

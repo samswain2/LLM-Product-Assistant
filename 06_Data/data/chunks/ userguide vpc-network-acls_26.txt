@@ -1,0 +1,1 @@
+Allows inbound HTTPS traffic from any IPv4 address. 115 HTTPS TCP 443 ::/0 ALLOW Allows inbound HTTPS traffic from any IPv6 address. 120 SSH TCP 22 192.0.2.0/24 ALLOW Allows inbound SSH traffic from your home network's public IPv4 address range (over the internet gateway). 130 RDP

@@ -1,0 +1,1 @@
+This is a summary of the documentation for the Amazon VPC Lattice API reference. It describes a target and provides information about its ID and port. The documentation also includes links to language-specific AWS SDKs for further information on using the API.

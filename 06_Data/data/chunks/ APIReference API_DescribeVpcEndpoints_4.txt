@@ -1,0 +1,1 @@
+For information about the errors that are common to all actions, see Common client error codes.ExamplesExampleThis example describes all of your endpoints.Sample RequestSample Response{"Version":"2008-10-17","Statement":[

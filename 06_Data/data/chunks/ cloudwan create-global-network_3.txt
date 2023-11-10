@@ -1,0 +1,1 @@
+change, and then choose Create global network. The Global networks page appears with a confirmation box that your global network was created successfully. Later, when you're ready to add your core network, see Create a core network after creating a global network.

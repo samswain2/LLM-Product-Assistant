@@ -1,0 +1,1 @@
+Peer IP addressThe peer IP address (GRE outer IP address) on the appliance side of the Connect peer. This can be any IP address. The IP address can be an IPv4 or IPv6 address, but it must be the same IP address family as the transit gateway address.Transit gateway address

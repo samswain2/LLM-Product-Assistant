@@ -1,0 +1,1 @@
+100 HTTP TCP 80 0.0.0.0/0 ALLOW Allows inbound HTTP traffic from any IPv4 address. 110 HTTPS TCP 443 0.0.0.0/0 ALLOW Allows inbound HTTPS traffic from any IPv4 address. 120 SSH TCP 22 192.0.2.0/24 ALLOW

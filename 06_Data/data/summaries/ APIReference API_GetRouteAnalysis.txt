@@ -1,0 +1,1 @@
+This documentation provides information about the AWS Global Networks for Transit Gateways API, specifically the GetRouteAnalysis operation. It explains the request syntax, URI request parameters, request body, response syntax, response elements, and errors. The API allows users to retrieve information about a specified route analysis.

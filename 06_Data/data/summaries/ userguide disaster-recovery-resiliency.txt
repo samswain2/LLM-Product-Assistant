@@ -1,0 +1,1 @@
+This document provides information about the resilience features of Amazon Virtual Private Cloud (VPC) in the AWS global infrastructure. It explains how AWS Regions and Availability Zones are designed to provide high availability, fault tolerance, and scalability. It also provides links to additional resources for configuring VPCs to meet resilience requirements.

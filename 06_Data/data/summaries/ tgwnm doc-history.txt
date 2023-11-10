@@ -1,0 +1,1 @@
+The AWS Network Manager User Guide has been renamed to the AWS Global Networks for Transit Gateways User Guide due to reorganization of the AWS Network Manager console. The guide has been updated to include new features such as multi-account support and support for AWS Cloud WAN. The documentation was created as a standalone guide separate from the AWS Transit Gateway User Guide.

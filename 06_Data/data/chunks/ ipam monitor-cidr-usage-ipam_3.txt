@@ -1,0 +1,1 @@
+Scope ID: The ID for this scope. Scope type: The type of scope. IPAM ID: The ID of the IPAM that the scope is in. IPAM pools in this scope: The ID of the IPAM that the scope is in. View networking resources in this scope: Takes you to the Resources section of the IPAM console.

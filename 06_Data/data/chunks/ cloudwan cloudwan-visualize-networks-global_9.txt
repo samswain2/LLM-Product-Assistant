@@ -1,0 +1,1 @@
+(Optional) Change the global network Description. Choose Edit in the Details section, and then in the Description - optional field, replace the current description with a new description. Then choose Edit global network to save your change.

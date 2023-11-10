@@ -1,0 +1,1 @@
+This tutorial provides step-by-step instructions on how to create an IP Address Manager (IPAM) in AWS and integrate it with AWS Organizations. It covers topics such as delegating an IPAM administrator, creating IPAM pools, sharing IPAM pools, and creating a VPC with a CIDR allocated from an IPAM pool. The tutorial also includes information on prerequisites and cleanup steps.

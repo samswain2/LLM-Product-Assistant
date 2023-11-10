@@ -1,0 +1,1 @@
+Select the individual log stream if you know the transit gateway that you are searching for. Alternatively, choose Search Log Group to search the entire log group. This might take some time if there are many transit gateways in your log group, or depending on the time range that you select.

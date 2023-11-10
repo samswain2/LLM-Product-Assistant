@@ -1,0 +1,1 @@
+This is a summary of the documentation for the Amazon VPC Lattice ListenerSummary API. The API provides summary information about a listener, including its ARN, creation date, ID, last update date, name, port, and protocol. The documentation also includes links to language-specific AWS SDKs for using the API.

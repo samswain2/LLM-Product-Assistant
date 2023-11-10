@@ -1,0 +1,1 @@
+The provided information is a documentation for the AWS API action "DescribeVpcEndpoints". It describes the request parameters, response elements, errors, and provides examples. The action is used to retrieve information about VPC endpoints in AWS.

@@ -1,0 +1,1 @@
+Discovered resources - Resources monitored under a resource discovery. IPAM monitors CIDRs from the following resource types VPCs, Public IPv4 pools, VPC subnets, and Elastic IP addresses. Name (Resource ID) – Resource discovery ID.IP usage – The percentage of IP address space in use. To convert the decimal to a percentage, multiply the

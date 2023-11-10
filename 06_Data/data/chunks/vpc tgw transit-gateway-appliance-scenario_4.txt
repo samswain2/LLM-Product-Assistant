@@ -1,0 +1,1 @@
+--options ApplianceModeSupport=enable to the create-transit-gateway-vpc-attachment or modify-transit-gateway-vpc-attachment command.

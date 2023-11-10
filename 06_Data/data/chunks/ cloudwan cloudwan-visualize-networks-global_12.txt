@@ -1,0 +1,1 @@
+Core network edge The core network edges in your global network. Transit Gateway The transit gateways in your global network. VPC The VPC attachments in your global network.

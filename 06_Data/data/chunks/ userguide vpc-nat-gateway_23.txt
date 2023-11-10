@@ -1,0 +1,1 @@
+Under Existing secondary IP address to unassign, select the secondary IP addresses that you want to unassign.(optional) Under Connection drain duration, enter the maximum amount of time to wait (in seconds) before forcibly releasing the IP addresses if connections are still in progress. If you don't enter a value, the default value is 350 seconds.

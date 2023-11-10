@@ -1,0 +1,1 @@
+This documentation is about the AWS API reference for modifying a Traffic Mirror rule in Amazon EC2. It provides information about the request parameters, response elements, errors, and related APIs. The documentation also includes information about the required permissions, valid values for parameters, and the unique number assigned to each Traffic Mirror rule.

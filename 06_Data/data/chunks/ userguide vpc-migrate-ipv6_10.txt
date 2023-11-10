@@ -1,0 +1,1 @@
+Step 1: Associate an IPv6 CIDR block with your VPC and subnetsYou can associate an IPv6 CIDR block with your VPC, and then associate a /64 CIDR block from that range with each subnet.To associate an IPv6 CIDR block with a VPCOpen the Amazon VPC console at https://console.aws.amazon.com/vpc/.In the navigation pane, choose Your VPCs.Select your VPC, choose Actions, Edit CIDRs.

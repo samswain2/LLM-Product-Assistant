@@ -1,0 +1,1 @@
+For Filter, choose the traffic mirror filter that determines what traffic gets mirrored.

@@ -1,0 +1,1 @@
+Select the route table for the subnet with the application servers and do the following: Choose Actions, Edit routes. If you support IPv4, choose Add route. For Destination, enter 0.0.0.0/0. For Target, select the VPC endpoint. If you support IPv6, choose Add route. For Destination, enter ::/0. For Target, select the VPC endpoint. Choose Save changes.

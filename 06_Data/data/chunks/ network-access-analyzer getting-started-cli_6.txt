@@ -1,0 +1,1 @@
+{ "Id": "igw-1a23b4cd", "Arn": "arn:aws:ec2:us-east-1:123456789012:internet-gateway/igw-1a23b4cd" }, "OutboundHeader":{ "DestinationAddresses": [ "172.31.22.225/32" ] }, "InboundHeader":{ "DestinationAddresses": [ "52.2.112.57/32" ], "DestinationPortRanges": [

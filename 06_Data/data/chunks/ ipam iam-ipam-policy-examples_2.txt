@@ -1,0 +1,1 @@
+"ec2:AssociateIpamResourceDiscovery", "ec2:DescribeIpamResourceDiscoveryAssociations", "ec2:DisassociateIpamResourceDiscovery", "ec2:GetIpamResourceCidrs", "ec2:ModifyIpamResourceCidr", "ec2:GetIpamAddressHistory", "ec2:GetIpamDiscoveredResourceCidrs", "ec2:GetIpamDiscoveredAccounts" ], "Resource": "*" },

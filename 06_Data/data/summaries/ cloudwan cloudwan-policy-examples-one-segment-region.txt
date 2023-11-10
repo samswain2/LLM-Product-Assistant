@@ -1,0 +1,1 @@
+This document provides an example of a core network policy for AWS Network Manager. The policy sets up a network in the us-east-1 region called "my-network" and automatically adds any attachment to the network without requiring approval. The document also mentions that JavaScript must be enabled to use the AWS Documentation.

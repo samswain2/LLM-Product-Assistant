@@ -1,0 +1,1 @@
+IPv6 address assigned to the instance.

@@ -1,0 +1,1 @@
+The filters. association.route-table-association-id - The ID of an association ID for the route table. association.route-table-id - The ID of the route table involved in the association. association.subnet-id - The ID of the subnet involved in the association.

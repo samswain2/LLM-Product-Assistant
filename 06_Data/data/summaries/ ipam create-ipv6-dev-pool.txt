@@ -1,0 +1,1 @@
+This documentation provides instructions on how to create a development IPv6 pool within an IPv6 Regional pool in Amazon VPC using the IP Address Manager (IPAM) in AWS. It outlines the steps to follow and provides an example of the pool structure. The documentation also includes AWS CLI commands for creating and viewing the pool.

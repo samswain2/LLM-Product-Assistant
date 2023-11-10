@@ -1,0 +1,1 @@
+VPC A VPC A CIDR 1 Local VPC A CIDR 2 Local VPC B CIDR pcx-aaaabbbb VPC C CIDR pcx-aaaacccc VPC B VPC B CIDR Local VPC A CIDR 1 pcx-aaaabbbb VPC C VPC C CIDR Local VPC A CIDR 2 pcx-aaaaccccOne VPC that accesses specific subnets in two VPCs

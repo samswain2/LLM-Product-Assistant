@@ -1,0 +1,1 @@
+attachment Up to 5 Gbps No Maximum bandwidth per Connect peer (Tunnel-less) per Connect attachment Up to 100 Gbps per availability zone Contact your Solutions Architect (SA) or Technical Account Manager (TAM) for further assistance.

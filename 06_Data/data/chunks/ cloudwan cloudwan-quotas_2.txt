@@ -1,0 +1,1 @@
+Number of policy versions per core network 10,000 Yes Size of a core network policy (in KB) 100 No Number of policy versions 10000 Yes Number of attachments per core network 5000 Yes Number of core network Connect attachments No limit, up to 5000 maximum attachments per core network No Number of core network attachments per VPC 5 No

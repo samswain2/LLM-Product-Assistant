@@ -1,0 +1,1 @@
+NetworkAddressUsage The NAU count per VPC. Reporting criteria Every 24 hours. Dimensions Name: Per-VPC Metrics , Value: The VPC ID. NetworkAddressUsagePeered The NAU count for the VPC and all VPCs that it's peered with. Reporting criteria

@@ -1,0 +1,1 @@
+The AWS Network Manager allows users to share attachments and peerings on shared core networks. The AWS Cloud WAN User Guide provides documentation on how to share core networks, attachments, and peerings. However, to access the documentation, JavaScript must be enabled in the browser. Users are also encouraged to provide feedback on the documentation to help improve it.

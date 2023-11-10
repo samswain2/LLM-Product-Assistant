@@ -1,0 +1,1 @@
+Managed: The resource has a CIDR allocated from an IPAM pool and is being monitored by IPAM for potential CIDR overlap and compliance with pool allocation rules. Unmanaged: The resource does not have a CIDR allocated from an IPAM pool and is not being monitored by IPAM for potential CIDR compliance with pool allocation rules. The CIDR is monitored for overlap.

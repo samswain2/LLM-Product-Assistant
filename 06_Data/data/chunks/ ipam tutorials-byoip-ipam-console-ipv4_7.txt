@@ -1,0 +1,1 @@
+Under Public IP source, choose one of the following options: BYOIP: You are bringing your own IPv4 or IPv6 address range (BYOIP) to this pool.Amazon owned: You want to Amazon to provision an IPv4 or IPv6 address range to this pool.

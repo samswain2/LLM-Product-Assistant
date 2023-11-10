@@ -1,0 +1,1 @@
+Advertised routes come from the route table that's associated with the Connect attachment.Transit gateway attachmentsA transit gateway cannot have more than one VPC attachment to the same VPC.

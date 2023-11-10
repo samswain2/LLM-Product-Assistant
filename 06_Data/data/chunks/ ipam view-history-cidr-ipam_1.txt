@@ -1,0 +1,1 @@
+If you move a resource from one IPAM scope to another, the previous history record ends and a new history record is created under the new scope. For more information, see Move VPC CIDRs between scopes.

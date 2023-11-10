@@ -1,0 +1,1 @@
+Use VPC Flow Logs to monitor the traffic that reaches your instances.Use AWS Security Hub to check for unintended network accessibility from your instances.Use AWS Network Firewall to protect the subnets in your VPC from common network threats.Compare security groups and network ACLsThe following table summarizes the basic differences between security groups and network ACLs.

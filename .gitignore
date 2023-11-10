@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 # ML specific
-data/
+# data/
 
 # API Documents
 gpt_api_keys.txt

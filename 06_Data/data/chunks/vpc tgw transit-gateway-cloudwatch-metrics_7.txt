@@ -1,0 +1,1 @@
+attachment. PacketDropCountNoRoute The number of packets dropped because they did not match a route on the transit gateway attachment.

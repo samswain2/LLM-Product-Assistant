@@ -1,0 +1,1 @@
+A B pcx-aaaabbbb A C pcx-aaaacccc A D pcx-aaaadddd A E pcx-aaaaeeee A F pcx-aaaaffff A G pcx-aaaagggg B C pcx-bbbbcccc B D pcx-bbbbdddd B E pcx-bbbbeeee B F pcx-bbbbffff B G pcx-bbbbgggg C D pcx-ccccdddd C E pcx-cccceeee

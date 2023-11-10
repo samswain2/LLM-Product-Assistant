@@ -1,0 +1,1 @@
+Consider the following transit gateway route table. If you prefer the AWS Direct Connect gateway attachment to the VPN attachment, use a BGP VPN connection and propagate the routes in the transit gateway route table.

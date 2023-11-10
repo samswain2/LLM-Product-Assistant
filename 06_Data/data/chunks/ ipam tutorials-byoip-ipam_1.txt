@@ -1,0 +1,1 @@
+To complete the steps in this tutorial, you first need to complete the following steps using the Amazon EC2 User Guide for Linux Instances for the CIDR range you want to bring to AWS and IPAM. Once you complete these steps, continue with this tutorial.Follow these steps to authorize Amazon to advertise your IP address range.

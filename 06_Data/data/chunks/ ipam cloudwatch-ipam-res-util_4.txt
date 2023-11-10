@@ -1,0 +1,1 @@
+The VPC metric name and description is listed below.VpcIPUsage The total IPs covered by CIDRs in the VPC’s subnets divided by the total IPs covered by CIDRs in the VPC. This is calculated across all VPC CIDRs in the same IPAM Scope and separately for IPv4 and IPv6 CIDRs.The dimensions you can use to filter VPC metrics are listed below.

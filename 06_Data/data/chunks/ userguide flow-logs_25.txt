@@ -1,0 +1,1 @@
+field. Parquet data type: STRING 4 sublocation-type The type of sublocation that's returned in the sublocation-id field. The possible values are: wavelength | outpost | localzone . If the traffic is not from a sublocation, the record displays a '-' symbol for this field. Parquet data type: STRING

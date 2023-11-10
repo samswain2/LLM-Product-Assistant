@@ -1,0 +1,1 @@
+To view multicast groups using the console Open the Amazon VPC console at https://console.aws.amazon.com/vpc/. On the navigation pane, choose Transit Gateway Multicast. Select the multicast domain. Choose the Groups tab.

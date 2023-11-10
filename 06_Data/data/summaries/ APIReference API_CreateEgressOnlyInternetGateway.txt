@@ -1,0 +1,1 @@
+This documentation is about the AWS API reference for creating an egress-only internet gateway in a VPC. It provides information about the request parameters, response elements, errors, and examples. The documentation also includes links to related resources and SDKs for different programming languages.

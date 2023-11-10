@@ -1,0 +1,1 @@
+Transit gateway attachment Virtual interface Virtual interface Direct Connect connection Direct Connect gateway AWS Network Manager resources Resource Related resources Connection Device Device

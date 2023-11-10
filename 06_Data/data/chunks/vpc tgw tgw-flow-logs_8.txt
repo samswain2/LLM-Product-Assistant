@@ -1,0 +1,1 @@
+The AWS account ID of the owner of the source transit gateway. Parquet data type: STRING 2 tgw-id The ID of the transit gateway for which traffic is being recorded. Parquet data type: STRING 6 tgw-attachment-id The ID of the transit gateway attachment for which traffic is being recorded. Parquet data type: STRING 6

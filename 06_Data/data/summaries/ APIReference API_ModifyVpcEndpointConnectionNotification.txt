@@ -1,0 +1,1 @@
+This documentation is about the ModifyVpcEndpointConnectionNotification API in Amazon EC2. It explains how to modify a connection notification for a VPC endpoint or VPC endpoint service. The documentation provides information about the request parameters, response elements, errors, and examples. It also includes links to related resources and language-specific AWS SDKs.

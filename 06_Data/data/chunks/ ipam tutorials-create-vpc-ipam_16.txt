@@ -1,0 +1,1 @@
+"Locale": "us-west-2", "PoolDepth": 2, "State": "create-in-progress", "Description": "regional--pool", "AutoImport": false, "AddressFamily": "ipv4", "Tags": [] }}

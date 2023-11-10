@@ -1,0 +1,1 @@
+Transit gateway routes are evaluated in the following order:The most specific route for the destination address.

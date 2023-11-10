@@ -1,0 +1,1 @@
+For Filter, specify the type of traffic to log. Accept – Log only accepted traffic Reject – Log only rejected traffic All – Log accepted and rejected trafficFor Maximum aggregation interval, choose the maximum period of time during which a flow is captured and aggregated into one flow log record.

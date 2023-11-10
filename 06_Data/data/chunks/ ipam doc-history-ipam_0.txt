@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCIP Address ManagerDocument history for IPAMThe following table describes the releases for IPAM.

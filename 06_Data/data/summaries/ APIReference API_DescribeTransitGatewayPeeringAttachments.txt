@@ -1,0 +1,1 @@
+This documentation is for the AWS API action "DescribeTransitGatewayPeeringAttachments". It provides information on the request parameters, response elements, errors, and examples for this action. The action is used to describe transit gateway peering attachments. The documentation also includes links to additional resources for using this API in different programming languages.

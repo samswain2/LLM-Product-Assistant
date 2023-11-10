@@ -1,0 +1,1 @@
+Maximum . Dimensions Endpoint Type , Service Name , VPC Endpoint Id , VPC Id Endpoint Type , Service Name , Subnet Id , VPC Endpoint Id , VPC Id RstPacketsReceived The number of RST packets received by the endpoint. Increasing values could indicate that the endpoint service is unhealthy. Reporting criteria : The endpoint received traffic during the one-minute period.

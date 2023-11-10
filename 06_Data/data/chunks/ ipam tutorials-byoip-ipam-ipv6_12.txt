@@ -1,0 +1,1 @@
+"State": "create-complete", "Description": "top-level-Ipv6-pool", "AutoImport": false, "Advertisable": true, "AddressFamily": "ipv6", "Tags": [] } }

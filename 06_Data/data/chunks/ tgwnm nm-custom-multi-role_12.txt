@@ -1,0 +1,1 @@
+"route53:*", "route53domains:*", "sns:CreateTopic", "sns:ListSubscriptionsByTopic", "sns:ListTopics" ], "Resource": "*" },

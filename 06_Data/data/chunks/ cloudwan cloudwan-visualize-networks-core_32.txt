@@ -1,0 +1,1 @@
+The Routes table updates to display the routes for the chosen segment and edge location and includes the following: CIDR — All CIDRs used by this route. Destinations — All destination addresses. Route types — The type of route. This will be either PROPAGATED or STATIC. Route state — The current state of a route. This will be either ACTIVE or BLACKHOLE.Events

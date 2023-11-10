@@ -1,0 +1,1 @@
+Application Auto Scaling com.amazonaws. region .application-autoscaling AWS Application Migration Service com.amazonaws. region .mgn Amazon AppStream 2.0 com.amazonaws. region .appstream.api com.amazonaws. region .appstream.streaming AWS AppSync com.amazonaws. region .appsync-api Amazon Athena com.amazonaws. region .athena AWS Audit Manager com.amazonaws. region .auditmanager

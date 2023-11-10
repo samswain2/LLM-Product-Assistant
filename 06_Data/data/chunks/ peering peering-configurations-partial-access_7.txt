@@ -1,0 +1,1 @@
+pcx-aaaabbbb Route to the IPv6 CIDR block of VPC A. VPC C VPC C IPv4 CIDR Local Subnet 2 IPv4 CIDR pcx-aaaacccc

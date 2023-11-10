@@ -1,0 +1,1 @@
+[Dual stack VPC] Get the IPv6 CIDR block that's associated with your VPC by using the following describe-vpcs command. aws ec2 describe-vpcs --vpc-id vpc-1a2b3c4d5e6f1a2b3 --query Vpcs[].Ipv6CidrBlockAssociationSet[].Ipv6CidrBlock --output text The following is example output. 2600:1f13:cfe:3600::/56

@@ -1,0 +1,1 @@
+This documentation is about the AWS API action "RejectTransitGatewayVpcAttachment". It explains how to use this action to reject a request to attach a VPC to a transit gateway. The documentation provides information about the request parameters, response elements, and errors associated with this action. It also includes links to related resources and language-specific AWS SDKs.

@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCUser GuideDocument historyThe following table describes the important changes in each release of the Amazon VPC User Guide.

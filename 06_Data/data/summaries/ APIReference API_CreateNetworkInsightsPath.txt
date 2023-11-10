@@ -1,0 +1,1 @@
+The AWS CreateNetworkInsightsPath API allows users to create a path for analyzing network reachability between two resources in their virtual private cloud (VPC). Users can specify parameters such as the source and destination, protocol, and filters. The API returns information about the created path and a request ID. Users can also add tags to the path.

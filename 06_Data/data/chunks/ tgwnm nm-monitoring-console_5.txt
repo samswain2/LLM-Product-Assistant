@@ -1,0 +1,1 @@
+Impaired VPN –The percentage of your total VPNs that are impaired. Up VPN – The percentage of your total VPNs that are up. The Transit gateways connect peer status. The following is displayed: ID – The ID of the transit gateway. Name – Name of the transit gateway. Region – Region where the transit peer is located

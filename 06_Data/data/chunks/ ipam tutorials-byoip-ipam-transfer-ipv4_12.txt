@@ -1,0 +1,1 @@
+"resourceType": "ec2:IpamPool", "status": "ATTACHABLE", "creationTime": "2022-06-30T13:03:55.032000-07:00", "lastUpdatedTime": "2022-06-30T13:03:55.032000-07:00", "isResourceTypeDefault": false } ]}

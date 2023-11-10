@@ -1,0 +1,1 @@
+Run the following command to create the pool. aws ec2 create-ipam-pool --description "Regional-IPv4-pool" --region us-east-1 --ipam-scope-id ipam-scope-0087d83896280b594 --source-ipam-pool-id ipam-pool-0a03d430ca3f5c035 --locale us-west-2 --address-family ipv4 --aws-service ec2 --profile ipam-account

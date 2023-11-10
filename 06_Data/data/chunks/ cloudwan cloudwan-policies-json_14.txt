@@ -1,0 +1,1 @@
+matter how many other share statements are created. Note You can use either allow-filter or deny-filter, but you can't use both of them simultaneously. These are optional fields used to more explicitly control segment sharing. These parameters are not required in order to receive or send routes between segments.

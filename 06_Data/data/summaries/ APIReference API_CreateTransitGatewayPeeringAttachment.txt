@@ -1,0 +1,1 @@
+This documentation is for the AWS API action "CreateTransitGatewayPeeringAttachment". It explains how to request a transit gateway peering attachment between two transit gateways. The documentation provides information on the request parameters, response elements, errors, and examples. It also includes links to related resources and SDKs for different programming languages.

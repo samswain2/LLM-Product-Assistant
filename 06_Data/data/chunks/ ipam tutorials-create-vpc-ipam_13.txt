@@ -1,0 +1,1 @@
+Run the following command until you see a state of provisioned in the output. aws ec2 get-ipam-pool-cidrs --region us-east-1 --ipam-pool-id ipam-pool-0008f25d7187a08d9 The following example output shows the correct state. { "IpamPoolCidrs": [ { "Cidr": "10.0.0.0/8", "State": "provisioned" } ] }Step 5. Create a Regional pool with CIDR sourced from the top-level pool

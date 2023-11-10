@@ -1,0 +1,1 @@
+You can work with one of our Partners in the AWS Partner Network (APN) to provision and connect your on-premises networks. For more information, see AWS Network Manager.Supported resource typesAfter you register a transit gateway, you can view and monitor the resources in your global network.

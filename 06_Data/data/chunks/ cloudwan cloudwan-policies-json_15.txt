@@ -1,0 +1,1 @@
+segment-actionssegment-actions define how routing works between segments. By default, attachments can only communicate with other attachments in the same segment. You can use segment-actions to:

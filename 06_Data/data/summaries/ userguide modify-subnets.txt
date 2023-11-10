@@ -1,0 +1,1 @@
+This document provides instructions on how to manage and configure subnets in Amazon VPC. It includes steps on how to view subnet details, add or remove an IPv6 CIDR block from a subnet, modify the public IPv4 addressing attribute, and modify the IPv6 addressing attribute. The document also provides information on how to perform these tasks using the AWS CLI.

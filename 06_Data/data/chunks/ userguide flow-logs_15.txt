@@ -1,0 +1,1 @@
+The time, in Unix seconds, when the last packet of the flow was received within the aggregation interval. This might be up to 60 seconds after the packet was transmitted or received on the network interface. Parquet data type: INT_64 2 action The action that is associated with the traffic: ACCEPT — The traffic was accepted.

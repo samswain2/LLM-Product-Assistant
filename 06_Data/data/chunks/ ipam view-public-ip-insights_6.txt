@@ -1,0 +1,1 @@
+Amazon-owned EIP: The public IPv4 address is an Elastic IP address. BYOIP: The public IPv4 address was brought to AWS using BYOIP. EC2 public IP: The public IPv4 address was assigned automatically to an EC2 instance. Service managed IP: The public IPv4 address was provisioned and is managed by an AWS service. Service: The service that the IP address is associated with.

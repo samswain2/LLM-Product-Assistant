@@ -1,0 +1,1 @@
+EC2 Image Builder com.amazonaws. region .imagebuilder Amazon ECR com.amazonaws. region .ecr.api com.amazonaws. region .ecr.dkr Amazon ECS com.amazonaws. region .ecs com.amazonaws. region .ecs-agent com.amazonaws. region .ecs-telemetry Amazon EKS com.amazonaws. region .eks AWS Elastic Beanstalk com.amazonaws. region .elasticbeanstalk

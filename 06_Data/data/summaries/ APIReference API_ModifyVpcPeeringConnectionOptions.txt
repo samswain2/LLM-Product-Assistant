@@ -1,0 +1,1 @@
+This documentation is about the ModifyVpcPeeringConnectionOptions API in Amazon EC2. It explains how to modify the VPC peering connection options on one side of a VPC peering connection. It provides information about the request parameters, response elements, errors, and examples. It also includes links to related resources and language-specific AWS SDKs.

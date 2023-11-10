@@ -1,0 +1,1 @@
+This documentation is about the AWS Global Networks for Transit Gateways API, specifically the ListCoreNetworkPolicyVersions operation. It provides information on the request syntax, URI request parameters, request body, response syntax, response elements, and errors. The API allows users to retrieve a list of core network policy versions.

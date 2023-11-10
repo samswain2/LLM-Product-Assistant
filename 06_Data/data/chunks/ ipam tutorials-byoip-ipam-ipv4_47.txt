@@ -1,0 +1,1 @@
+Deprovisioning takes time to complete. Run the following command to check the status of deprovisioning. aws ec2 get-ipam-pool-cidrs --region us-east-1 --ipam-pool-id ipam-pool-0a03d430ca3f5c035 --profile ipam-account Wait until you see deprovisioned before you continue to the next step. { "IpamPoolCidr": { "Cidr": "130.137.245.0/24", "State": "deprovisioned" } }

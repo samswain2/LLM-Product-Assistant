@@ -1,0 +1,1 @@
+The ID of the instance that's associated with network interface for which the traffic is recorded, if the instance is owned by you. Returns a '-' symbol for a requester-managed network interface ; for example, the network interface for a NAT gateway. Parquet data type: STRING 3 tcp-flags The bitmask value for the following TCP flags: FIN — 1

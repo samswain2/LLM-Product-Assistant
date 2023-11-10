@@ -1,0 +1,1 @@
+{ "value": "my-tgw", "key": "Name" } }, "creationTime": "2018-11-15T05:25:50.000Z", "transitGatewayId": "tgw-0a13743bd6c1f5fcb", "options":

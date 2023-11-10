@@ -1,0 +1,1 @@
+Access Analyzer com.amazonaws. region .access-analyzer AWS Account Management com.amazonaws. region .account Amazon API Gateway com.amazonaws. region .execute-api AWS App Mesh com.amazonaws. region .appmesh com.amazonaws. region .appmesh-envoy-management AWS App Runner com.amazonaws. region .apprunner AWS App Runner services com.amazonaws. region .apprunner.requests

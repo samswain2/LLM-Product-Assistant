@@ -1,0 +1,1 @@
+Global networks per AWS account 5 Yes Number of devices per global network 200 Yes Number of sites per global network 200 Yes Number of links per global network 200 Yes Number of connections per global network 200 Yes Number of registered delegated administrators for an organization in

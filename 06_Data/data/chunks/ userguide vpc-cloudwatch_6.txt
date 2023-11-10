@@ -1,0 +1,1 @@
+ResourceCount The NAU count per VPC. Reporting criteria Every 24 hours. Dimensions Name: Service , Value: EC2 Name: Type , Value: Resource Name: Resource , Value: The VPC ID. Name: Class , Value: NetworkAddressUsage ResourceCount The NAU count for the VPC and all VPCs that it's peered with.

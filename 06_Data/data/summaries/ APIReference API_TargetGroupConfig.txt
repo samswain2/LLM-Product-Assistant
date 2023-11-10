@@ -1,0 +1,1 @@
+This documentation provides information about the configuration of a target group in Amazon VPC Lattice. It includes details about the health check configuration, IP address type, Lambda event structure version, port, protocol, protocol version, and VPC identifier. The documentation also provides links to language-specific AWS SDKs for further information.

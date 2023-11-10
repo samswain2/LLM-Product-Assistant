@@ -1,0 +1,1 @@
+Security groups per network interface 5 Yes (up to 16) This quota multiplied by the quota for rules per security group cannot exceed 1,000.

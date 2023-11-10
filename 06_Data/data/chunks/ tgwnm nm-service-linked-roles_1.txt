@@ -1,0 +1,1 @@
+The following IAM policy is attached to the role.{ "Version": "2012-10-17", "Statement": [

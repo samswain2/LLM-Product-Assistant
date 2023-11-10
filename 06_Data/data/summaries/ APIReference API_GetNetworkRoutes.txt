@@ -1,0 +1,1 @@
+This documentation is about the AWS Global Networks for Transit Gateways API, specifically the GetNetworkRoutes operation. It provides information on the request syntax, URI request parameters, request body, response syntax, response elements, and possible errors. The GetNetworkRoutes operation retrieves the network routes of a specified global network.

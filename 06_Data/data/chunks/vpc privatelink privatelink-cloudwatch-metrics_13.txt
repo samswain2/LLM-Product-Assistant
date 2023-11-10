@@ -1,0 +1,1 @@
+Reporting criteria : An endpoint connected to the endpoint service sent traffic during the one-minute period. Statistics : The most useful statistics are Average , Sum , and Maximum . Dimensions Service Id Az , Service Id Load Balancer Arn , Service Id

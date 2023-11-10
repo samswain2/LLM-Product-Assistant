@@ -1,0 +1,1 @@
+This documentation provides an overview of using AWS PrivateLink to access virtual appliances through a Gateway Load Balancer. It explains how traffic is routed and provides information on IP address types. It also includes requirements for enabling IPv6 and provides routing instructions.

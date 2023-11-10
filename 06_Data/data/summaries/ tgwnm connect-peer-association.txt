@@ -1,0 +1,1 @@
+This documentation is about AWS Network Manager and specifically focuses on Transit Gateway Connect peer associations. It provides instructions on how to associate and disassociate a Transit Gateway Connect peer with a device using the Network Manager console or the AWS CLI. It also mentions that JavaScript must be enabled to use the AWS Documentation.

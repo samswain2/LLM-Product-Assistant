@@ -1,0 +1,1 @@
+This applies only to the largest instance size. For example, for M5 instances, the maximum is 100 for m5.24xlarge and 10 for all other M5 instance sizes. For more information about instance sizes, see Available instance types in the Amazon EC2 User Guide.LimitationsInstance types

@@ -1,0 +1,1 @@
+This is a summary of the documentation for the Amazon VPC Lattice API. It provides information about the criteria that can be applied to incoming requests, such as header matches, HTTP method type, and path match. The documentation also includes links to language-specific AWS SDKs for further information on using the API.

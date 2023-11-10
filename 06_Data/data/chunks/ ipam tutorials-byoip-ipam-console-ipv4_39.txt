@@ -1,0 +1,1 @@
+It can take some time for IPAM to discover that public IPv4 pool allocations have been removed. You cannot continue to clean up and deprovision the IPAM pool CIDR until you see that the allocation has been removed from IPAM.Step 5: Delete the public IPv4 poolThis step must be done by the member account.

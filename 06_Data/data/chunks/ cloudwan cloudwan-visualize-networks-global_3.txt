@@ -1,0 +1,1 @@
+The total number of sites in your global network. The number is shown in the Inventory section and as an icon on the map for each site in your global network.

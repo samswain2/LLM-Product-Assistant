@@ -1,0 +1,1 @@
+com.amazonaws. region .synthetics Amazon CloudWatch Events com.amazonaws. region .events Amazon CloudWatch Logs com.amazonaws. region .logs AWS CodeArtifact com.amazonaws. region .codeartifact.api com.amazonaws. region .codeartifact.repositories AWS CodeBuild com.amazonaws. region .codebuild com.amazonaws. region .codebuild-fips AWS CodeCommit

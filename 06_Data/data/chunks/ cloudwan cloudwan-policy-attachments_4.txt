@@ -1,0 +1,1 @@
+In Conditions, set the condition logic by doing the following: From the Type dropdown list, choose one of the following condition types: Resource Id — Set an OR or AND condition that uses a Resource ID. Attachment type — Set an OR or AND condition that matches a specific attachment type. Account — Set an OR or AND condition that matches an account.

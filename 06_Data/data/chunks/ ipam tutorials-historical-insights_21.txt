@@ -1,0 +1,1 @@
+"ResourceType": "vpc", "ResourceId": "vpc-0f5ee7e1ba908a378", "ResourceCidr": "10.2.1.0/24", "ResourceComplianceStatus": "compliant", "ResourceOverlapStatus": "nonoverlapping", "VpcId": "vpc-0f5ee7e1ba908a378", "SampledStartTime": "2021-12-27T20:08:46.672000+00:00" } ]}

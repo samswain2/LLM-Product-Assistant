@@ -1,0 +1,1 @@
+and management accounts need to be able to modify resources from other accounts in the global network while using the global networks console switch role.

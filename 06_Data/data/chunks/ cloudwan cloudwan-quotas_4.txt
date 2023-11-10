@@ -1,0 +1,1 @@
+Number of connections per global network 500 Yes Number of transit gateway peers 50 Yes Number of transit gateway routing tables No limit

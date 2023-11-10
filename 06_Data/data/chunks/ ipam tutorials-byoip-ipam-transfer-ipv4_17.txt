@@ -1,0 +1,1 @@
+{ "resourceShare": { "resourceShareArn": "arn:aws:ram:us-east-1:123456789012:resource-share/8d1e229b-2830-4cf4-8b10-19c889235a2f", "name": "PoolShare1", "owningAccountId": "123456789012", "allowExternalPrincipals": true, "status": "ACTIVE", "creationTime": "2023-04-28T07:31:25.536000-07:00",

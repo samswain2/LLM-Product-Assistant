@@ -1,0 +1,1 @@
+This document provides instructions on how to register sources and members with a multicast group in Amazon VPC using the AWS console or CLI. It also explains how to deregister sources and members, view multicast groups, and manage multicast domains. The document includes step-by-step procedures and examples for each task.

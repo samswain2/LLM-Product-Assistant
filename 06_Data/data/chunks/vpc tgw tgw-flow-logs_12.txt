@@ -1,0 +1,1 @@
+flow. Parquet data type: STRING 6 tgw-src-az-id The ID of the Availability Zone that contains the source transit gateway for which traffic is recorded. If the traffic is from a sublocation, the record displays a '-' symbol for this field. Parquet data type: STRING 6 tgw-dst-az-id

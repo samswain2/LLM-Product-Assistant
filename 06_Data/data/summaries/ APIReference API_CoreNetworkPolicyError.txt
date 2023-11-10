@@ -1,0 +1,1 @@
+This documentation provides information about the CoreNetworkPolicyError in AWS Global Networks for Transit Gateways. It includes details about the error code, message, and the JSON path where the error was found in the policy document. The documentation also provides links to language-specific AWS SDKs for further information.

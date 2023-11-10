@@ -1,0 +1,1 @@
+"OwnerId": "123456789012", "IpamScopeId": "ipam-scope-065e7dfe880df679c", "IpamScopeArn": "arn:aws:ec2::123456789012:ipam-scope/ipam-scope-065e7dfe880df679c", "IpamArn": "arn:aws:ec2::123456789012:ipam/ipam-0de83dba6694560a9", "IpamScopeType": "private", "IsDefault": true, "PoolCount": 0 } ]}

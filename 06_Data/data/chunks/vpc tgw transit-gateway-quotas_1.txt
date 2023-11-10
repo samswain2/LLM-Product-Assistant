@@ -1,0 +1,1 @@
+Transit gateways per account 5 Yes CIDR blocks per transit gateway 5 NoThe CIDR blocks are used in the Transit Gateway Connect attachments and Transit Gateway Connect peers feature.Routing

@@ -1,0 +1,1 @@
+Nonoverlapping: The resource CIDR does not overlap with another CIDR in the same scope. Overlapping: The resource CIDR overlaps with another CIDR in the same scope. Note that if a resource CIDR is overlapping, it could be overlapping with a manual allocation. Ignored: The resource

@@ -1,0 +1,1 @@
+3 region The Region that contains the network interface for which traffic is recorded. Parquet data type: STRING 4 az-id The ID of the Availability Zone that contains the network interface for which traffic is recorded. If the traffic is from a sublocation, the record displays a '-' symbol for this

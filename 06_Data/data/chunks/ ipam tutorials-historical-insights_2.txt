@@ -1,0 +1,1 @@
+Scenario 1: Which resources were associated with 10.2.1.155/32 between 1:00 AM and 9:00 PM on December 27, 2021 (UTC)?Run the following command: aws ec2 get-ipam-address-history --region us-east-1 --cidr 10.2.1.155/32 --ipam-scope-id ipam-scope-05b579a1909c5fc7a --start-time 2021-12-20T01:00:00.000Z --end-time 2021-12-27T21:00:00.000Z

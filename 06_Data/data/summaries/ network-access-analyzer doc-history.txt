@@ -1,0 +1,1 @@
+The summary is about the documentation for Amazon Virtual Private Cloud's Network Access Analyzer. It provides information about the releases and changes made to the Network Access Analyzer. The initial release of the Network Access Analyzer was on December 1, 2021. The page also mentions that JavaScript must be enabled to use the Amazon Web Services Documentation.

@@ -1,0 +1,1 @@
+100 All traffic All All 0.0.0.0/0 ALLOW 101 All IPv6 traffic All All ::/0 ALLOW * All traffic All All 0.0.0.0/0 DENY * All IPv6 traffic All All

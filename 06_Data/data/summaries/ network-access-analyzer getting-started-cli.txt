@@ -1,0 +1,1 @@
+This document provides instructions on how to use Amazon Virtual Private Cloud (VPC) Network Access Analyzer in AWS. It outlines the steps to create a Network Access Scope, analyze the scope, and retrieve the analysis results. The document also includes example commands and output for each step.

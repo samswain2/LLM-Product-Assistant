@@ -1,0 +1,1 @@
+Allows inbound return IPv6 traffic from the internet (that is, for requests that originate in the subnet). This range is an example only. * All traffic All All 0.0.0.0/0 DENY Denies all inbound IPv4 traffic not already handled by a preceding rule (not modifiable). * All traffic All All ::/0 DENY

@@ -1,0 +1,1 @@
+Identity-based policies Yes Resource-based policies No Policy actions Yes Policy resources Yes Policy condition keys (service-specific) No ACLs No ABAC (tags in policies) Yes Temporary

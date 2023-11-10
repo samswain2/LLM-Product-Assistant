@@ -1,0 +1,1 @@
+Scope: The details for this scope. A scope is the highest-level container within IPAM. An IPAM contains two default scopes, one private and one public. Each scope represents the IP space for a single network. You may have multiple private scopes, but you can only have one public scope.

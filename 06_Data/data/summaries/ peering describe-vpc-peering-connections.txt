@@ -1,0 +1,1 @@
+This document provides instructions on how to view your VPC peering connections in the Amazon VPC console. It also provides information on how to describe a VPC peering connection using the command line or an API. Additionally, it mentions that JavaScript must be enabled to use the Amazon Web Services Documentation.

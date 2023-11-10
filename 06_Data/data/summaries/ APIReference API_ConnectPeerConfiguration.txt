@@ -1,0 +1,1 @@
+This documentation provides information about the ConnectPeerConfiguration in AWS Global Networks for Transit Gateways. It describes the various properties and configurations related to Connect peer connections, such as BGP configurations, IP addresses, and protocols. The documentation also includes links to language-specific AWS SDKs for further information and usage.

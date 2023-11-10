@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCAWS PrivateLinkIdentity-based policiesResource-based policiesPolicy actionsPolicy resourcesPolicy condition keysACLsABACTemporary credentialsPrincipal permissionsService rolesService-linked rolesHow AWS PrivateLink works with IAMBefore you use IAM to manage access to AWS PrivateLink, learn what IAM features are available to use with AWS PrivateLink.

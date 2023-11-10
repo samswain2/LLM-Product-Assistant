@@ -1,0 +1,1 @@
+Scenario 6: Which resources are currently associated with 10.2.1.0/24?Run the following command: aws ec2 get-ipam-address-history --region us-east-1 --cidr 10.2.1.0/24 --ipam-scope-id ipam-scope-05b579a1909c5fc7a

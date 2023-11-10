@@ -1,0 +1,1 @@
+address and up to 7 secondary private IPv4 addresses to assign to the NAT gateway. Under Elastic IP allocation ID, choose an EIP to add as a secondary IPv4 address. This step is required. You must select an EIP along with a private IPv4 address. If you chose Custom for the Private IP address assigning method, you also must enter a private IPv4 address for each EIP that you add.

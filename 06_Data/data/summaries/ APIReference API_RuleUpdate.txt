@@ -1,0 +1,1 @@
+This documentation provides information about the RuleUpdate API in Amazon VPC Lattice. It describes the parameters and their types for updating a rule. The documentation also includes links to language-specific AWS SDKs for further information on using the API.

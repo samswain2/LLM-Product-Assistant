@@ -1,0 +1,1 @@
+where the resource-id uses the resource associated with the attachment (for example, vpc-1234567890123456) where the account-id uses the account ID of the requesting attachment (for example, 111122223333) where the Region uses the Region code for the requesting attachment (for example, us-east-1), and where the attachment-type uses vpc, site-to-site-vpn, connect, or

@@ -1,0 +1,1 @@
+IPv6 CIDR block: (Optional) If you've associated an IPv6 CIDR block with your VPC, choose Specify a custom IPv6 CIDR. Specify the hexadecimal pair value for the subnet, or leave the default value.

@@ -1,0 +1,1 @@
+resource-type - The type of resource. Valid values are vpc | vpn | direct-connect-gateway | tgw-peering. source-type - The source type. Valid values are igmp | static. subnet-id - The ID of the subnet. transit-gateway-attachment-id - The id of the transit gateway attachment. Type: Array of Filter objects Required: No

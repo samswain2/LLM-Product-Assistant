@@ -1,0 +1,1 @@
+Search the history of an IP address in this scope: Takes you to the Search IP history section of the IPAM console. Resource CIDR types: The types of resource CIDRs in the scope. Subnet: The number of CIDRs for subnets. VPC: The number of CIDRs for VPCs.

@@ -1,0 +1,1 @@
+Local Local route that's automatically added for IPv6 communication within the VPC. VPC C IPv4 CIDR pcx-aaaacccc VPC B VPC B IPv4 CIDR Local VPC B IPv6 CIDR Local Local route that's automatically added for IPv6 communication within the VPC. Subnet 1 IPv4 CIDR pcx-aaaabbbb Subnet 2 IPv4 CIDR

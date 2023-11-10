@@ -1,0 +1,1 @@
+pcx-aaaaaffff VPC G VPC G CIDR Local VPC A CIDR pcx-aaaagggg VPC X VPC X CIDR Local Subnet 2 CIDR in VPC D pcx-ddddxxxx VPC Y CIDR pcx-xxxxyyyy Subnet 1 CIDR in VPC Z pcx-xxxxzzzz VPC Y VPC Y CIDR Local VPC X CIDR pcx-xxxxyyyy VPC Z CIDR

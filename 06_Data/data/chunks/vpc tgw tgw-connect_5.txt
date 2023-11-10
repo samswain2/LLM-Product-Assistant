@@ -1,0 +1,1 @@
+Delete a Connect peerDelete a Connect attachmentConnect peersA Connect peer (GRE tunnel) consists of the following components.Inside CIDR blocks (BGP addresses)

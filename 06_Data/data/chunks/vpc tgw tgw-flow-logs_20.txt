@@ -1,0 +1,1 @@
+packets-lost-no-route The packets lost due to no route being specified. Parquet data type: INT_64 6 packets-lost-blackhole The packets lost due to a black hole. Parquet data type: INT_64 6 packets-lost-mtu-exceeded

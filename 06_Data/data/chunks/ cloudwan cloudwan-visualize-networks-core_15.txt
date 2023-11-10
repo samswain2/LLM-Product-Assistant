@@ -1,0 +1,1 @@
+Segment The segments in your core network. Devices The devices in your core network. VPN The VPN attachments in your core network.

@@ -1,0 +1,1 @@
+This documentation provides instructions on how to create, modify, view, and delete routes using the middlebox routing wizard in Amazon VPC. It includes step-by-step guides for each operation and also provides information on managing middlebox routes. The middlebox routing wizard is available in the Amazon Virtual Private Cloud Console.

@@ -1,0 +1,1 @@
+There are no prerequisites for setting up AWS Cloud WAN. However, some features are not available to you unless you set them up in advance. These features are described in the following table:

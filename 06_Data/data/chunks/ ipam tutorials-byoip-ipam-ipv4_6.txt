@@ -1,0 +1,1 @@
+{ "RegionName": "us-east-1" },{ "RegionName": "us-west-2" } ], "Tags": [] } }Step 3: Create a top-level IPAM poolComplete the steps in this section to create a top-level IPAM pool.This step must be done by the IPAM account.To create an IPv4 address pool for all of your AWS resources using the AWS CLI

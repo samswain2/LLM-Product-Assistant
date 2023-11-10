@@ -1,0 +1,1 @@
+Allows outbound IPv4 HTTPS traffic from the subnet to the internet. 115 HTTPS TCP 443 ::/0 ALLOW Allows outbound IPv6 HTTPS traffic from the subnet to the internet. 140 Custom TCP TCP 32768-65535 0.0.0.0/0 ALLOW Allows outbound IPv4 responses to clients on the internet (for example, serving webpages to people visiting the web servers in the subnet).

@@ -1,0 +1,1 @@
+In the Create subscription dialog box, do the following: For Topic ARN, copy the following Amazon Resource Name (ARN): arn:aws:sns:us-east-1:806199016981:AmazonIpSpaceChanged For Protocol, choose the protocol to use (for example, Email). For Endpoint, type the endpoint to receive the notification (for example, your email address). Choose Create subscription.

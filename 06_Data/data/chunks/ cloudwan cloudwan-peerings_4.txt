@@ -1,0 +1,1 @@
+AWS Transit Gateway Connect-propagated routes in the same Region. AWS Site-to-Site VPN-propagated routes in the same Region. Routes propagated over the AWS network backbone.

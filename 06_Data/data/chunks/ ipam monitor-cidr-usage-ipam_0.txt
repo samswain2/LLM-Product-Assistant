@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCIP Address ManagerMonitor CIDR usage with the IPAM dashboardFollow the steps in this section to access the IPAM dashboard and view the status of all CIDRs within a particular IPAM scope.

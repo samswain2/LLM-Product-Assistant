@@ -1,0 +1,1 @@
+Transit Gateway Connect for the BGP peering only supports Multiprotocol BGP (MP-BGP), where IPv4 Unicast addressing is required to also establish a BGP session for IPv6 Unicast. You can use both IPv4 and IPv6 addresses for the GRE outer IP addresses.The following example shows a Connect attachment between a transit gateway and an appliance in a VPC.

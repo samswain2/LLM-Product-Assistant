@@ -1,0 +1,1 @@
+Rule number 10 Rule action Reject Protocol All Source port range Destination port range Source CIDR block 10.0.0.0/16 Destination CIDR block 0.0.0.0/0 Description Reject all intra-VPC trafficRule number 20 Rule action Accept Protocol All Source port range Destination port range Source CIDR block 0.0.0.0/0 Destination CIDR block 0.0.0.0/0 Description Accept all inbound traffic

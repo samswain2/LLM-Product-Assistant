@@ -1,0 +1,1 @@
+This documentation provides a step-by-step guide on how to set up traffic mirroring in Amazon VPC. It includes instructions on creating a traffic mirror target, creating a traffic mirror filter, and creating a traffic mirror session. An example is also provided on how to mirror inbound TCP traffic to a single monitoring appliance.
