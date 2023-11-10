@@ -1,0 +1,1 @@
+Denies all inbound IPv6 traffic not already handled by a preceding rule (not modifiable).

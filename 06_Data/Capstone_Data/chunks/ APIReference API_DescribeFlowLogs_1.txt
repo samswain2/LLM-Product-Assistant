@@ -1,0 +1,1 @@
+One or more filters. deliver-log-status - The status of the logs delivery (SUCCESS | FAILED). log-destination-type - The type of destination for the flow log data (cloud-watch-logs | s3 | kinesis-data-firehose). flow-log-id - The ID of the flow log. log-group-name - The name of the log group. resource-id - The ID of the VPC, subnet, or network interface.

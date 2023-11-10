@@ -1,0 +1,1 @@
+Step 4: Share the IPAM pool using AWS RAMFollow the steps in this section to share an IPAM pool using AWS RAM so that another AWS account can transfer an existing BYOIP IPV4 CIDR to the IPAM pool and use the IPAM pool. This step should be performed by the ipam-account account.To share an IPv4 address pool using the AWS CLI

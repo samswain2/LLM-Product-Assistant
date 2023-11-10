@@ -1,0 +1,1 @@
+If you Integrate IPAM with accounts outside of your organization, the Org1 IPAM Account will be able to see the history of CIDRs in Org1 but not Org2. The Org2 Admin Account will not be able to see the history of CIDRs in Org 1 or Org2.

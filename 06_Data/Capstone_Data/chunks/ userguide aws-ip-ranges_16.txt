@@ -1,0 +1,1 @@
+In the navigation bar, change the Region to US East (N. Virginia), if necessary. You must select this Region because the SNS notifications that you are subscribing to were created in this Region.In the navigation pane, choose Subscriptions.Choose Create subscription.

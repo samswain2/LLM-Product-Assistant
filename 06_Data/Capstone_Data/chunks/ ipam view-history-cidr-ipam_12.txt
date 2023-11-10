@@ -1,0 +1,1 @@
+is returned to the pool and the resource will not be imported again through automatic import (if the automatic import allocation rule is set on the pool). -: This resource is not one of the types of resources that IPAM can monitor or manage.

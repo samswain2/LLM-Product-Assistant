@@ -1,0 +1,1 @@
+This document provides instructions on how to create a transit gateway attachment to a VPN in Amazon VPC. It explains the requirements for a customer gateway device and provides steps for creating a VPN attachment using the console or AWS CLI. It also explains how to view VPN attachments using the console or AWS CLI.

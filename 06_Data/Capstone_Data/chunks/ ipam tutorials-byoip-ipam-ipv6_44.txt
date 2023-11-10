@@ -1,0 +1,1 @@
+Run the following command to deprovision the top-level pool CIDR. This step must be done by the IPAM account. aws ec2 deprovision-ipam-pool-cidr --region us-east-1 --ipam-pool-id ipam-pool-07f2466c7158b50c4 --cidr 2605:9cc0:409::/48 --profile ipam-account

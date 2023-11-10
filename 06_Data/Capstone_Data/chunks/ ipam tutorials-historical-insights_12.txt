@@ -1,0 +1,1 @@
+Scenario 4: Which resources were associated with 10.0.0.0/24 in the last 24 hours (assuming the current time is midnight on December 27, 2021 (UTC))?Run the following command: aws ec2 get-ipam-address-history --region us-east-1 --cidr 10.0.0.0/24 --ipam-scope-id ipam-scope-05b579a1909c5fc7a --start-time 2021-12-27T00:00:00.000Z

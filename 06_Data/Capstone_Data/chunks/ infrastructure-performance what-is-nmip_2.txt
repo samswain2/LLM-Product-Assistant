@@ -1,0 +1,1 @@
+view performance in CloudWatch. For more information about CloudWatch pricing guidelines, see Amazon CloudWatch pricing.

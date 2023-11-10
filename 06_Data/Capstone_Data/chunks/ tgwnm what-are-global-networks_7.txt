@@ -1,0 +1,1 @@
+South America (São Paulo) af-south-1 Africa (Cape Town) me-south-1 Middle East (Bahrain) us-gov-east-1 AWS GovCloud (US-East) us-gov-west-1 AWS GovCloud (US-West)

@@ -1,0 +1,1 @@
+This documentation provides information about the status of an Amazon Web Services (AWS) Organization and its accounts. It includes details such as the current service-linked role (SLR) deployment status, the organization's AWS service access status, and the ID of the organization. The documentation also provides links to language-specific AWS SDKs for further information.

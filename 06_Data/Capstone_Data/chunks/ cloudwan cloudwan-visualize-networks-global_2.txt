@@ -1,0 +1,1 @@
+Devices The total number of devices in your global network. The number is shown in the Inventory section and as an icon on the map for each device in your global network. Sites

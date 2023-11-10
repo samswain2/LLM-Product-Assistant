@@ -1,0 +1,1 @@
+This is a summary of the AWS documentation for AWS Global Networks for Transit Gateways API Reference. The documentation describes a validation exception for a field, including the message and name of the field. It also provides information on using the API in different AWS SDKs. The page includes document conventions and asks for feedback on its helpfulness.

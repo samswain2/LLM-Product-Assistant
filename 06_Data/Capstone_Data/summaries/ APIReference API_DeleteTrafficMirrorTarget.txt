@@ -1,0 +1,1 @@
+This documentation is about the AWS API reference for deleting a Traffic Mirror target. It provides information about the request parameters, response elements, errors, and related resources. The documentation also includes links to language-specific AWS SDKs and mentions that JavaScript must be enabled to use the AWS Documentation.

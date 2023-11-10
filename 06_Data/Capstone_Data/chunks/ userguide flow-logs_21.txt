@@ -1,0 +1,1 @@
+Wikipedia. Parquet data type: INT_32 3 type The type of traffic. The possible values are: IPv4 | IPv6 | EFA. For more information, see Elastic Fabric Adapter . Parquet data type: STRING 3 pkt-srcaddr The packet-level (original) source IP address of the traffic. Use this field with the srcaddr field to

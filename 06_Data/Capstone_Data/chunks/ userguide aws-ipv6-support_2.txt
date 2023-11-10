@@ -1,0 +1,1 @@
+AWS App Mesh Yes Yes Yes No Amazon AppStream 2.0 Yes No No No Amazon Athena Yes No Yes Yes Amazon Aurora Yes No Yes No Amazon CloudFront Yes No No AWS Cloud Map Yes

@@ -1,0 +1,1 @@
+Description — The description given to the core network when it was created. Tags — The key-value tags that were associated with the core network when it was created.

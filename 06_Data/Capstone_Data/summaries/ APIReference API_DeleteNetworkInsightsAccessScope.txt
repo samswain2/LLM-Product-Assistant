@@ -1,0 +1,1 @@
+This documentation is about the AWS API reference for deleting a Network Access Scope in Amazon EC2. It provides information about the request parameters, response elements, errors, and related resources. The documentation also includes links to language-specific AWS SDKs and mentions that JavaScript must be enabled to use the Amazon Web Services Documentation.

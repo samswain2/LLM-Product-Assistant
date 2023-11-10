@@ -1,0 +1,1 @@
+VPC A VPC A IPv4 CIDR Local VPC A IPv6 CIDR Local VPC B IPv4 CIDR pcx-aaaabbbb VPC B IPv6 CIDR pcx-aaaabbbb VPC C IPv4 CIDR pcx-aaaacccc VPC C IPv6 CIDR pcx-aaaacccc VPC D IPv4 CIDR pcx-aaaadddd VPC D IPv6 CIDR pcx-aaaadddd VPC E IPv4 CIDR pcx-aaaaeeee VPC E IPv6 CIDR pcx-aaaaeeee VPC F IPv4 CIDR pcx-aaaaffff VPC F IPv6 CIDR pcx-aaaaffff VPC G IPv4 CIDR

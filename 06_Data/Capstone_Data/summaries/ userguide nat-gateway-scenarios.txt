@@ -1,0 +1,1 @@
+This document provides information about using Amazon VPC and NAT gateways in AWS. It explains how to access the internet from a private subnet, how to enable communication between overlapping networks, and how to access your network using allow-listed IP addresses. The document includes diagrams, routing tables, and instructions for testing the internet connection.

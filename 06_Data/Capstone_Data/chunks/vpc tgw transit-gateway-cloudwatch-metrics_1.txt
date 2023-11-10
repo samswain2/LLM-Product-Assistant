@@ -1,0 +1,1 @@
+Amazon VPC measures and sends its metrics to CloudWatch in 60-second intervals.For more information, see the Amazon CloudWatch User Guide.ContentsTransit gateway metricsMetric dimensions for transit gatewaysTransit gateway metricsThe AWS/TransitGateway namespace includes the following metrics.

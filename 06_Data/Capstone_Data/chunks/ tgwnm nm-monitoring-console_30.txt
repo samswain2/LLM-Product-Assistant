@@ -1,0 +1,1 @@
+box if you don't want . This is chosen by default. Choose if this is a Middlebox appliance. For more information on middlebox configurations, see Route analysis with a middlebox configuration.

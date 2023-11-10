@@ -1,0 +1,1 @@
+If both attributes are set to true, the following occurs: Instances with public IP addresses receive corresponding public DNS hostnames. The Amazon Route 53 Resolver server can resolve Amazon-provided private DNS hostnames.

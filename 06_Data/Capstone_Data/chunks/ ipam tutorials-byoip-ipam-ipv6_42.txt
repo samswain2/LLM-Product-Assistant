@@ -1,0 +1,1 @@
+Run the following command to delete the Regional pool. This step must be done by the IPAM account. aws ec2 delete-ipam-pool --region us-east-1 --ipam-pool-id ipam-pool-0053b7d2b4fc3f730 --profile ipam-account

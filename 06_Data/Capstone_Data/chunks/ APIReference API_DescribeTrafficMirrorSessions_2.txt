@@ -1,0 +1,1 @@
+traffic-mirror-session-id: The ID of the Traffic Mirror session. traffic-mirror-target-id: The ID of the Traffic Mirror target. virtual-network-id: The virtual network ID of the Traffic Mirror session. Type: Array of Filter objects Required: No

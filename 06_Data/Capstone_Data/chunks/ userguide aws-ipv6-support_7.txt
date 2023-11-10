@@ -1,0 +1,1 @@
+AWS Secrets Manager Yes No Yes No AWS Shield Yes Yes No AWS Site-to-Site VPN Yes No Yes No AWS Transit Gateway Yes No Yes No Amazon VPC Yes Yes Yes No AWS WAF Yes

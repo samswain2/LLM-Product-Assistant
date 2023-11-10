@@ -1,0 +1,1 @@
+This summary discusses the use of IP Address Manager (IPAM) in Amazon VPC on AWS. It provides examples of how IP addresses can be organized, including IPv4 pools in multiple AWS Regions, IPv4 pools for multiple lines of business, and IPv6 pools in an AWS Region. The summary also mentions that JavaScript must be enabled to access the Amazon Web Services Documentation.

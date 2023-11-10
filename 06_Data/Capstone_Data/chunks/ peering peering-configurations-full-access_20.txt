@@ -1,0 +1,1 @@
+If all VPCs have associated IPv6 CIDR blocks, update the route tables as follows.

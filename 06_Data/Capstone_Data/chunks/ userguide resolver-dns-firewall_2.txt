@@ -1,0 +1,1 @@
+custom responses for blocked queries. For more information, see Rule groups and rules in Route 53 Resolver DNS Firewall . Domain list A domain list is a reusable set of domain specifications that you use in a DNS Firewall rule, inside a rule group. For more information, see Domain lists in Route 53 Resolver DNS Firewall .

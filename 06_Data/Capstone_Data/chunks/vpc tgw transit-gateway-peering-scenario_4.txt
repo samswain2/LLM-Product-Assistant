@@ -1,0 +1,1 @@
+10.0.0.0/16 Attachment ID for VPC A propagated 10.2.0.0/16 Attachment ID for VPC B propagated 0.0.0.0/0 Attachment ID for peering connection staticThe following is an example of the default route table for transit gateway 2, with route propagation enabled.

@@ -1,0 +1,1 @@
+No Amazon EKS No Yes No No Elastic Load Balancing Load balancers: Yes Target groups: No Load balancers: No Target groups: Yes No No Amazon ElastiCache Yes Yes No No AWS Fargate Yes No No No AWS Global Accelerator

@@ -1,0 +1,1 @@
+This documentation is for the AWS API reference for the "UnassignPrivateIpAddresses" action in Amazon EC2. It provides information about the request parameters, response elements, errors, and examples for using this action. It also includes links to related resources and SDKs for different programming languages.

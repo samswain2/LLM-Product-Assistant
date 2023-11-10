@@ -1,0 +1,1 @@
+10.0.0.0/16 local No 172.31.0.0/24 vgw-11223344556677889 Yes 172.31.0.0/24 igw-12345678901234567 NoRoute priority and prefix listsIf your route table references a prefix list, the following rules apply:If your route table contains a static route with a destination CIDR block that overlaps a static route with a prefix list, the static route with the CIDR block takes priority.

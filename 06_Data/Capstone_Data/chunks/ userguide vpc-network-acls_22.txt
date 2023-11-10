@@ -1,0 +1,1 @@
+Denies all outbound IPv4 traffic not already handled by a preceding rule (not modifiable).

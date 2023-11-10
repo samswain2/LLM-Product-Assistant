@@ -1,0 +1,1 @@
+network when it was created. Tags — The key-value tags associated with the global network when it was created.

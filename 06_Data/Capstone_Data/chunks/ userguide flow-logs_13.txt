@@ -1,0 +1,1 @@
+2 protocol The IANA protocol number of the traffic. For more information, see Assigned Internet Protocol Numbers . Parquet data type: INT_32 2 packets The number of packets transferred during the flow. Parquet data type: INT_64 2 bytes

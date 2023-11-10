@@ -1,0 +1,1 @@
+AWS managed policy: AmazonVPCFullAccess – Update to an existing policy Added actions for carrier gateways, IPv6 pools, local gateways, and local gateway route tables. June 23, 2021 AWS managed policy: AmazonVPCReadOnlyAccess – Update to an existing policy Added actions for carrier gateways, IPv6 pools, local gateways, and local gateway route tables. June 23, 2021

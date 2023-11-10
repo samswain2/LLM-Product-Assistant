@@ -1,0 +1,1 @@
+This documentation is for the AWS API action "UpdateSecurityGroupRuleDescriptionsEgress". It explains how to update the description of an egress security group rule in Amazon EC2. The documentation provides information on the request parameters, response elements, errors, and examples. It also includes links to related resources and SDKs for different programming languages.

@@ -1,0 +1,1 @@
+Two VPCs that access specific CIDR blocks in one VPCIn this configuration, there is a central VPC (VPC A), a peering connection between VPC A and VPC B (pcx-aaaabbbb), and a peering connection between VPC A and VPC C (pcx-aaaacccc). VPC A has one CIDR block for each peering connection.

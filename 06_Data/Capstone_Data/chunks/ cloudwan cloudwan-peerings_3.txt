@@ -1,0 +1,1 @@
+For routes with the same destination IP address, but different targets, the following route priority is used: Static routes VPC-propagated routes in the same Region Dynamic routing (BGP attributes): AS path length MED AWS Direct Connect gateway-propagated routes in the same Region.

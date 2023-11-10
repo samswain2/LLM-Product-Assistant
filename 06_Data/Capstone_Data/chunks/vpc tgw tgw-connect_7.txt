@@ -1,0 +1,1 @@
+You must configure the first address from the IPv4 range on the appliance as the BGP IP address. When you use IPv6, if your inside CIDR block is fd00::/125, then you must configure the first address in this range (fd00::1) on the tunnel interface of the appliance. The BGP addresses must be unique across all tunnels on a transit gateway.

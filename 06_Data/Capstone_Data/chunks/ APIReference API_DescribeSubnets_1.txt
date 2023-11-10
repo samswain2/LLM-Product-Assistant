@@ -1,0 +1,1 @@
+The filters. availability-zone - The Availability Zone for the subnet. You can also use availabilityZone as the filter name. availability-zone-id - The ID of the Availability Zone for the subnet. You can also use availabilityZoneId as the filter name.

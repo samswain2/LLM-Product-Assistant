@@ -1,0 +1,1 @@
+Access the Network Manager console at https://console.aws.amazon.combetworkmanager/home/.Under Connectivity, choose Global Networks.On the Global networks page, choose the global network ID.Under Core network in the navigation pane, choose Attachments.

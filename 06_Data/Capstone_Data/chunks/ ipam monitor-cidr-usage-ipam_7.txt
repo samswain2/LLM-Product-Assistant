@@ -1,0 +1,1 @@
+or public IPv4 pools) that are allocated from an IPAM pool in the scope. Overlapping resource CIDRs: The number of overlapping and nonoverlapping CIDRs. Overlapping CIDRs can lead to incorrect routing in your VPCs. Overlapping CIDRs: The number of CIDRs that currently overlap within the IPAM pools in this scope. Overlapping CIDRs can lead to incorrect routing in your VPCs.

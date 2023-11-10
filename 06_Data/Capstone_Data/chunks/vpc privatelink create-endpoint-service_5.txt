@@ -1,0 +1,1 @@
+To enable your endpoint service to accept IPv6 requests, its Network Load Balancers must use the dualstack IP address type. The targets do not need to support IPv6 traffic. For more information, see IP address type in the User Guide for Network Load Balancers. If you process source IP addresses from the proxy protocol version 2 header, verify that you can process IPv6 addresses.

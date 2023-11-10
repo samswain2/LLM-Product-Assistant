@@ -1,0 +1,1 @@
+On the Overview page, you can view the following information: Your transit gateway Inventory: Icon Description Transit gateways The total number of registered transit gateways in. Choose the link to open the Transit gateways page to view more information about your transit gateways.

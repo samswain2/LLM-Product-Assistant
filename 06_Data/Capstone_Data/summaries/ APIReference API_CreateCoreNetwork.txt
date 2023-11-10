@@ -1,0 +1,1 @@
+This documentation is about AWS Global Networks for Transit Gateways. It provides information on how to create a core network as part of a global network, including the request syntax, URI request parameters, request body, response syntax, response elements, and possible errors. It also includes links to related API references and SDKs for different programming languages.

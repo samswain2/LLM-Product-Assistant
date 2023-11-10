@@ -1,0 +1,1 @@
+The Monitoring page displays data for the following: Data In Data Out Tunnel down count Average

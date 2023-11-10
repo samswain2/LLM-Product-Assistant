@@ -1,0 +1,1 @@
+pcx-ffffgggg VPC G VPC G CIDR Local VPC A CIDR pcx-aaaagggg VPC B CIDR pcx-bbbbgggg VPC C CIDR pcx-ccccgggg VPC D CIDR pcx-ddddgggg VPC E CIDR pcx-eeeegggg VPC F CIDR pcx-ffffgggg

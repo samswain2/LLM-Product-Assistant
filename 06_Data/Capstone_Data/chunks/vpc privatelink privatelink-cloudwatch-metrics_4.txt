@@ -1,0 +1,1 @@
+Endpoint Type , Service Name , VPC Endpoint Id , VPC Id Endpoint Type , Service Name , Subnet Id , VPC Endpoint Id , VPC Id NewConnections The number of new connections established through the endpoint. Reporting criteria : The endpoint received traffic during the one-minute period. Statistics : The most useful statistics are Average , Sum , Maximum , and Minimum . Dimensions

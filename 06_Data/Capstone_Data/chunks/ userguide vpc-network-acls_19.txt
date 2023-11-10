@@ -1,0 +1,1 @@
+originate in the subnet). This range is an example only. * All traffic All All 0.0.0.0/0 DENY Denies all inbound IPv4 traffic not already handled by a preceding rule (not modifiable).

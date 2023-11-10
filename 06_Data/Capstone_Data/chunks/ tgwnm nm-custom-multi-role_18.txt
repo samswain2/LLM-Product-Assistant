@@ -1,0 +1,1 @@
+"ec2:ExportTransitGatewayRoutes", "ec2:GetTransitGatewayAttachmentPropagations", "ec2:GetTransitGatewayRouteTableAssociations", "ec2:GetTransitGatewayRouteTablePropagations", "ec2:ModifyTransitGateway", "ec2:ModifyTransitGatewayVpcAttachment", "ec2:RejectTransitGatewayVpcAttachment", "ec2:ReplaceTransitGatewayRoute", "ec2:SearchTransitGatewayRoutes" ], "Resource": "*" },

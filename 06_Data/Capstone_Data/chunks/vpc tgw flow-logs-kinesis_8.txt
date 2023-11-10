@@ -1,0 +1,1 @@
+On the Create policy page, do the following: Choose JSON. Replace the contents of this window with the permissions policy at the start of this section. Choose Next: Tags and Next: Review. Enter a name for your policy that starts with AWSLogDeliveryFirehoseCrossAccountRole, and then choose Create policy.In the navigation pane, choose Roles.Choose Create role.

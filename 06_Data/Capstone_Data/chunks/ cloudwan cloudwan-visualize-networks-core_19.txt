@@ -1,0 +1,1 @@
+the types of metrics and events that can be tracked. VPC, Connect, and VPN — Details and Events. Segment — Details and Routes. Device — Device Details.

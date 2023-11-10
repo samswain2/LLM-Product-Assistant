@@ -1,0 +1,1 @@
+At startup, an IGMP host sends multiple IGMP JOIN messages to join a multicast group (typically 2 to 3 retries). In the unlikely event that all the IGMP JOIN messages get lost, the host will not become part of transit gateway multicast group. In such a scenario you will need to re-trigger the IGMP JOIN message from the host using application specific methods.

@@ -1,0 +1,1 @@
+value = resource-id | account-id | region | attachment-type operator = equals | not-equals | contains | begins-with This type is the value compared against the operator. For example, you might use the condition type in the following way:

@@ -1,0 +1,1 @@
+"IpamScopeType": "public", "IpamArn": "arn:aws:ec2::123456789012:ipam/ipam-090e48e75758de279", "Locale": "None", "PoolDepth": 1, "State": "create-in-progress", "Description": "top-level-Ipv6-pool", "AutoImport": false, "Advertisable": true, "AddressFamily": "ipv6",

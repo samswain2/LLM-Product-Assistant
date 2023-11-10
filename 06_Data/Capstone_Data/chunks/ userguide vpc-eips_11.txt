@@ -1,0 +1,1 @@
+an IPv4 address from a pool created from your on-premises network for use with an Outpost. This option is only available if you have an Outpost.

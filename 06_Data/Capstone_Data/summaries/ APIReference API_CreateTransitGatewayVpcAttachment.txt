@@ -1,0 +1,1 @@
+This documentation is about the AWS API reference for the CreateTransitGatewayVpcAttachment action. It explains the request parameters, response elements, errors, and provides examples. The action attaches a specified VPC to a specified transit gateway. It also mentions the need to add a route to the VPC route table to send VPC traffic to the attached transit gateway.

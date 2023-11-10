@@ -1,0 +1,1 @@
+On the Overview page you can view the following information: Your transit gateway details. The transit gateway attachments, along with information about each of those attachments. Use the following legend to understand the icons on this page: Icon Description

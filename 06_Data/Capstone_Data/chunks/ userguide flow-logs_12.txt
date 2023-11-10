@@ -1,0 +1,1 @@
+the network interface. The IPv4 address of the network interface is always its private IPv4 address. See also pkt-dstaddr. Parquet data type: STRING 2 srcport The source port of the traffic. Parquet data type: INT_32 2 dstport The destination port of the traffic. Parquet data type: INT_32

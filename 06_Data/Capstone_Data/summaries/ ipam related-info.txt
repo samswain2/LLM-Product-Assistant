@@ -1,0 +1,1 @@
+This summary provides information about AWS documentation related to Amazon VPC IP Address Manager. It includes resources such as best practices for address scheme planning, using the service in the AWS console, and sharing an IPAM pool with AWS Organizations. It also mentions that JavaScript must be enabled to access the AWS documentation.

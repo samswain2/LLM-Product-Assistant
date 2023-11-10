@@ -1,0 +1,1 @@
+Customer-managed prefix listsWhile the default quotas for customer-managed prefix lists are adjustable, you cannot request an increase using the Service Quotas console. You must open a service limit increase case using the AWS Support Center Console.

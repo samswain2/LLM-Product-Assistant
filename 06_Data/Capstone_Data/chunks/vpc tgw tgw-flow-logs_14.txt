@@ -1,0 +1,1 @@
+The source address for incoming traffic. Parquet data type: STRING 2 dstaddr The destination address for outgoing traffic. Parquet data type: STRING 2 srcport The source port of the traffic. Parquet data type: INT_32

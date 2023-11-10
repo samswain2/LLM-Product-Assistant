@@ -1,0 +1,1 @@
+The AWS Documentation provides information about the Amazon EC2 API reference, including request parameters, response elements, errors, and examples. It specifically explains the DisassociateRouteTable action, which is used to remove a subnet or gateway from a route table. The documentation also includes links to related resources and language-specific AWS SDKs.

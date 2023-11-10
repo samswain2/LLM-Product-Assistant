@@ -1,0 +1,1 @@
+Multicast domains per transit gateway 20 Yes Multicast network interfaces per transit gateway 10,000 Yes Multicast domain associations per VPC 20 Yes Sources per transit gateway multicast group 1 Yes Static and IGMPv2 multicast group members and sources per transit gateway 10,000 No Static and IGMPv2 multicast group members per transit gateway multicast group

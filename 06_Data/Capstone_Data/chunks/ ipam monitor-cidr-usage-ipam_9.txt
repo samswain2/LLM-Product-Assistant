@@ -1,0 +1,1 @@
+The number of resource CIDRs that do not comply with the allocation rules for the IPAM pools in the scope. Overlap status: The number of CIDRs that overlap over time. OverlappingResourceCidrs: The number of CIDRs that overlap within the IPAM pools in this scope. Overlapping CIDRs can lead to incorrect routing in your VPCs. Compliance status: The number

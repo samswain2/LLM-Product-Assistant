@@ -1,0 +1,1 @@
+(Amazon S3 or DynamoDB) in the same Region, that route takes precedence over the endpoint route.

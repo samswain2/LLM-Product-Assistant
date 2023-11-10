@@ -1,0 +1,1 @@
+The commands in this section link to the AWS CLI Reference documentation. The documentation provides detailed descriptions of the options that you can use when you run the commands. To delegate an IPAM admin account using AWS CLI, use the following command: enable-ipam-organization-admin-account

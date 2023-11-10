@@ -1,0 +1,1 @@
+Yes ACLs No ABAC (tags in policies) Yes Temporary credentials Yes Principal permissions Yes

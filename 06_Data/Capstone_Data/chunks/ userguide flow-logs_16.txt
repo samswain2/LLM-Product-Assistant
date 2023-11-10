@@ -1,0 +1,1 @@
+REJECT — The traffic was rejected. For example, the traffic was not allowed by the security groups or network ACLs, or packets arrived after the connection was closed. Parquet data type: STRING 2 log-status The logging status of the flow log:

@@ -1,0 +1,1 @@
+This range is an example only. 145 Custom TCP TCP 32768-65535 ::/0 ALLOW Allows outbound IPv6 responses to clients on the internet (for example, serving webpages to people visiting the web servers in the subnet). This range is an example only. * All traffic All All 0.0.0.0/0 DENY Denies all outbound IPv4 traffic not already handled by a preceding rule (not

@@ -1,0 +1,1 @@
+FIN — 1 SYN — 2 RST — 4 PSH — 8 ACK — 16 SYN-ACK — 18 URG — 32 Important When a flow log entry consists of only ACK packets, the

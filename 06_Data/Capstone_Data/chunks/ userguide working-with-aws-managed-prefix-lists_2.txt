@@ -1,0 +1,1 @@
+Amazon CloudFront com.amazonaws.global.cloudfront.origin-facing 55 Amazon DynamoDB com.amazonaws. region .dynamodb 1 AWS Ground Station com.amazonaws.global.groundstation 5 Amazon Route 53 com.amazonaws. region .ipv6.route53-healthchecks 25 com.amazonaws. region .route53-healthchecks 25 Amazon S3 com.amazonaws. region .s3 1

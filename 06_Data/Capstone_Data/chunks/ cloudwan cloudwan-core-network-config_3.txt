@@ -1,0 +1,1 @@
+In the Inside CIDR blocks section, do the following: Choose Create. For CIDR, enter the CIDR block that you want to use for BGP peering on Connect peers. Choose Create inside CIDR block.

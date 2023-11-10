@@ -1,0 +1,1 @@
+Attachments per transit gateway 5,000 No Transit gateways per VPC 5 No Peering attachments per transit gateway 50 Yes Pending peering attachments per transit gateway 10 Yes Peering attachments within one transit gateway or between two transit gateways 1 No Connect peers (GRE tunnels) per Connect attachment 4 NoBandwidth

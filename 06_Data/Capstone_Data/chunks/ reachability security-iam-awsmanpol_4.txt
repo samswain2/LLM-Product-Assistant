@@ -1,0 +1,1 @@
+To view the permissions for this policy, see AWSReachabilityAnalyzerServiceRolePolicy in the AWS Managed Policy Reference.Reachability Analyzer updates to AWS managed policiesView details about updates to AWS managed policies for Reachability Analyzer since this service began tracking these changes.

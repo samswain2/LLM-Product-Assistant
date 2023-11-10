@@ -1,0 +1,1 @@
+Nonoverlapping CIDRs: The number of resource CIDRs that do not overlap within the IPAM pools in this scope. Compliant resource CIDRs: The number of compliant resource CIDRs. Compliant CIDRs: The number of resource CIDRs that comply with the allocation rules for IPAM pools in the scope. Noncompliant CIDRs:

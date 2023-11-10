@@ -1,0 +1,1 @@
+Attachments Attachments are any connections or resources that you want to add to your core network. Supported attachments include VPCs, VPNs, Transit Gateway route table attachments, and Connect attachments.

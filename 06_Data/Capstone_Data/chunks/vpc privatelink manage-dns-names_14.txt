@@ -1,0 +1,1 @@
+If your DNS provider doesn't allow you to assign multiple values to the same TXT record, you can verify the domain once with the value in the attribute name of the TXT record, and one other time with the value removed from the attribute name. However, you can only verify the same domain two times.

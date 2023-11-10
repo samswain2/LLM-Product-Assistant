@@ -1,0 +1,1 @@
+S3 | WORKSPACES_GATEWAYS Example: "service": "AMAZON"

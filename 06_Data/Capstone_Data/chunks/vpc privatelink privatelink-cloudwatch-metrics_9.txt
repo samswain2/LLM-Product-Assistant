@@ -1,0 +1,1 @@
+ActiveConnections The maximum number of active connections from clients to targets through the endpoints. Increasing values could indicate the need to add targets to the load balancer. Reporting criteria : An endpoint connected to the endpoint service sent traffic during the one-minute period. Statistics : The most useful statistics are Average and Maximum . Dimensions Service Id

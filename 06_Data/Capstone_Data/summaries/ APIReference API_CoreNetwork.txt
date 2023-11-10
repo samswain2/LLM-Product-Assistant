@@ -1,0 +1,1 @@
+This documentation provides information about the CoreNetwork resource in AWS Global Networks for Transit Gateways. It includes details about the attributes of a core network, such as its ARN, ID, creation timestamp, description, edges, segments, state, and tags. The documentation also provides links to language-specific AWS SDKs for further information on using the API.

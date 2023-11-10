@@ -1,0 +1,1 @@
+AWSDocumentationAWS Network ManagerAWS Global Networks for Transit Gateways User GuideTrusted accessDelegated administratorsManage multiple accounts in global networks with AWS Organizations

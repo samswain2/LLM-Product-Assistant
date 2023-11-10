@@ -1,0 +1,1 @@
+View details about updates to AWS managed policies for Network Manager since this service began tracking these changes in April 2021. For automatic alerts about changes to this page, subscribe to the RSS feed on the Network Manager Document history page.

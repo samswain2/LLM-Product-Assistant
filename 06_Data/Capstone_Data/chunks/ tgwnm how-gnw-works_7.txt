@@ -1,0 +1,1 @@
+Amazon VPC resources Resource Related resources Transit gateway Transit gateway attachment Transit gateway route table Transit gateway attachment Direct Connect gateway Transit gateway Transit gateway attachment Transit Gateway Connect peer VPC VPN connection

@@ -1,0 +1,1 @@
+The AWS/Usagenamespace includes the following metrics for monitoring NAU.

@@ -1,0 +1,1 @@
+This documentation describes a link in AWS Global Networks for Transit Gateways. It provides information about the bandwidth, creation date, description, ID, provider, site ID, state, tags, and type of the link. It also includes references to the AWS SDKs for different programming languages.

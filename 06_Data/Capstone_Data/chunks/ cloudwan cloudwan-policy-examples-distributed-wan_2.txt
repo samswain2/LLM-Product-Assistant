@@ -1,0 +1,1 @@
+allowed the Assign-to tag to define which segment the new attachments should be mapped to, but all attachments need to be approved (using the default value for require-attachment-acceptance).

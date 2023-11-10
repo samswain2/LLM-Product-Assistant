@@ -1,0 +1,1 @@
+the types of events that can be tracked. Transit Gateway — Transit Gateway details. VPC, Connect, and VPC — Attachment details. Segment — Segment details. Device — Device details. Region — Region details.

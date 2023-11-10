@@ -1,0 +1,1 @@
+For Log record format, specify the format for the flow log record. To use the default flow log record format, choose AWS default format. To create a custom format, choose Custom format. For Log format, choose the fields to include in the flow log record.

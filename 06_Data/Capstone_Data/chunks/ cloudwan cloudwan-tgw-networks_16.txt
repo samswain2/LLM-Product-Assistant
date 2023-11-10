@@ -1,0 +1,1 @@
+The Overview page opens by default, showing information about your transit gateways.Choose the Route Analyzer tab.

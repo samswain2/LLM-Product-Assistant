@@ -1,0 +1,1 @@
+EIPs: The number of CIDRs for Elastic IP addresses. Public IPv4 pools: The number of CIDRs for public IPv4 pools. Management state: The management state of the CIDRs. Unmanaged CIDRs: The number of resource CIDRs for unmanaged resources in this scope. Ignored CIDRs: The number of

@@ -1,0 +1,1 @@
+100 SSH TCP 22 172.31.1.2/32 ALLOW Allows inbound traffic from the remote computer. * All traffic All All 0.0.0.0/0 DENY Denies all other inbound traffic.100 Custom TCP TCP 1024-65535 172.31.1.2/32 ALLOW Allows outbound responses to the remote computer. * All traffic All All 0.0.0.0/0 DENY Denies all other outbound traffic.

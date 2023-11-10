@@ -1,0 +1,1 @@
+This is a summary of the documentation for AWS Global Networks for Transit Gateways. It describes the CoreNetworkChangeValues, which includes information such as ASN, IP addresses, destination ID, edge locations, inside IP addresses, segment names, and shared segments. The documentation also provides links to language-specific AWS SDKs for more information on using the API.

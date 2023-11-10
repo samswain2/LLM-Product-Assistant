@@ -1,0 +1,1 @@
+(Optional) Filter the information that is displayed in the topology by making choices for any combination of the following: Label — Turns resource labels on or off. Region — Turns the display of a Region on or off. Segment — Turns the display Segments on or off. Cluster — Turns the display of clusters on or off.

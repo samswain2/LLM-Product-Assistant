@@ -1,0 +1,1 @@
+ASN range is locked into that policy and can't be changed. If you connect the core network to any network using BGP, define the ASN range in the initial policy in order to prevent ASN overlap.

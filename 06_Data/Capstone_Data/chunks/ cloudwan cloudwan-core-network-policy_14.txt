@@ -1,0 +1,1 @@
+Edge locations — Any locations for the policy type. Identifier — The identifier path for the policy type. Start time — The timestamp when deployment of the policy type started. End time — The timestamp when deployment of the policy type finished.

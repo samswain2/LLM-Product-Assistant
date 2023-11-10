@@ -1,0 +1,1 @@
+The Region that contains the transit gateway where traffic is recorded. Parquet data type: STRING 4 flow-direction The direction of the flow with respect to the interface where traffic is captured. The possible values are: ingress | egress. Parquet data type: STRING 5 pkt-src-aws-service

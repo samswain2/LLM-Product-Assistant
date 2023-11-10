@@ -1,0 +1,1 @@
+The following example shows a filter for a single Source Region, us-east-1 and a single Destination Region, eu-central-1. The results return one combination:

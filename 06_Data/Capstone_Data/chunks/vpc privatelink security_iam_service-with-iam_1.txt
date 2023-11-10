@@ -1,0 +1,1 @@
+Identity-based policies Yes Resource-based policies Yes Policy actions Yes Policy resources Yes Policy condition keys (service-specific)

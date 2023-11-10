@@ -1,0 +1,1 @@
+The page updates the following transit gateway monitors: Bytes in Bytes out Bytes dropped – black hole Bytes dropped – no route Packets in Packets out Packets dropped – black hole Packets dropped – no route

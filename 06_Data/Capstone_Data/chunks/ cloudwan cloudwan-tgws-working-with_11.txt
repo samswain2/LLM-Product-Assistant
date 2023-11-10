@@ -1,0 +1,1 @@
+In the navigation pane, choose Transit Gateways.On the Transit gateways page, choose the ID link that you want to view the dashboard for.The Overview page opens by default.Choose the Monitoring tab.Monitoring statistics display for the chosen transit gateway. Choose a different transit gateway to see those monitoring statistics.

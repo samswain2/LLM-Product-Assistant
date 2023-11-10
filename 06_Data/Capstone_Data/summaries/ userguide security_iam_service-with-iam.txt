@@ -1,0 +1,1 @@
+This document provides information about managing access to Amazon VPC using IAM (Identity and Access Management). It explains the available IAM features for Amazon VPC, such as actions, resources, condition keys, resource-based policies, authorization based on tags, and IAM roles. It also provides examples and guidelines for using IAM policies with Amazon VPC.

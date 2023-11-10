@@ -1,0 +1,1 @@
+attachments in both prod and prod2 to reach shared-service. But the network policy will not allow sharing of attachments between prod and prod2.

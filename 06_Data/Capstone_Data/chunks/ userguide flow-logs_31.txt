@@ -1,0 +1,1 @@
+5 — Through an inter-region VPC peering connection 6 — Through a local gateway 7 — Through a gateway VPC endpoint (Nitro-based instances only) 8 — Through an internet gateway (Nitro-based instances only) Parquet data type: INT_32 5

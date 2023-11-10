@@ -1,0 +1,1 @@
+This topic covers how to create a top-level IPv4 pool with an IP address range provided by AWS. If you want to bring your own IPv4 address range to AWS (BYOIP), there are prerequisites. For more information, see Tutorial: Bring your IP addresses to IPAM.

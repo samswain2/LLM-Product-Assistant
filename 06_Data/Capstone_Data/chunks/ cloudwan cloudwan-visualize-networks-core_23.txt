@@ -1,0 +1,1 @@
+AWS Cloud WAN Events and metrics for more information about the types of events that can be tracked. Devices — Device details. Sites — Site details. Not associated — There is no information to return.

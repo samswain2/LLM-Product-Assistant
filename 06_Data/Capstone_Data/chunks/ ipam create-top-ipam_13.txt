@@ -1,0 +1,1 @@
+that do not have this locale will be marked noncompliant. Resources that are not automatically imported into the pool will not be allowed to allocate space from the pool unless they are in this locale. (Optional) Choose Tags for the pool.Choose Create pool.See Create a Regional IPv4 pool.

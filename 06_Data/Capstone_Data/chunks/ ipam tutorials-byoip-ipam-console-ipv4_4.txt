@@ -1,0 +1,1 @@
+In the navigation pane, choose Pools.By default, when you create a pool, the default private scope is selected. Choose the public scope. For more information about scopes, see How IPAM works.Choose Create pool.(Optional) Add a Name tag for the pool and a Description for the pool.Under Source pool, choose No source pool.Under Address family, choose IPv4.

@@ -1,0 +1,1 @@
+Create the destination Kinesis Data Firehose delivery stream. Use Direct Put as the source. For more information, see Creating an Kinesis Data Firehose delivery stream.If you're publishing flow logs to a different account, create the required IAM roles, as described in IAM roles for cross account delivery.To create a flow log that publishes to Kinesis Data Firehose

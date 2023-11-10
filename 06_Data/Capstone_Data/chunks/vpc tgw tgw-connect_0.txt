@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCAWS Transit GatewayConnect peersRequirements and considerationsCreate a Connect attachmentCreate a Connect peer (GRE tunnel)View your Connect attachments and Connect peersModify your Connect attachment and Connect peer tagsDelete a Connect peerDelete a Connect attachmentTransit Gateway Connect attachments and Transit Gateway Connect peers

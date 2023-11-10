@@ -1,0 +1,1 @@
+"ec2:DescribeVpcEndpointServicePermissions", "ec2:DescribeVpcEndpointServices", "ec2:DescribeVpcPeeringConnections", "ec2:DescribeVpcs", "ec2:DescribeVpnConnections", "ec2:DescribeVpnGateways", "ec2:GetManagedPrefixListAssociations", "ec2:GetManagedPrefixListEntries" ], "Resource": "*" } ]}

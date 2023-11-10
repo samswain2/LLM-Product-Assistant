@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCIP Address ManagerDelete an IPAMFollow the steps in this section to delete an IPAM. For information on increasing the default number of IPAMs you can have rather than deleting an existing IPAM, see Quotas for your IPAM.ImportantDeleting an IPAM removes all monitored data associated with the IPAM including the historical data for CIDRs.

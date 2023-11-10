@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCAWS Transit GatewayTransit gateway information in CloudTrailUnderstanding transit gateway log file entriesLogging API calls for your transit gateway using AWS CloudTrail

@@ -1,0 +1,1 @@
+AWS Proton com.amazonaws. region .proton Amazon QLDB com.amazonaws. region .qldb.session Amazon RDS com.amazonaws. region .rds Amazon RDS Data API com.amazonaws. region .rds-data Amazon Redshift com.amazonaws. region .redshift com.amazonaws. region .redshift-fips Amazon Redshift Data API

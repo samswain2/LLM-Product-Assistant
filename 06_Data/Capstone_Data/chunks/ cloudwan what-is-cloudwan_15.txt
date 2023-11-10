@@ -1,0 +1,1 @@
+All movement and data aggregation occurs over a secure and encrypted channel and stored with encryption at rest. We use a third-party, Mapbox, to create maps of your global network. We send the resource identifiers collected during device and site registrations to Mapbox to generate those maps.Region availabilityAWS Cloud WAN is available in the following AWS Regions:

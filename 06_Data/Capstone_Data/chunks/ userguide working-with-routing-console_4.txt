@@ -1,0 +1,1 @@
+To change the gateway, for Source, choose the gateway through which traffic enters your VPC. If you choose a virtual private gateway, for Destination IPv4 CIDR, enter the destination subnet CIDR.

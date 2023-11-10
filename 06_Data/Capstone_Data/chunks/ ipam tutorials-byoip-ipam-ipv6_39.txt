@@ -1,0 +1,1 @@
+until you see that the allocation has been removed from IPAM. aws ec2 get-ipam-pool-allocations --region us-west-2 --ipam-pool-id ipam-pool-0053b7d2b4fc3f730 --profile ipam-account The output shows the allocation removed from IPAM. { "IpamPoolAllocations": []}

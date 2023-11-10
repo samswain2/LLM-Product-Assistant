@@ -1,0 +1,1 @@
+state - The state of the transit gateway (available | deleted | deleting | modifying | pending). transit-gateway-id - The ID of the transit gateway. Type: Array of Filter objects Required: No

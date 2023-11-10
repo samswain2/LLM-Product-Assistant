@@ -1,0 +1,1 @@
+(Optional) For Description, enter a description for the traffic mirror session.For Mirror target, choose an existing traffic mirror target or choose Create target to create one. For more information, see Create a traffic mirror target.

@@ -1,0 +1,1 @@
+transit-gateway-route-table strings type where the value is tag-exists — A string that matches against any of the keys defined on the attachment. Use this type when the value of the tag is not important, or if there is only a key without a value. type where the value is tag-value — Evaluates the following key value parameters:

@@ -1,0 +1,1 @@
+NoteIn most cases, the resource discovery should have the same operating Regions as the IPAM or you will only get resource discovery in that one Region. (Optional) Choose any additional Tags for the pool.Choose Create.

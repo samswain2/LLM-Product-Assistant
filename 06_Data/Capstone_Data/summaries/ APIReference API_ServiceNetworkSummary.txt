@@ -1,0 +1,1 @@
+This documentation provides information about the Amazon VPC Lattice service network. It includes details such as the ARN, creation date, ID, last update date, name, number of associated services, and number of associated VPCs. The documentation also provides links to language-specific AWS SDKs for further information on using the API.

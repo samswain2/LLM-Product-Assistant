@@ -1,0 +1,1 @@
+certificate signature, see Bring your own public IPv4 CIDR to IPAM using both the AWS Management Console and the AWS CLI. ImportantIt can take up to one week for the BYOIP CIDR to be provisioned.

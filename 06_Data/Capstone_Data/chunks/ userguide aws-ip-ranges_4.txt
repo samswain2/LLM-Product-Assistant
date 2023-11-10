@@ -1,0 +1,1 @@
+The name of the network border group, which is a unique set of Availability Zones or Local Zones from which AWS advertises IP addresses, or GLOBAL. Traffic for GLOBAL services can be attracted to or originate from multiple (up to all) Availability Zones or Local Zones from which AWS advertises IP addresses. Type: String Example: "network_border_group": "us-west-2-lax-1"region

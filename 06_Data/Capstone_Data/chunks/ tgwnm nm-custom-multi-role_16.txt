@@ -1,0 +1,1 @@
+{ "Effect": "Allow", "Action": [ "s3:GetBucketLocation", "s3:GetBucketWebsite", "s3:ListBucket" ], "Resource": [ "*" ] },{ "Effect": "Allow", "Action": [ "iam:GetRole", "iam:ListRoles", "iam:PassRole" ], "Resource": "arn:aws:iam::*:role/flow-logs-*" },{ "Effect": "Allow", "Action": [ "networkmanager:*" ], "Resource": "*" },

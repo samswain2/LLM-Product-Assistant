@@ -1,0 +1,1 @@
+Amazon SQS com.amazonaws. region .sqs Amazon SWF com.amazonaws. region .swf com.amazonaws. region .swf-fips AWS Step Functions com.amazonaws. region .states com.amazonaws. region .sync-states AWS Storage Gateway com.amazonaws. region .storagegateway AWS Systems Manager com.amazonaws. region .ec2messages com.amazonaws. region .ssm

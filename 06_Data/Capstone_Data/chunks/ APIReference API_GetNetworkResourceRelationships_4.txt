@@ -1,0 +1,1 @@
+transit-gateway-attachment transit-gateway-connect-peer transit-gateway-route-table vpn-connection Length Constraints: Minimum length of 0. Maximum length of 256. Pattern: [\s\S]*

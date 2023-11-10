@@ -1,0 +1,1 @@
+Configure the alarm as follows, and then choose Next: For Statistic, choose Sum. This ensure that you capture the total number of data points for the specified time period. For Period, choose 1 hour. For Whenever, choose Greater/Equal and enter 10 for the threshold. For Additional configuration, Datapoints to alarm, leave the default of 1.

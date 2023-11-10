@@ -1,0 +1,1 @@
+Choose the Connect peers tab.Choose Create Connect peer.Enter a Name to identify the Tunnel-less Connect peer.For the Peer BGP address, enter the appliance's IPv4 address. NoteBGP peering primarily uses IPv4 addresses, but it does support IPv6 addres exchange through MP-BGP. To establsih BGP sessions for IPv6 Unicast, you must have IPv4 Unicast addressing.

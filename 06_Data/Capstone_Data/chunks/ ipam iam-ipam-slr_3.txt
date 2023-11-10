@@ -1,0 +1,1 @@
+ec2:EnableIpamOrganizationAdminAccount organizations:EnableAwsServiceAccess organizations:RegisterDelegatedAdministrator iam:CreateServiceLinkedRole The IPAM account must have an IAM policy attached to it that permits the iam:CreateServiceLinkedRole action.

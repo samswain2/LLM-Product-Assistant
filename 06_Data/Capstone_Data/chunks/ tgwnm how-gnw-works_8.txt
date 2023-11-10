@@ -1,0 +1,1 @@
+Transit gateway route table Transit gateway Transit Gateway Connect peer Device Transit gateway attachment AWS VPN resources Resource Related resources Customer gateway Device VPN connection

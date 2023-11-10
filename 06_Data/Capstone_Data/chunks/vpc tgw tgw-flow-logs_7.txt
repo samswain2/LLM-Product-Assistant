@@ -1,0 +1,1 @@
+version Indicates the version in which the field was introduced. The default format includes all version 2 fields, in the same order that they appear in the table. Parquet data type: INT_32 2 resource-type The type of resource on which the subscription is created. This can be TransitGateway or TransitGatewayAttachment. Parquet data type: STRING 6 account-id

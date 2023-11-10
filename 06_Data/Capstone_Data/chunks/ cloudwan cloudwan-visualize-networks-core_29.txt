@@ -1,0 +1,1 @@
+(Optional) Filter the information that is displayed in the topology by making choices for any combination of the following: Attachments — Turns the display of attachments on or off. Show unassociated attachments — Turns the display of unassociated attachments on or off.

@@ -1,0 +1,1 @@
+vpc-id The ID of the VPC that contains the network interface for which the traffic is recorded. Parquet data type: STRING 3 subnet-id The ID of the subnet that contains the network interface for which the traffic is recorded. Parquet data type: STRING 3 instance-id

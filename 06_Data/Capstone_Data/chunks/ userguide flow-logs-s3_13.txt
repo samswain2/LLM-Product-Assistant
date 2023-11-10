@@ -1,0 +1,1 @@
+For Filter, specify the type of IP traffic data to log. Accepted – Log only accepted traffic. Rejected – Log only rejected traffic. All – Log accepted and rejected traffic.For Maximum aggregation interval, choose the maximum period of time during which a flow is captured and aggregated into one flow log record.For Destination, choose Send to an S3 bucket.

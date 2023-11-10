@@ -1,0 +1,1 @@
+Direct Connect Gateway The total number of Direct Connect gateways attached to your transit gateway. Connect The total number of Connect peer attachments in your transit gateway.

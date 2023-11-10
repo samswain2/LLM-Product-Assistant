@@ -1,0 +1,1 @@
+{ "From": 22, "To": 22 } ], "Protocol": "6", "SourceAddresses": [ "11.0.0.0/32" ], "SourcePortRanges": [{ "From": 0, "To": 0 } ] }, "AdditionalDetails": [{ "AdditionalDetailType": "UNIDIRECTIONAL_PATH_ANALYSIS_ONLY" } ], "Explanations": [] } ], "Explanations": [{ "Direction": "ingress", "ExplanationCode": "ENI_SG_RULES_MISMATCH", "NetworkInterface":

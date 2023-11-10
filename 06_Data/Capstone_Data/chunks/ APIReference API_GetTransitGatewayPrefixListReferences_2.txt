@@ -1,0 +1,1 @@
+prefix-list-owner-id - The ID of the owner of the prefix list. state - The state of the prefix list reference (pending | available | modifying | deleting). Type: Array of Filter objects Required: No

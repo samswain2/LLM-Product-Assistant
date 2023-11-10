@@ -1,0 +1,1 @@
+credentials Yes Principal permissions Yes Service roles No Service-linked roles Yes

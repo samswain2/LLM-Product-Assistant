@@ -1,0 +1,1 @@
+you can use the --ipv6-native option to create an IPv6-only subnet, as shown in the following command. aws ec2 create-subnet --vpc-id vpc-1a2b3c4d5e6f1a2b3 --ipv6-native --ipv6-cidr-block 2600:1f13:cfe:3600::/64 --availability-zone us-east-2a --query Subnet.SubnetId --output text These commands return the ID of the new subnet. The following is an example. subnet-1a2b3c4d5e6f1a2b3

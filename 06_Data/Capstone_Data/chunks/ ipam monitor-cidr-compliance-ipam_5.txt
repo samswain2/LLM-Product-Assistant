@@ -1,0 +1,1 @@
+In the table, you can view the following details about resources in the scope: Name (Resource ID): The name and resource ID of the resource. CIDR: The CIDR associated with the resource. Management state: The state of the resource.

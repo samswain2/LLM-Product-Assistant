@@ -1,0 +1,1 @@
+AWS Security Token Service com.amazonaws. region .sts Service Catalog com.amazonaws. region .servicecatalog com.amazonaws. region .servicecatalog-appregistry Amazon SES com.amazonaws. region .email-smtp AWS SimSpace Weaver com.amazonaws. region .simspaceweaver AWS Snow Device Management com.amazonaws. region .snow-device-management Amazon SNS com.amazonaws. region .sns

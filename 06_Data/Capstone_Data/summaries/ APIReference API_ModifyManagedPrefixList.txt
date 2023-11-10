@@ -1,0 +1,1 @@
+This documentation is about the AWS API reference for modifying a managed prefix list in Amazon EC2. It provides information about the request parameters, response elements, errors, and examples. The documentation also includes links to related resources and language-specific AWS SDKs.

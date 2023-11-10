@@ -1,0 +1,1 @@
+Maximum number of sources per Network Load Balancer No limit No Maximum number of sources per Gateway Load Balancer endpoint No limit No Maximum number of sessions per target (smaller sizes) 10 No Maximum number of sources per target (largest size) 100 * No

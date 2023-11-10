@@ -1,0 +1,1 @@
+Choose Apply change set to deploy the policy to become the new LIVE policy.On the Policy versions page, the status of the policy deployment is Executing policy.

@@ -1,0 +1,1 @@
+4 sublocation-id The ID of the sublocation that contains the network interface for which traffic is recorded. If the traffic is not from a sublocation, the record displays a '-' symbol for this field. Parquet data type: STRING 4 pkt-src-aws-service The name of the subset of IP address

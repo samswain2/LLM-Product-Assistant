@@ -1,0 +1,1 @@
+Edge locations The total number of edge locations in your core network. The number is shown in the Inventory section and as an icon on the map for each edge location in your core network. Segments The total number of segments in your core network. The number is shown in the Inventory section and as an icon on the map for each section in your core network.

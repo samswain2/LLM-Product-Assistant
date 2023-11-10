@@ -1,0 +1,1 @@
+allocation rules for the pool are not inherited from the pool above it in the hierarchy. If you do not apply any rules here, no allocation rules will be set for the pool. (Optional) Choose Tags for the pool. When you’ve finished configuring your pool, choose Create pool. See Allocate CIDRs.

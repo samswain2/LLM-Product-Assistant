@@ -1,0 +1,1 @@
+Amazon Aurora com.amazonaws. region .rds AWS Auto Scaling com.amazonaws. region .autoscaling-plans AWS Backup com.amazonaws. region .backup com.amazonaws. region .backup-gateway AWS Batch com.amazonaws. region .batch Amazon Bedrock com.amazonaws. region .bedrock com.amazonaws. region .bedrock-runtime AWS Billing Conductor com.amazonaws. region .billingconductor Amazon Braket

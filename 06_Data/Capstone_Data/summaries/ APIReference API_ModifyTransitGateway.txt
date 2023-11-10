@@ -1,0 +1,1 @@
+This documentation is about the ModifyTransitGateway API in Amazon EC2. It explains how to modify a transit gateway and provides information about the request parameters, response elements, and errors. It also includes links to additional resources for using the API in different programming languages.

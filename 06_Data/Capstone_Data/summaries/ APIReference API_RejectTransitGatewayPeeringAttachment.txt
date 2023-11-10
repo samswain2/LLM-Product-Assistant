@@ -1,0 +1,1 @@
+This documentation is about the AWS API action "RejectTransitGatewayPeeringAttachment" which is used to reject a transit gateway peering attachment request. It provides information about the request parameters, response elements, errors, and examples. It also includes links to related resources and language-specific AWS SDKs.

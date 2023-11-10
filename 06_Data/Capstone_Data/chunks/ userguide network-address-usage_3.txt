@@ -1,0 +1,1 @@
+Each IPv4 and IPv6 address assigned to a network interface for an EC2 instance in the VPC 1 Additional network interfaces attached to an EC2 instance 1 Prefix assigned to a network interface 1 Network Load Balancer per AZ 6 VPC endpoint per AZ 6 Transit gateway attachment 6 Lambda function 6 NAT gateway 6 EFS attached to an EC2 instance 6NAU examples

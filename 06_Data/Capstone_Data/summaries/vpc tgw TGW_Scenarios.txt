@@ -1,0 +1,1 @@
+The summary is about the use cases for AWS Transit Gateway, which include centralized router, isolated VPCs, isolated VPCs with shared services, peering, centralized outbound routing, and appliance VPC. The page also mentions that JavaScript must be enabled to use the Amazon Web Services Documentation.

@@ -1,0 +1,1 @@
+This document provides an overview of Amazon VPC (Virtual Private Cloud) and its route table concepts. It explains the main route table and custom route tables, subnet route tables, and gateway route tables. It also covers route priority, route table quotas, and how to configure route tables. The document includes examples and considerations for routing options.

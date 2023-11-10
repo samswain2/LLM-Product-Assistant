@@ -1,0 +1,1 @@
+This documentation provides instructions on how to create an SNS notification for specific events related to an interface endpoint in Amazon VPC. It includes steps for creating the notification using the console or command line, adding an access policy to the SNS topic, and adding a key policy for encrypted SNS topics.

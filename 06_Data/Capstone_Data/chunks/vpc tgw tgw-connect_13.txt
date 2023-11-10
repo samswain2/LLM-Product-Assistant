@@ -1,0 +1,1 @@
+The third-party appliance must be configured to send and receive traffic over a GRE tunnel to and from the transit gateway using the Connect attachment.The third-party appliance must be configured to use BGP for dynamic route updates and health checks.

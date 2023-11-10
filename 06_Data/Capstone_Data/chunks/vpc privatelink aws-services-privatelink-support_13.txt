@@ -1,0 +1,1 @@
+com.amazonaws. region .elasticache-fips AWS Elemental MediaConnect com.amazonaws. region .mediaconnect Amazon EMR com.amazonaws. region .elasticmapreduce Amazon EMR on EKS com.amazonaws. region .emr-containers Amazon EMR Serverless com.amazonaws. region .emr-serverless AWS Entity Resolution com.amazonaws. region .entityresolution Amazon EventBridge com.amazonaws. region .events

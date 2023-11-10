@@ -1,0 +1,1 @@
+This documentation is about AWS Global Networks for Transit Gateways and provides information about the CoreNetworkSegment object. It describes the attributes of a core network segment, including the edge locations, name, and shared segments. The documentation also provides links to language-specific AWS SDKs for further information.

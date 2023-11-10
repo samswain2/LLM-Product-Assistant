@@ -1,0 +1,1 @@
+"ResourceOwnerId": "123456789012", "ResourceRegion": "us-east-1", "ResourceType": "subnet", "ResourceId": "subnet-0af7eadb0798e9148", "ResourceCidr": "10.0.0.0/24", "ResourceName": "Example name", "VpcId": "vpc-03298ba16756a8736", "SampledStartTime": "2021-12-14T21:07:22.357000+00:00" } ]}

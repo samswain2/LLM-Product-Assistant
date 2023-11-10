@@ -1,0 +1,1 @@
+This documentation explains how to use IP Address Manager (IPAM) with Amazon VPC in AWS. It provides instructions on creating an IPAM and the necessary permissions and roles required. It also mentions that Javascript must be enabled to access the AWS documentation.

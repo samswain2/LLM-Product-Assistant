@@ -1,0 +1,1 @@
+Maximum number of sessions per account 10,000 No Maximum number of sessions per source network interface 3 No Maximum number of sessions for a single Gateway Load Balancer endpoint Unlimited Not applicableTargetsThe following table lists the Traffic Mirroring target limits.Maximum number of targets per account 10,000 NoFilters

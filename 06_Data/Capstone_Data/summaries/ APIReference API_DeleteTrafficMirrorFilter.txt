@@ -1,0 +1,1 @@
+This documentation is about the AWS API reference for deleting a Traffic Mirror filter. It provides information about the request parameters, response elements, errors, and related resources. The documentation also includes links to language-specific AWS SDKs and provides instructions for enabling JavaScript to access the Amazon Web Services Documentation.

@@ -1,0 +1,1 @@
+IPv6 address range of your network TCP 3389 (Optional) Allows inbound RDP access from IPv6 IP addresses in your network

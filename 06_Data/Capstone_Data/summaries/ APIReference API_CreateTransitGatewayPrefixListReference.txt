@@ -1,0 +1,1 @@
+This documentation is about the AWS API reference for the CreateTransitGatewayPrefixListReference action. It explains the request parameters, response elements, errors, and provides examples. The action creates a reference to a prefix list in a specified transit gateway route table.

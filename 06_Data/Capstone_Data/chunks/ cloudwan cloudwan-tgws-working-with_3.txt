@@ -1,0 +1,1 @@
+The total number of VPNs attached to your transit gateway. Direct Connect GatewaysThe total number of Direct Connect Gateways attached to your transit gateway.

@@ -1,0 +1,1 @@
+AWSDocumentationAmazon EC2API ReferenceRequest ParametersResponse ElementsErrorsExamplesSee AlsoModifyVpcPeeringConnectionOptionsModifies the VPC peering connection options on one side of a VPC peering connection.

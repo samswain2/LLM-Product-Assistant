@@ -1,0 +1,1 @@
+packets The number of packets transferred during the flow. Parquet data type: INT_64 2 bytes The number of bytes transferred during the flow. Parquet data type: INT_64 2 start The time, in Unix seconds, when the first packet of the flow

@@ -1,0 +1,1 @@
+This documentation is about creating an Amazon Web Services (AWS) site-to-site VPN attachment on an edge location of a core network. It provides information on the request syntax, URI request parameters, request body, response syntax, response elements, and possible errors. It also includes links to related API references and SDKs for different programming languages.

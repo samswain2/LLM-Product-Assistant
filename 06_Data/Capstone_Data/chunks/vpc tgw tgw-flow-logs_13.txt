@@ -1,0 +1,1 @@
+The ID of the Availability Zone that contains the destination transit gateway for which traffic is recorded. Parquet data type: STRING 6 tgw-pair-attachment-id Depending on the flow direction, this is either the egress or ingress attachment ID of the flow. Parquet data type: STRING 6 srcaddr

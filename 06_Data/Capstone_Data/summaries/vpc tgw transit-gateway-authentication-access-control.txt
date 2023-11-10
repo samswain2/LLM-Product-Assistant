@@ -1,0 +1,1 @@
+This document provides information on managing AWS Transit Gateway and AWS Network Manager using IAM policies. It explains how to create policies to grant users permission to access and perform tasks on transit gateways and route tables. It also mentions example policies for creating and managing transit gateways with specific tags and for working with Network Manager.

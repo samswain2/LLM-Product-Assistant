@@ -1,0 +1,1 @@
+For Connectivity type, leave the default Public selection to create a public NAT gateway or choose Private to create a private NAT gateway. For more information about the difference between a public and private NAT gateway, see NAT gateways.

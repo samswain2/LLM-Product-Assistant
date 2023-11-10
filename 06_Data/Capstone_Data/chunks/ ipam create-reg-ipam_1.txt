@@ -1,0 +1,1 @@
+IPAM operating in AWS Region 1 and AWS Region 2 Private scope Top-level pool (10.0.0.0/8) Regional pool in AWS Region 1 (10.0.0.0/16) Development pool for non-production VPCs (10.0.0.0/24) Allocation for a VPC (10.0.0.0/25)

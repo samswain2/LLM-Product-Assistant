@@ -1,0 +1,1 @@
+For information about the errors that are common to all actions, see Common client error codes.ExamplesExampleThis example describes all of your flow logs.Sample RequestSample Response{version} ${instance-id} ${interface-id} ${type} ${pkt-srcaddr} ${pkt-dstaddr} ${protocol} ${bytes} ${start} ${end} $

@@ -1,0 +1,1 @@
+On the Global networks page, choose the global network ID that for the core network you want to create a policy version for, and then choose Core network.In the navigation pane, choose Policy versions.Choose Create policy version.

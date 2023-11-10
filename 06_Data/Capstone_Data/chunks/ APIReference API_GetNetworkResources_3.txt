@@ -1,0 +1,1 @@
+connection core-network device link peering site The following are the supported resource types for Amazon VPC: customer-gateway transit-gateway

@@ -1,0 +1,1 @@
+You can peer into an opt-in Region as long as the account that accepts the peering attachment has opted into that Region.Regardless of the Region opt-in status, AWS shares the following account data with the account that accepts the peering attachment: AWS account ID Transit gateway ID Region codeWhen you delete the transit gateway attachment, the above account data is deleted.

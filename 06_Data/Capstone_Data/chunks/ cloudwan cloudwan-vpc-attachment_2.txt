@@ -1,0 +1,1 @@
+rebalanced across different Availability Zones if you don't initially enable appliance mode but later edit the attachment configuration to enable it.

@@ -1,0 +1,1 @@
+Deprovisioning takes time to complete. Check the status of deprovisioning. aws ec2 get-ipam-pool-cidrs --region us-east-1 --ipam-pool-id ipam-pool-0d8f3646b61ca5987 --profile ipam-account

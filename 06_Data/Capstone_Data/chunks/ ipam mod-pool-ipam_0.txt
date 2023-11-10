@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCIP Address ManagerEdit a poolFollow the steps in this section to edit an IPAM pool. You may want to edit a pool to change the allocation rules in the pool. For more information about allocation rules, see Create a top-level IPv4 pool.

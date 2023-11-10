@@ -1,0 +1,1 @@
+set this value to 100, the first 100 bytes after the VXLAN header that meet the filter criteria are copied to the target. For Filter, choose an existing traffic mirror filter. Alternatively, choose Create filter. For more information, see Step 2: Create the traffic mirror filter.

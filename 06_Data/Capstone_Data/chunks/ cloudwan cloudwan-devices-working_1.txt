@@ -1,0 +1,1 @@
+Add or update any of the following device information: Description Model Serial number Type Vendor Location type Latitude Longitude TagsChoose Edit device.To delete a deviceAccess the Network Manager console at https://console.aws.amazon.combetworkmanager/home/.Under Connectivity, choose Global Networks.On the Global networks page, choose the global network ID.

@@ -1,0 +1,1 @@
+Delete the IPAM. When you run the command in this step, the value for --region must match the Region of your IPAM. This step must be done by the IPAM account. aws ec2 delete-ipam --region us-east-1 --ipam-id ipam-090e48e75758de279 --profile ipam-account

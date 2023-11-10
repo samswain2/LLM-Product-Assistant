@@ -1,0 +1,1 @@
+Devices The total number of devices associated with your transit gateways. Choose the link to open the Devices page to view more information about your transit gateway devices.

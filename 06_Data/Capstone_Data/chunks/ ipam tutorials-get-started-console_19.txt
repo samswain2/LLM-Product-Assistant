@@ -1,0 +1,1 @@
+Do the following: Enter a name, such as Example VPC. Choose IPAM-allocated IPv4 CIDR block. Under IPv4 IPAM pool, choose the ID of the pre-production pool. Choose a Netmask length. Because you limited the available netmask length for this pool to /24 (in Step 5: Create a pre-production development pool), the only netmask option available is /24.

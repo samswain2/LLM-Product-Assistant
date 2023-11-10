@@ -1,0 +1,1 @@
+Range overlapsThe IP address ranges returned by any service code are also returned by the AMAZON service code. For example, all IP address ranges that are returned by the S3 service code are also returned by the AMAZON service code.

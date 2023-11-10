@@ -1,0 +1,1 @@
+Multiple VPCs peered togetherIn this configuration, there are seven VPCs peered in a full mesh configuration. The VPCs are in the same AWS account and their CIDR blocks do not overlap.

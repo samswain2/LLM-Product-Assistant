@@ -1,0 +1,1 @@
+On the Global networks page, choose the global network ID.Under Core network in the navigation pane, choose Attachments.Select the check box for the specific attachment that you want to view or update. Details about the attachment are displayed in the lower part of the page. Choose the Tags tab.Choose Add/Update tags.

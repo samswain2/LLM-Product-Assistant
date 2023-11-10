@@ -1,0 +1,1 @@
+Delete the top-level pool. When you run the command in this step, the value for --region must match the Region of your IPAM. This step must be done by the IPAM account. aws ec2 delete-ipam-pool --region us-east-1 --ipam-pool-id ipam-pool-0a03d430ca3f5c035 --profile ipam-account

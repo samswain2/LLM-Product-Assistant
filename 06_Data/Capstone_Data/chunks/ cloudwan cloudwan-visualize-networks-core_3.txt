@@ -1,0 +1,1 @@
+Devices The total number of devices in your core network. The number is shown in the Inventory section and as an icon on the map for each device in your core network. Sites The total number of sites in your core network. The number is shown in the Inventory section and as an icon on the map for each site in your core network.

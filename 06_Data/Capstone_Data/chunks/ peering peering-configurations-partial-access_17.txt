@@ -1,0 +1,1 @@
+VPC A VPC A CIDR Local Instance 3 IP address pcx-aaaabbbb Instance 4 IP address pcx-aaaacccc VPC B VPC B CIDR Local Instance 1 IP address pcx-aaaabbbb VPC C VPC C CIDR Local Instance 2 IP address pcx-aaaaccccOne VPC that accesses two VPCs using longest prefix matches

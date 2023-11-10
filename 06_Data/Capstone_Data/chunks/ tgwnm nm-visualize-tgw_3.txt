@@ -1,0 +1,1 @@
+VPC The total number of VPC attachments in your transit gateway network. VPN The total number of VPN attachments in your transit gateway.

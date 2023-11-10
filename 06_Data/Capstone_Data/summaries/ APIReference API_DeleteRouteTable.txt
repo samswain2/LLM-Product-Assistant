@@ -1,0 +1,1 @@
+This documentation is about the AWS API action "DeleteRouteTable" which is used to delete a specified route table. The action requires the ID of the route table as a parameter. The response includes the request ID and a boolean value indicating if the request was successful. The documentation also provides examples and references to other AWS SDKs for using this API.

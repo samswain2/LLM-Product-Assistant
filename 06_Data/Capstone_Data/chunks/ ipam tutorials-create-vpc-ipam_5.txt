@@ -1,0 +1,1 @@
+"OperatingRegions": [ { "RegionName": "us-west-2" }, { "RegionName": "us-east-1" } ], "Tags": [] }}

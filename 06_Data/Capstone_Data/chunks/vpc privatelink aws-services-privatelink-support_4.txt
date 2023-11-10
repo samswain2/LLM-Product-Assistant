@@ -1,0 +1,1 @@
+com.amazonaws. region .braket AWS Clean Rooms com.amazonaws. region .cleanrooms AWS Cloud Control API com.amazonaws. region .cloudcontrolapi com.amazonaws. region .cloudcontrolapi-fips Amazon Cloud Directory com.amazonaws. region .clouddirectory AWS CloudFormation com.amazonaws. region .cloudformation AWS CloudHSM com.amazonaws. region .cloudhsmv2 AWS Cloud Map

@@ -1,0 +1,1 @@
+This documentation provides information about the CoreNetworkEdge in AWS Global Networks for Transit Gateways. It describes the properties of a core network edge, including the ASN, edge location, and inside IP addresses. The documentation also includes links to language-specific AWS SDKs for further information on using the API.

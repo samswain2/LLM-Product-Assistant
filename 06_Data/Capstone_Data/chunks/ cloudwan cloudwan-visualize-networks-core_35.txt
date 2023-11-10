@@ -1,0 +1,1 @@
+In the following example, the Events section shows two events occurring within a custom 15-month time frame: A change set was executed successfully for a core network policy update. An edge location was added to the core network. For a full list of tracked events, see Monitor with CloudWatch Events.Monitoring

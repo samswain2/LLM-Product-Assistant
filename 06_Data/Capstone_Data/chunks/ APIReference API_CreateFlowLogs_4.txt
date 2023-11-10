@@ -1,0 +1,1 @@
+arn:aws:firehose:region:account_id:deliverystream:my_stream Type: String Required: No

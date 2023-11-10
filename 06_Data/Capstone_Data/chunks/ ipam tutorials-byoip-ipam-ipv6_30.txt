@@ -1,0 +1,1 @@
+"CidrBlockAssociationSet": [ { "AssociationId": "vpc-cidr-assoc-09cccb07d4e9a0e0e", "CidrBlock": "10.0.0.0/16", "CidrBlockState": { "State": "associated" } } ], "IsDefault": false }}

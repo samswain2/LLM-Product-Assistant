@@ -1,0 +1,1 @@
+This document provides information about using Amazon VPC Flow Logs to collect and publish flow log records to an Amazon S3 bucket. It covers topics such as IAM policies, S3 bucket permissions, log file formats, log file structure, and how to create and process flow logs. It also includes instructions for creating flow logs using the AWS Management Console or command line tools.

@@ -1,0 +1,1 @@
+From the Source and Target dropdown lists, choose the policy versions that you want to compare.

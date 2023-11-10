@@ -1,0 +1,1 @@
+com.amazonaws. region .iotroborunner AWS IoT SiteWise com.amazonaws. region .iotsitewise.api com.amazonaws. region .iotsitewise.data AWS IoT TwinMaker com.amazonaws. region .iottwinmaker.api com.amazonaws. region .iottwinmaker.data Amazon Kendra com.amazonaws. region .kendra aws.api. region .kendra-ranking AWS Key Management Service com.amazonaws. region .kms

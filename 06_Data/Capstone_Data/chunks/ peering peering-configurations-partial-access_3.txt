@@ -1,0 +1,1 @@
+Subnet 1 (VPC A) VPC A CIDR Local VPC B CIDR pcx-aaaabbbb Subnet 2 (VPC A) VPC A CIDR Local VPC C CIDR pcx-aaaacccc VPC B VPC B CIDR Local Subnet 1 CIDR pcx-aaaabbbb VPC C VPC C CIDR Local Subnet 2 CIDR pcx-aaaacccc

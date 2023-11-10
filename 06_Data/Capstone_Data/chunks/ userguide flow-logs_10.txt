@@ -1,0 +1,1 @@
+interface for which traffic is recorded. If the network interface is created by an AWS service, for example when creating a VPC endpoint or Network Load Balancer, the record might display unknown for this field. Parquet data type: STRING 2 interface-id The ID of the network interface for which the traffic is recorded. Parquet data type: STRING 2

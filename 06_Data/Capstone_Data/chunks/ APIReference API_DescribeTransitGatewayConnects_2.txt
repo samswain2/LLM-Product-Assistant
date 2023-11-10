@@ -1,0 +1,1 @@
+transport-transit-gateway-attachment-id - The ID of the transit gateway attachment from which the Connect attachment was created. Type: Array of Filter objects Required: No

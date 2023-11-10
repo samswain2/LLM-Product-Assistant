@@ -1,0 +1,1 @@
+com.amazonaws. region .codepipeline AWS CodeStar Connections com.amazonaws. region .codestar-connections.api Amazon CodeWhisperer com.amazonaws. region .codewhisperer Amazon Comprehend com.amazonaws. region .comprehend Amazon Comprehend Medical com.amazonaws. region .comprehendmedical AWS Config com.amazonaws. region .config Amazon Connect

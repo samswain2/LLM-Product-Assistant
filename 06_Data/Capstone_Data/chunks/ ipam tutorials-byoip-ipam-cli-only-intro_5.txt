@@ -1,0 +1,1 @@
+/23,you would not be able to divide and advertise a /24 from the larger block. Also, note that /24 is the smallest IPv4 block and /48 is the smallest IPv6 block you can advertise from a Region to the internet.

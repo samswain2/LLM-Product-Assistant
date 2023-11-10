@@ -1,0 +1,1 @@
+(Optional) Change the core network Description. Choose Edit in the Core network details section, and then in the Description field, replace the current description with a new description. Then choose Edit core network to save your change.

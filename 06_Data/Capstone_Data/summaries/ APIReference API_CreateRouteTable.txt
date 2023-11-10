@@ -1,0 +1,1 @@
+This documentation is about the AWS API action "CreateRouteTable" which is used to create a route table for a specified VPC. The documentation provides information about the request parameters, response elements, errors, and examples of how to use the API. It also includes links to related resources and SDKs for different programming languages.

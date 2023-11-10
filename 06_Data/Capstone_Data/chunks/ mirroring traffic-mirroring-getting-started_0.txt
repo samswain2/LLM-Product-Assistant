@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCTraffic MirroringPrerequisitesStep 1: Create the traffic mirror targetStep 2: Create the traffic mirror filterStep 3: Create the traffic mirror sessionStep 4: Analyze the dataGet started with Traffic MirroringTo get started with Traffic Mirroring, we'll explore traffic mirror targets, filters, and sessions.

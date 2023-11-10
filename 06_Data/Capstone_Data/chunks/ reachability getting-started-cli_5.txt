@@ -1,0 +1,1 @@
+{ "DestinationAddresses": [ "34.230.71.227/32" ], "DestinationPortRanges": [{ "From": 22, "To": 22 } ], "Protocol": "6", "SourceAddresses": [ "11.0.0.0/32" ], "SourcePortRanges": [{ "From": 0, "To": 0 } ] }, "Vpc":{ "Id": "vpc-f1663d98ad28331c7", "Arn": "arn:aws:ec2:us-east-1:123456789012:vpc/vpc-f1663d98ad28331c7" }, "AdditionalDetails": [], "Explanations": [] },

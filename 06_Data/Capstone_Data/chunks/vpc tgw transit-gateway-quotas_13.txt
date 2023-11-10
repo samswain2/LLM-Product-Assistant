@@ -1,0 +1,1 @@
+100 No Maximum multicast throughput per flow 1 Gbps No Maximum aggregate multicast throughput per Availability Zone 20 Gbps No

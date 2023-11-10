@@ -1,0 +1,1 @@
+The summary is about the documentation for AWS Network Manager's Infrastructure Performance. It includes information about the release date and the need for enabling JavaScript to access the documentation. It also mentions the option to allow IAM users to access Infrastructure Performance and asks for feedback on the documentation.

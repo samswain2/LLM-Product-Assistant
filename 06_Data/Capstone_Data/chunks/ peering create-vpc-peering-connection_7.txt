@@ -1,0 +1,1 @@
+Open the Amazon VPC console at https://console.aws.amazon.com/vpc/.In the navigation pane, choose Peering connections.Choose Create peering connection.

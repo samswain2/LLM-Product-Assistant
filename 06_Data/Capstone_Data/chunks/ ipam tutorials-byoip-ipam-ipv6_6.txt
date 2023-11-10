@@ -1,0 +1,1 @@
+Choose if you want this IPAM pool CIDR to be advertisable by AWS over the public internet (--publicly-advertisable or --no-publicly-advertisable).NoteNote that the scope ID must be the ID for the public scope and the address family must be ipv6.To create an IPv6 address pool for all of your AWS resources using the AWS CLI

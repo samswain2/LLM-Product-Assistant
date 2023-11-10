@@ -1,0 +1,1 @@
+AWS Fault Injection Simulator com.amazonaws. region .fis Amazon FinSpace com.amazonaws. region .finspace com.amazonaws. region .finspace-api Amazon Forecast com.amazonaws. region .forecast com.amazonaws. region .forecastquery com.amazonaws. region .forecast-fips com.amazonaws. region .forecastquery-fips Amazon Fraud Detector com.amazonaws. region .frauddetector Amazon FSx

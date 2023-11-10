@@ -1,0 +1,1 @@
+The number of bytes sent from the transit gateway to the attachment. PacketsIn The number of packets received by the transit gateway from the attachment. PacketsOut The number of packets sent by the transit gateway to the attachment. PacketDropCountBlackhole The number of packets dropped because they matched a blackhole route on the transit gateway

@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCIP Address ManagerCreate IPv4 poolsFollow the steps in this section to create an IPv4 IPAM pool hierarchy.The following example shows the hierarchy of the pool structure that you can create with instructions in this guide. In this section, you are creating an IPv4 IPAM pool hierarchy:

@@ -1,0 +1,1 @@
+Attachment policies — Compare how attachments map to segments.

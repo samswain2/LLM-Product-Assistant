@@ -1,0 +1,1 @@
+This documentation is about the AWS API reference for deleting a Traffic Mirror session in Amazon EC2. It provides information about the request parameters, response elements, errors, and related resources. It also mentions the availability of language-specific AWS SDKs for using this API.

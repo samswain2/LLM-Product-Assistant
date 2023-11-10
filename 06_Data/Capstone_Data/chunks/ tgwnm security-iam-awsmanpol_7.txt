@@ -1,0 +1,1 @@
+ec2:DescribeVpnConnections , ec2:DescribeVpcs , ec2:GetTransitGatewayRouteTableAssociations , ec2:SearchTransitGatewayRoutes , ec2:DescribeTransitGatewayPeeringAttachments , ec2:DescribeTransitGatewayConnects and ec2:DescribeTransitGatewayConnectPeers . June 1, 2021

@@ -1,0 +1,1 @@
+this to true, indicating that this setting applies only to segments that have require-attachment-acceptance set to false. If the segment already has the default require-attachment-acceptance, you can set this to inherit segment’s acceptance value.

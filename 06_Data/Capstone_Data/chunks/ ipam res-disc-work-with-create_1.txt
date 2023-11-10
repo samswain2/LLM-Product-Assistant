@@ -1,0 +1,1 @@
+If you are integrating an IPAM with accounts outside of your organizations, this is a required step that must be completed by the Secondary Org Admin Account. For more information about the roles involved in this process, see Process overview.

@@ -1,0 +1,1 @@
+of CIDRs that comply versus do not comply with the allocation rules for IPAM pools in the scope over time. CompliantResourceCidrs: The number of resource CIDRs that comply with the allocation rules. NoncompliantResourceCidrs: The number of resource CIDRs that do not comply with the allocation rules.

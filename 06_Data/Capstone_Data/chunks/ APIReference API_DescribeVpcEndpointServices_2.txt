@@ -1,0 +1,1 @@
+The filters. owner - The ID or alias of the AWS account that owns the service. service-name - The name of the service. service-type - The type of service (Interface | Gateway | GatewayLoadBalancer). supported-ip-address-types - The IP address type (ipv4 | ipv6).

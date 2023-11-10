@@ -1,0 +1,1 @@
+AWSDocumentationAmazon VPCAWS PrivateLinkDocument history for AWS PrivateLinkThe following table describes the releases for AWS PrivateLink.

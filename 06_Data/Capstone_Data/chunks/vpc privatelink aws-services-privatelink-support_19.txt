@@ -1,0 +1,1 @@
+com.amazonaws. region .kms-fips Amazon Keyspaces (for Apache Cassandra) com.amazonaws. region .cassandra com.amazonaws. region .cassandra-fips Amazon Kinesis Data Firehose com.amazonaws. region .kinesis-firehose Amazon Kinesis Data Streams com.amazonaws. region .kinesis-streams AWS Lake Formation com.amazonaws. region .lakeformation AWS Lambda com.amazonaws. region .lambda

@@ -1,0 +1,1 @@
+After your policy is LIVE and the core network has been created, you can begin to add attachments to your core network. See Create an attachment.To view policy deployment statusWhile the policy is deploying, the Core network page displays a message that no live core network can be found. To see the status of the policy deployment, continue with the following step.

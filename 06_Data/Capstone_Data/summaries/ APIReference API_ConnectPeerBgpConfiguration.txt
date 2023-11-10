@@ -1,0 +1,1 @@
+This documentation provides information about the ConnectPeerBgpConfiguration API in AWS Global Networks for Transit Gateways. It describes the core network BGP configuration, including the core network address, ASN, peer address, and peer ASN. The documentation also includes links to language-specific AWS SDKs for more information on using the API.
