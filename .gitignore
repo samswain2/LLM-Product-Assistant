@@ -161,6 +161,7 @@ cython_debug/
 
 # ML specific
 # data/
+vectors.json
 
 # API Documents
 gpt_api_keys.txt
