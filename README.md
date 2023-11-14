@@ -60,6 +60,6 @@ The LLM-Product-Assistant is an interactive Q&A system designed to help users un
 ## Contributors
 
 - **Sam Swain**: Project Lead
-- **Donald Li**: Backend Developer
-- **Brian Hong**: AI Specialist
-- **Wencheng Zhang**: Frontend Developer
+- **Donald Li**: Generative AI Engineer
+- **Brian Hong**: Generative AI Engineer
+- **Wencheng Zhang**: Generative AI Engineer
