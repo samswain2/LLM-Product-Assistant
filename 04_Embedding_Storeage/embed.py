@@ -1,3 +1,24 @@
+"""
+Document Embedding and Uploading Script
+
+This script processes a collection of text documents, generates embeddings using the OpenAI API, 
+and uploads these embeddings to a Pinecone index for efficient similarity searching and retrieval.
+
+Key Components:
+- EmbeddingManager: Manages the process of generating embeddings with OpenAI and handling Pinecone operations.
+- DocumentProcessor: Reads documents and associated metadata, preparing them for embedding generation.
+- generate_and_upload_embeddings: Generates embeddings for a list of documents and uploads them to Pinecone.
+
+Usage:
+- Ensure all necessary libraries are installed and the .env file is properly configured.
+- Set the 'links_csv_path' and 'folder_path' for your documents.
+- Run the script. It will process the documents, generate embeddings, and upload them to Pinecone.
+
+Note:
+- The script requires a Pinecone API key and an OpenAI API key to be set in an .env file.
+- Proper error handling and logging are implemented for robust operation.
+"""
+
 import os
 import csv
 import openai
@@ -43,32 +64,6 @@ class EmbeddingManager:
         except FileNotFoundError:
             logging.error(f"File not found: {file_path}")
             return []
-
-    # def upload_embeddings(self, documents):
-    #     index = pinecone.Index(self.index_name)
-
-    #     # Check if documents list is empty
-    #     if not documents:
-    #         logging.error("No documents provided for embedding upload.")
-    #         return
-
-    #     # Proceed with embedding generation and upload
-    #     vectors = []
-    #     for i, doc in enumerate(documents):
-    #         try:
-    #             # Assuming doc is a dictionary with 'id', 'values', and 'metadata' keys
-    #             if 'id' in doc and 'values' in doc and 'metadata' in doc:
-    #                 vectors.append(doc)
-    #             else:
-    #                 logging.warning(f"Document at index {i} is not in the correct format: {doc}")
-    #         except Exception as e:
-    #             logging.error(f"Error processing document at index {i}: {doc}. Error: {e}")
-
-    #     if vectors:
-    #         index.upsert(vectors=vectors)
-    #         logging.info(f"Number of vectors uploaded: {len(vectors)}")
-    #     else:
-    #         logging.error("No valid vectors found for upload.")
 
     def upload_embeddings(self, documents, batch_size=100):
         index = pinecone.Index(self.index_name)
@@ -155,7 +150,7 @@ def create_vector(index, embedding, document):
 
 if __name__ == "__main__":
     # Paths to your links CSV file and document folder
-    links_csv_path = "06_Data/Capstone_Data/VPC Links List - Sheet1.csv"
+    links_csv_path = "06_Data/Capstone_Data/documentation_qa_datasets/VPC_Documentation_Links.csv"
     folder_path = "06_Data/Capstone_Data/chunks/"
 
     # Create instances of DocumentProcessor and EmbeddingManager
@@ -168,7 +163,7 @@ if __name__ == "__main__":
     test_documents = documents # Embedding all data
 
     # Check if vectors file already exists
-    vectors_file_path = "vectors.json"
+    vectors_file_path = "vectors_temp.json"
     vectors_to_upload = embedding_manager.load_vectors_from_file(vectors_file_path)
 
     if not vectors_to_upload:
