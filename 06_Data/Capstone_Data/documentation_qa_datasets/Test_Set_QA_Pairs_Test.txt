@@ -1,0 +1,24 @@
+URL: https://docs.aws.amazon.com/cli/latest/reference/vpc-lattice/
+Q&A:
+NOT ENOUGH INFORMATION
+
+URL: https://docs.aws.amazon.com/vpc/latest/userguide/vpc-migrate-ipv6.html
+Q&A:
+QUESTION: What are the steps to migrate an Amazon VPC from IPv4 to IPv6, and what considerations should be accounted for?
+
+ANSWER: Migrating an Amazon VPC from IPv4 to IPv6 involves a multi-step process that ensures dual-stack mode operation to accommodate both IP versions, since IPv4 cannot be disabled. The steps include associating an IPv6 CIDR block with your VPC and subnets, updating your route tables to properly route IPv6 traffic, updating your security group rules to include IPv6 rules, and assigning IPv6 addresses to your instances. Important considerations are that there's no direct migration path from IPv4-only to IPv6-only subnets and that enabling IPv6 requires understanding the features of IPv6 addressing within Amazon VPC. One must verify that the current instance type supports IPv6 or resize to a compatible instance type as needed. This process assumes that an existing VPC has both a public and a private subnet, and each step is detailed with instructions for using the Amazon VPC console to make the necessary changes, such as adding IPv6 inbound rules or creating egress-only internet gateways for private subnets.
+
+URL: https://docs.aws.amazon.com/vpc/latest/userguide/modify-vpcs.html
+Q&A:
+NOT ENOUGH INFORMATION
+
+URL: https://docs.aws.amazon.com/vpc/latest/userguide/DHCPOptionSet.html
+Q&A:
+QUESTION: How can you view, create, change, and delete DHCP option sets in Amazon VPC, and what are the considerations when setting them up?
+
+ANSWER: In Amazon Virtual Private Cloud (Amazon VPC), to view DHCP option sets, users can access the Amazon VPC console or use command line interfaces. Creating a custom DHCP option set allows customization with DNS servers, domain names, and more, but once created, it cannot be modified—instead, a new set must be created and associated with the VPC. Associating a DHCP option set with a VPC is essential for domain name resolution; without it, domain name resolution is disabled. Instances in a VPC automatically use new DHCP options within a few hours without needing to be restarted or relaunched, as they renew their DHCP leases. However, if changes need to be picked up immediately, the lease can be renewed manually using the operating system on the instance. A DHCP option set can only be deleted if it's not in use by any VPC; otherwise, the VPC must be associated with a different option set or configured with no set at all. The documentation details the steps to take these actions through both the Amazon VPC console and command line interfaces, highlighting important considerations such as the inability to modify a set after creation, the requirement of associating a single DHCP option set per VPC at a time, and ensuring domain name resolution for instances to have internet access.
+
+URL: https://docs.aws.amazon.com/vpc/latest/userguide/modify-subnets.html
+Q&A:
+NOT ENOUGH INFORMATION
+

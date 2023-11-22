@@ -50,8 +50,8 @@ def parse_text_to_df_revised(file_path, encoding):
 if __name__ == "__main__":
     # Configuration Dictionary
     config = {
-        "file_path": "06_Data/Capstone_Data/documentation_qa_datasets/Documentation_QA_Pairs.txt",
-        "csv_file_path": "06_Data/Capstone_Data/documentation_qa_datasets/Final_Question_Answer_Pairs.csv",
+        "file_path": "06_Data/Capstone_Data/documentation_qa_datasets/Test_Set_QA_Pairs.txt", # Documentation_QA_Pairs <- Original pipeline dataset, replaced temp. to create the test dataset
+        "csv_file_path": "06_Data/Capstone_Data/documentation_qa_datasets/Final_TEST_Question_Answer_Pairs.csv", # Final_Question_Answer_Pairs <- Original pipeline dataset, replaced temp. to create the test dataset
         "encoding": "ISO-8859-1"
     }
 
