@@ -118,12 +118,12 @@ class OpenAIInterface:
 if __name__ == "__main__":
     # Configuration Dictionary
     config = {
-        "input_file_path": "06_Data/Capstone_Data/documentation_qa_datasets/Classified_VPC_Links.csv",
-        "output_file_path": "06_Data/Capstone_Data/documentation_qa_datasets/Documentation_QA_Pairs.txt",
+        "input_file_path": "06_Data/Capstone_Data/documentation_qa_datasets/Test_Set_Links.csv", # Classified_VPC_Links <- Original pipeline dataset, replaced temp. to create the test dataset
+        "output_file_path": "06_Data/Capstone_Data/documentation_qa_datasets/Test_Set_QA_Pairs.txt", # Documentation_QA_Pairs <- Original pipeline dataset, replaced temp. to create the test dataset
         "max_tokens": 1000,
-        "test_mode": True,  # Set to False for full run
-        "test_output_file": "06_Data/Capstone_Data/documentation_qa_datasets/Documentation_QA_Pairs_Test.txt",
-        "test_limit": 10  # Number of links to process in test mode
+        "test_mode": False,  # Set to False for full run
+        "test_output_file": "06_Data/Capstone_Data/documentation_qa_datasets/Test_Set_QA_Pairs_Test.txt", # Documentation_QA_Pairs_Test <- Original pipeline dataset, replaced temp. to create the test dataset
+        "test_limit": 5  # Number of links to process in test mode
     }
 
     # Load API key and create instances
