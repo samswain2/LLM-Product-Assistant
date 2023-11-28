@@ -1,11 +1,13 @@
 """
 This script is designed to transform a CSV file by performing specific data manipulations.
-It changes the names of 'Question' and 'Answer' columns to lowercase and removes the 'URL' column.
-The script is modular, with each transformation step encapsulated in a separate function for easy maintenance and adaptability.
+It changes the names of 'Question' and 'Answer' columns to lowercase, renames the 'llm_answer' column to 'llm_rag_answer',
+and removes the 'URL' column. The script is modular, with each transformation step encapsulated in a separate function 
+for easy maintenance and adaptability.
 
 Functions:
 - load_csv(file_path): Load a CSV file into a DataFrame.
 - lowercase_column_names(df, columns): Change specified column names in a DataFrame to lowercase.
+- rename_column(df, old_name, new_name): Rename a column in a DataFrame.
 - remove_column(df, column): Remove a column from a DataFrame.
 - save_csv(df, file_path): Save a DataFrame to a CSV file.
 - transform_csv(input_path, output_path): Perform the entire transformation process on the CSV file.
@@ -22,6 +24,11 @@ def lowercase_column_names(df, columns):
     df.columns = [col.lower() if col in columns else col for col in df.columns]
     return df
 
+def rename_column(df, old_name, new_name):
+    """Rename a column in a DataFrame."""
+    df.rename(columns={old_name: new_name}, inplace=True)
+    return df
+
 def remove_column(df, column):
     """Remove a column from a DataFrame."""
     return df.drop(column, axis=1)
@@ -34,6 +41,7 @@ def transform_csv(input_path, output_path):
     """Transform the CSV file according to the specified requirements."""
     df = load_csv(input_path)
     df = lowercase_column_names(df, ['Question', 'Answer'])
+    df = rename_column(df, 'llm_answer', 'llm_rag_answer')
     df = remove_column(df, 'URL')
     save_csv(df, output_path)
 
