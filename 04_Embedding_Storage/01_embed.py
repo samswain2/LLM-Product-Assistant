@@ -21,7 +21,9 @@ Note:
 
 import os
 import csv
-import openai
+from openai import OpenAI
+
+client = OpenAI(api_key=self.openai_api_key)
 import pinecone
 from dotenv import load_dotenv
 import logging
@@ -36,14 +38,14 @@ class EmbeddingManager:
         """Initialize EmbeddingManager with Pinecone and OpenAI API keys."""
         self.pinecone_key = os.getenv("PINECONE_KEY")
         self.openai_api_key = os.getenv("OPENAI_KEY")
-        openai.api_key = self.openai_api_key
+        
         pinecone.init(api_key=self.pinecone_key, environment='gcp-starter')
         self.index_name = "document-embeddings"
         self.ensure_index_exists()
 
     def get_embedding(self, text, model="text-embedding-ada-002"):
         text = text.replace("\n", " ")
-        return openai.Embedding.create(input=[text], model=model)['data'][0]['embedding']
+        return client.embeddings.create(input=[text], model=model)['data'][0]['embedding']
 
     def ensure_index_exists(self):
         if self.index_name not in pinecone.list_indexes():
