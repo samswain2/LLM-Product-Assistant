@@ -8,7 +8,7 @@ This folder contains the necessary code for training and fine-tuning the 'Llama 
 ├── dev.ipynb                        <- Jupyter Notebook for conducting the training process 
 │
 ├── Inference/                       <- Folder that contains inference examples
-│   ├── lora_inference.py            <- Jupyter Notebook for conducting the inference process 
+│   ├── lora_inference.ipynb         <- Jupyter Notebook for conducting the inference process 
 │   ├── test.csv                     <- Demo test dataset
 │   ├── output_test.csv              <- Demo test dataset
 │   ├── llm_output_test.csv          <- Demo test dataset
