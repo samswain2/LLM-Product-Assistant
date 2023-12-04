@@ -20,7 +20,7 @@ To execute the code, follow these steps for each environment. Ensure you're star
 #### Running training
 Open Jupyter Notebook, Click 'run' for all code chunk
 
-#### Running minference
+#### Running inference
 ```bash
 cd inference
 ```
