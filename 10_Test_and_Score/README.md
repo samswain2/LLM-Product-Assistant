@@ -17,16 +17,14 @@ This folder (and 08_Lora_and_Rag/ from the parent folder) contains what's needed
     ├── 00_trained_lora_model/
         ├── .gitkeep
 
-# scoring for all three
+# scoring
 ├── scoring/
     ├── score.ipynb
     ├── requirements.txt
     ├── data/ <- test output for different model approaches and scores
         ├── rag_output_test.csv <- RAG
         ├── llm_output_test.csv <- LoRa
-        ├── rag_and_llm_output_test.csv <- RAG + LoRa
         ├── score_by_answer.csv <- score for all at the level of individual Q&A pair
         ├── score_by_model.csv <- score for all at the level of modeling approach
         ├── samples.csv <- Q&A pairs for demo
-        
 ```
