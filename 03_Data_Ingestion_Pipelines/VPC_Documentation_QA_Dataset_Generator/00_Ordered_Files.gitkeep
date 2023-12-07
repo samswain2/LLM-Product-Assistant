@@ -5,4 +5,4 @@
 05_remove_no_content_rows
 
 To get the test set, simply run 04, then run 02 and 03 with 04's output file. Run final outputs through 05 to get final training and testing dataset! 
-**Before runing these, make sure to have train and test sets because the test set is created using the training set rows with "NOT ENOUGH INFORMATION."**
+**Before running these, make sure to have train and test sets because the test set is created using the training set rows with "NOT ENOUGH INFORMATION."**

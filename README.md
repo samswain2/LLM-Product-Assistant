@@ -9,8 +9,7 @@ The LLM-Product-Assistant is an interactive Q&A system designed to help users un
 1. [Key Features](#key-features)
 2. [Technologies Deployed](#technologies-deployed)
 3. [Installation & Setup](#installation--setup)
-4. [Usage](#usage)
-5. [Contributors](#contributors)
+4. [Contributors](#contributors)
 
 ## Key Features
 
