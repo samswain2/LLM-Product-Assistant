@@ -65,7 +65,7 @@ def transform_csv(input_path, output_path):
 
 # Define file paths
 input_path = '06_Data\Capstone_Data\llm_testing_results\lora_plus_rag_testing_output.csv'
-output_path = 'scoring/data/rag_and_llm_output_test.csv'
+output_path = '10_Test_and_Score/scoring/data/rag_and_llm_output_test.csv'
 
 # Run the transformation
 transform_csv(input_path, output_path)
