@@ -25,3 +25,7 @@ Open Jupyter Notebook, Click 'run' for all code chunk
 cd inference
 ```
 Open Jupyter Notebook, Click 'run' for all code chunk
+
+## Contact
+
+For any queries or issues, refer to the project documentation or contact the project maintainers.

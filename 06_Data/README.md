@@ -66,3 +66,7 @@ Folder containing summary files for API references, with a sample of 3 files sho
 For details on the data and how to use them in the project, refer to the individual YAML, CSV, JSON, and TXT files within each sub-directory.
 
 **Note:** Due to the large number of files, only a subset is displayed for directories containing many files. Refer to the respective folders for the complete list of files.
+
+## Contact
+
+For any queries or issues, refer to the project documentation or contact the project maintainers.

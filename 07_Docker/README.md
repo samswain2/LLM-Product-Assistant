@@ -20,3 +20,7 @@ The Dockerfile is used to build a Docker image for running a Flask-based chatbot
 
 #### `requirements.txt`
 This is a standard text file listing all the Python package dependencies required for the Flask chatbot application. The Dockerfile uses this file to install the necessary packages inside the Docker container.
+
+## Contact
+
+For any queries or issues, refer to the project documentation or contact the project maintainers.

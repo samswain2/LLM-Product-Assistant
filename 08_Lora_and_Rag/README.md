@@ -31,3 +31,7 @@ This script is designed to transform and clean a CSV file containing QA data. It
 - Extracting and cleaning the answer part of each entry.
 - Saving the transformed data into a new CSV file.
 - The script streamlines the output format to facilitate easier analysis and scoring of the QA pairs.
+
+## Contact
+
+For any queries or issues, refer to the project documentation or contact the project maintainers.
